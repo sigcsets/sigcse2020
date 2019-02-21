@@ -25,6 +25,14 @@ layout: default
     </a>
   </div>
 </div>
+<div class = "row justify-content-center" style = "margin-top: 20px;">
+  <div class = "col text-center">
+    <a href = "{{ site.data.links.call_for_reviewers }}">
+      Call for Reveiwers
+    </a>
+  </div>
+</div>
+
 
 
 
