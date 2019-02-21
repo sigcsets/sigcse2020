@@ -8,3 +8,4 @@ Gemfile.lock
 _build/venv
 _build/source.bash
 _build/__pycache__
+_build/api_key.py

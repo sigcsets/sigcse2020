@@ -1,9 +1,15 @@
 from airtable import Airtable
+from api_key import api_key
 
+import collections
 import json
 import time
 import os
 import requests
+import yaml
+
+def get_api_key():
+    return api_key
 
 def get_root_dir ():
     # https://bit.ly/2GFNi7e
@@ -30,12 +36,11 @@ def limit_rate ():
     # We are rate limited to 5 requests/second.
     time.sleep(0.25)
 
-# CONTRACT
-# get_all_documents : none -> list
-# PURPOSE
-# Returns a list of JSON values that represent rows in the document base.
-def get_all_documents ():
-    airtable = Airtable('appkeaOULuXaWL3wS', 'Documents')
-    rows = airtable.get_all()
-    limit_rate()
-    return rows
+# https://stackoverflow.com/questions/12470665/how-can-i-write-data-in-yaml-format-in-a-file
+def write_yaml (file, ls):
+    outf = open(get_root_dir() + '/_data/' + file, 'w')
+    yaml.dump(ls, outf, default_flow_style=False)
+
+def sort_dictionary (d):
+    ordered = collections.OrderedDict(sorted(d.items()))
+    return ordered

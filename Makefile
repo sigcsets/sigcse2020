@@ -2,6 +2,8 @@ sigcse=2020
 destination=/home/sigcse/public_html/sigcse$(sigcse)
 
 test:
+	python _build/fetch_docs.py
+	python _build/write_links.py
 	bundle exec jekyll s
 
 upload:

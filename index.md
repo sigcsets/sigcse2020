@@ -20,7 +20,7 @@ layout: default
 
 <div class = "row justify-content-center" style = "margin-top: 20px;">
   <div class = "col text-center">
-    <a href = "{{site.baseurl}}/pdf/sigcse2020-cfp.pdf">
+    <a href = "{{ site.data.links.cfp }}">
       SIGCSE 2020 Call for Participation (PDF)
     </a>
   </div>
