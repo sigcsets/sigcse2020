@@ -14,8 +14,8 @@ def get_api_key():
 def get_root_dir ():
     # https://bit.ly/2GFNi7e
     # https://bit.ly/2ShC8qD
-    os.chdir(os.path.abspath(os.environ['ROOT']))
-    os.chdir('..')
+    os.chdir(os.path.abspath(os.getcwd()))
+    # os.chdir('..')
     return os.curdir
 
 def retrieve_url (url):
