@@ -3,17 +3,31 @@ title: "SIGCSE 2020"
 layout: default
 ---
 
-<div class="row">
-  <div class = "col-sm-4">
-  </div>
-  <div class = "col-sm-4">
-    
-  </div>
-  <div class = "col-sm-4">
+<div class = "row justify-content-center">
+  <div class = "col text-center">
+    <h2>SIGCSE 2020</h2>
+    <p>A Vision for the Next 50 Years</p>
   </div>
 </div>
 
-<div class="countdown"></div>
+<div class = "row justify-content-center">
+  <div class = "col-md-2">
+  </div>
+  <div class = "col-md-9 text-center">
+    <div class = "countdown"></div>
+  </div>
+</div>
+
+<div class = "row justify-content-center" style = "margin-top: 20px;">
+  <div class = "col text-center">
+    <a href = "{{site.baseurl}}/pdf/sigcse2020-cfp.pdf">
+      SIGCSE 2020 Call for Participation (PDF)
+    </a>
+  </div>
+</div>
+
+
+
 
 
 <script>
