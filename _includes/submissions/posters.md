@@ -1,0 +1,1 @@
+Posters describe computer science education materials or research, particularly works in progress. Poster sessions are scheduled to permit one-on-one discussion with conference attendees, typically during session breaks. Prepared handouts are encouraged in order to share your work.

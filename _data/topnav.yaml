@@ -1,0 +1,160 @@
+- name: For Authors
+  subheads:
+  - name: Call for Participation
+    link: /authors/cfp.html
+#  - name: Important Dates
+#    link: /authors/index.html
+  - name: Frequently Asked Questions
+    link: /authors/faq.html
+#    divider: true
+#  - name: Papers
+#    link: /authors/papers.html
+#  - name: Panels
+#    link: /authors/panels.html
+#  - name: Special Sessions
+#    link: /authors/specialsessions.html
+#  - name: Workshops
+#    link: /authors/workshops.html
+#    divider: true
+#  - name: ACM Student Research Competition
+#    link: /authors/src.html
+#  - name: BoFs
+#    link: /authors/bofs.html
+#  - name: Demos
+#    link: /authors/demos.html
+#  - name: Lightning Talks
+#    link: /authors/lightningtalks.html   
+#  - name: Posters
+#    link: /authors/posters.html
+#  - name: Nifty Assignments
+#    link: /authors/nifty.html
+#    divider: true
+#  - name: Pre-Symposium Events
+#    link: /authors/presymposium.html
+#  - name: Affiliated Events
+#    link: /authors/affiliated.html
+#    divider: true
+  - name: PDF 2019 Call for Participation
+    link: /pdf/sigcse2020-cfp.pdf
+- name: For Reviewers
+  subheads:
+#   - name: Paper Review Process & Responsibilities
+#     link: /reviewers/paper-review-process.html
+#   - name: Paper Review Guidelines
+#     link: /reviewers/paper-review-guidelines.html
+#     divider: true
+#   - name: General Review Process
+#     link: /reviewers/general-review-process.html
+#   - name: Panel Review Guidelines
+#     link: /reviewers/panel-review-guidelines.html
+#   - name: Special Session Review Guidelines
+#     link: /reviewers/special-sessions-review-guidelines.html
+#   - name: Workshop Review Guidelines
+#     link: /reviewers/workshop-review-guidelines.html
+#     divider: true
+   - name: Reviewer Signup
+     link: /reviewers/signup.html
+- name: For Attendees
+  subheads:
+   - name: Conference Policies
+     link: /attendees/policies.html
+#   - name: Accessibility
+#     link: /attendees/accessibility.html
+#   - name: Registration and Rates
+#     link: /attendees/index.html#registering    
+#   - name: Hotels 
+#     link: /attendees/index.html#conference-hotels
+#     divider: true
+#   - name: Roommate Database
+#     link: /attendees/index.html#roommatedb
+#   - name: Transportation
+#     link: /attendees/index.html#travel
+#   - name: Student Volunteers
+#     link: /info/studentvolunteers.html
+#     divider: true
+#   - name: SIGCSE 2019 Online Program
+#     link: https://whova.com/embedded/event/sigcs_201902/
+#   - name: SIGCSE 2019 Proceedings
+#     link: https://dl.acm.org/citation.cfm?id=3287324
+#   - name: SIGCSE 2019 PDF Program
+#     link: docs/SIGCSE_2019_Program.pdf
+#   - name: SIGCSE 2019 Best Papers
+#     link: /attendees/bestpapers.html
+#   - name: SIGCSE 2019 Authors & Speakers
+#     link: /attendees/speakers.html
+#   - name: Workshops
+#     link: /attendees/workshops.html   
+#   - name: Pre-Symposium Events
+#     link: /attendees/presymposium.html
+#   - name: Supporter Sessions
+#     link: /attendees/supporter-sessions.html
+#   - name: Exhibitor Map
+#     link: /info/floorplan.html     
+#   - name: Dept. Chairs' Roundtable
+#     link: /attendees/chairs-roundtable.html
+#   - name: SIGCSE Visualization
+#     link: /attendees/visualizations.html
+#     divider: true
+#   - name: Presenter Information
+#     link: /attendees/presenter.html
+#   - name: Session Chair Information
+#     link: /attendees/session-chair.html
+#     divider: true
+#   - name: Minneapolis Visitor Information
+#     link: /attendees/visitor-info.html
+#   - name: Kids' Camp
+#     link: /attendees/kidscamp.html  
+
+
+- name: For Exhibitors
+  subheads:
+    - name: Prospectus
+      link: /info/supporters.html
+    #- name: Interactive Floor Plan
+    #  link: /info/floorplan.html
+    #- name: List of Supporters and Exhibitors
+    #  link: /info/supporters-and-exhibitors.html
+#- name: Program
+#  subheads:
+#    - name: Coming Soon
+#      link: "#"
+  # - name: Keynote and Award Speakers
+  #   link: \#
+  # - name: Overview
+  #   subheads:
+  #   - name: At-a-glance
+  #     link:  \#
+  #   - name: Strands (K-12, CER, ...)
+  #     link: \#
+  #   - name: Workshops
+  #     link: \#
+  #   - name: Panels
+  #     link: \#
+  #   - name: Special Sessions
+  #     link:  \#
+  # - name: Interactive Program
+  #   link: \#
+  # - name: Special Activities
+  #   subheads:
+  #   - name: K-12 Highlights
+  #     link: \#
+  #   - name: Community College Educators
+  #     link:  \#
+  #   - name: Kids Camp
+  #     link: \#
+  # - name: Information for presenters
+  #   link: \#
+- name: Committee
+  subheads:
+    - name: Symposium Co-Chairs
+      link: /info/committees.html#SymposiumCo-Chairs
+    - name: Program Co-Chairs
+      link: /info/committees.html#ProgramCo-Chairs
+    - name: Program Committee
+      link: /info/committees.html#ProgramCommittee
+    - name: Organizing Committee
+      link: /info/committees.html#OrganizingCommittee
+#    - name: International Committee
+#      link: /info/committees.html#InternationalCommitteeMembers
+#    - name: Associate Program Chairs
+#      link: /info/committees.html#AssociateProgramChairs

@@ -1,0 +1,133 @@
+{% assign plural = include.plural %}
+{% for submission in site.data.cfp.master %}
+  {% for type in submission.types %}
+    {% if type.plural == plural %}
+      {% assign subtrack = submission.round %}
+      {% if subtrack == "round0" %}
+        {% assign subdate = site.data.cfp.round0.date %}
+      {% elsif subtrack == "round1" %}
+        {% assign subdate = site.data.cfp.round1.date %}
+      {% elsif subtrack == "round2" %}
+        {% assign subdate = site.data.cfp.round2.date %}
+      {% else %}
+        {% assign subdate = "Oops." %}
+      {% endif %}
+      {% assign subtime = submission.time %}
+      {% assign subnotification = submission.notification %}
+      {% assign subcameraready = submission.cameraready %}
+      {% assign subtimelink = submission.link %}
+      {% assign specialsubmission = site.data.cfp.details[plural].specialsubmission %}
+      {% assign abstractdue = submission.abstractdue %}
+      {% assign abstractlink = submission.abstractlink %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+<!-- DEBUGGING >
+{{include.plural}}
+
+track: {{subtrack}}
+
+date: {{subdate}}
+
+time: {{subtime}}
+
+{{subnotification}}
+
+{{subcameraready}}
+
+{{subtimelink}}
+
+{{specialsubmission}}
+
+-->
+
+<div class="table-responsive" style="margin-top: 20px;">
+  <table class="table">
+      <tbody>
+        {% if abstractdue %}
+        <tr>
+          <td><b>Abstract Due Date </b></td>
+          <td>{{abstractdue}}</td>
+        </tr>
+        <tr>
+          <td><b>Abstract Due Time </b></td>
+          <td> <a href="{{subabstractlink}}">{{subtime}}</a> </td>
+        </tr>
+        {% endif %}
+        <tr>
+          <td><b>Date Due </b></td>
+          <td>{{subdate}}</td>
+        </tr>
+        <tr>
+          <td><b>Time Due </b></td>
+          <td> <a href="{{subtimelink}}">{{subtime}}</a> </td>
+        </tr>
+        <tr>
+          <td><b>Submission Limits </b></td>
+          <td> {{site.data.cfp.details[plural].limits}}
+          {% if site.data.cfp.details[plural].abstract %}
+            ({{site.data.cfp.details[plural].connector}} abstract of {{site.data.cfp.details[plural].abstract}})
+          {% endif %}
+          </td>
+        </tr>
+        <tr>
+          <td><b>Duration </b></td>
+          <td> {{site.data.cfp.details[plural].length}}</td>
+        </tr>
+
+        {% if site.data.cfp.submissionopen %}
+        <tr>
+          <td><b>Submission Link </b></td>
+          <td>
+              <a href="{{site.data.cfp.submissionurl}}">{{site.data.sigcse.upper}} {{site.data.sigcse.year}} EasyChair </a>
+              
+            </td>
+        </tr>
+        {% endif %}
+
+        <tr>
+          <td><b>Notification to Authors </b></td>
+          <td> {{subnotification}}</td>
+        </tr>
+
+        <tr>
+          <td><b>Camera-Ready Deadline </b></td>
+          <td> {{subcameraready}}</td>
+        </tr>
+
+		{% if site.data.cfp.camerareadyinstructionsopen %}
+        <tr>
+          <td><b>Camera-Ready Instructions</b></td>
+          <td>
+			<a href="{{site.data.cfp.camerareadyinstructions}}">@ Sheridan Publishing</a>
+          </td>
+        </tr>
+		{%endif %}
+
+        {% comment %}
+        <!--- FIXME: Why did I do this this way? It is probably to avoid
+        some kind of duplication between two YAML files. However, it makes things
+        a bit more complex. I am going to just do the render up above.
+
+        This may have been because things evolved organically during the first build of the site.
+      -->
+        {% for submission in site.data.reviewers.finalization %}
+          {% assign generateRow = false %}
+          {% for sub in submission.types %}
+            {% if plural == sub.plural %}
+              {% assign generateRow = true %}
+            {% endif %}
+          {% endfor %}
+          {% if generateRow %}
+            <tr>
+              <td> <b>{{submission.event}}</b> </td>
+              <td> {{submission.date}} </td>
+            </tr>
+          {% endif %}
+        {% endfor %}
+        {% endcomment %}
+
+      </tbody>
+    </table>
+</div>

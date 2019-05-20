@@ -1,0 +1,249 @@
+# *@sigcse2020.org
+- name: Symposium Co-Chairs
+  members:
+  - name: Jian Zhang
+    role: Symposium Co-Chair
+    inst: Texas Woman's University
+    email: symposium@sigcse2020.org
+
+  - name: Mark Sherriff
+    role: Symposium Co-Chair
+    inst: University of Virginia
+    email: symposium@sigcse2020.org
+
+- name: Program Co-Chairs
+  members:
+  - name: Sarah Heckman
+    role: Program Co-Chair
+    inst: North Carolina State University
+    email: program@sigcse2020.org
+
+  - name: Pam Cutter
+    role: Program Co-Chair
+    inst: Kalamazoo College
+    email: program@sigcse2020.org
+    
+  - name: Alvaro Monge
+    role: Program Co-Chair
+    inst: California State University, Long Beach
+    email: program@sigcse2020.org
+
+- name: Program Committee
+  members:
+  - name: Christine Alvarado
+    role: Special Sessions and Panels
+    inst: University of California, San Diego
+    email: panels@sigcse2020.org
+
+  - name: Ben Stephenson
+    role: Special Sessions and Panels
+    inst: University of Calgary
+    email: panels@sigcse2020.org
+
+  - name: Dennis Bouvier
+    role: Workshops
+    inst:  Southern Illinois University Edwardsville
+    email: workshops@sigcse2020.org
+
+  - name: Larry Merkle
+    role: Workshops
+    inst: Air Force Institute of Technology
+    email: workshops@sigcse2020.org
+    
+  - name: Stephen Hughes
+    role: ACM Student Research Competition
+    inst:  Coe College
+    email: src@sigcse2020.org
+    
+  - name: Stan Kurkovsky
+    role: ACM Student Research Competition
+    inst:  Central Connecticut State University
+    email: src@sigcse2020.org
+    
+  - name: Mary Anne Egan 
+    role: Birds Of A Feather
+    inst: Siena College 
+    email: bofs@sigcse2020.org
+
+  - name: Dale-Marie Wilson
+    role: Birds Of A Feather
+    inst: University of North Carolina at Charlotte
+    email: bofs@sigcse2020.org
+
+  - name: Lina Battestilli 
+    role: Demos and Lightning Talks
+    inst: North Carolina State University 
+    email: demos@sigcse2020.org
+
+  - name: Jennifer Campbell
+    role: Demos and Lightning Talks
+    inst: University of Toronto
+    email: demos@sigcse2020.org
+
+  - name: Nick Parlante
+    role: Nifty Assignments
+    inst:  Stanford University
+    email: nifty@sigcse2020.org
+
+  - name: Julie Zelenski
+    role: Nifty Assignments
+    inst:  Stanford University
+    email: nifty@sigcse2020.org
+
+  - name: S. Monisha Pulimood 
+    role: Posters
+    inst: The College of New Jersey 
+    email: posters@sigcse2020.org
+    
+  - name: Ruth Anderson
+    role: Posters
+    inst: University of Washington
+    email: posters@sigcse2020.org
+
+- name: Organizing Committee
+  members:    
+  - name: Diana Cukierman
+    role: Pre-Symposium and Affiliated Events
+    inst: Simon Fraser University
+    email: events@sigcse2020.org
+    
+  - name: Melanie Williamson
+    role: Pre-Symposium and Affiliated Events
+    inst: Bluegrass Community and Technical College
+    email: events@sigcse2020.org    
+
+  - name: Rachelle Kristof Hippler
+    role: Registration
+    inst: Baldwin Wallace University
+    email: registration@sigcse2020.org
+
+  - name: Cary Laxer
+    role: Registration
+    inst:  Rose-Hulman Institute of Technology
+    email: registration@sigcse2020.org
+
+  - name: Larry Merkle
+    role: Registration
+    inst: Air Force Institute of Technology
+    email: registration@sigcse2020.org
+
+  - name: Stephan Krusche
+    role: Publications
+    inst:  Technical University of Munich
+    email: publications@sigcse2020.org
+
+  - name: Leen-Kiat Soh
+    role: Web & Database Administrator
+    inst:  University of Nebraska,Lincoln
+    email: webmaster@sigcse2020.org
+
+  - name: Adam Blank
+    role: Web & Database Administrator
+    inst:  California Institute of Technology
+    email: webmaster@sigcse2020.org
+
+  - name: Matt Jadud
+    role: Web & Database Administrator
+    inst:  Bates College
+    email: webmaster@sigcse2020.org
+    
+  - name: Scott McElfresh
+    role: Treasurer
+    inst: Longwood University
+    email: treasurer@sigcse2020.org
+
+  - name: Charles Wallace
+    role: Evaluations
+    inst:  Michigan Technological University
+    email: evaluations@sigcse2020.org
+
+  - name: Dave Musicant
+    role: Supporter/Exhibitor Liaison
+    inst:  Carleton College
+    email: exhibitor@sigcse2020.org
+
+  - name: Jodi Tims
+    role: Supporter/Exhibitor Liaison
+    inst:  Baldwin Wallace University
+    email: exhibitor@sigcse2020.org
+    
+  - name: Mark Floryan
+    role: Student Volunteers & Activities
+    inst: University of Virginia
+    email: volunteers@sigcse2020.org
+
+  - name: Chris Gregg
+    role: Student Volunteers & Activities
+    inst:  Stanford University
+    email: volunteers@sigcse2020.org
+
+  - name: Timothy Yuen
+    role: Student Volunteers & Activities
+    inst:  University of Texas at San Antonio
+    email: volunteers@sigcse2020.org
+
+  - name: Sara Melnick
+    role: Student Volunteers & Activities
+    inst: Independent
+    email: volunteers@sigcse2020.org
+    
+  - name: Mohsen Dorodchi
+    role: Accessibility Liaison
+    inst: University of North Carolina at Charlotte
+    email: accessibility@sigcse2020.org
+ 
+  - name: Ria Galanos
+    role: K-12 Liaison
+    inst: Thomas Jefferson High School for Science and Technology 
+    email: k12@sigcse2020.org
+    
+  - name: Susan Mengel
+    role: K-12 Liaison
+    inst: Texas Tech University
+    email: k12@sigcse2020.org
+
+  - name: Cara Tang
+    role: Community College Liaison
+    inst: Portland Community College and ACM CCECC
+    email: cc@sigcse2020.org
+
+  - name: Brett A. Becker
+    role: International Liaison
+    inst:  University College Dublin
+    email: international@sigcse2020.org
+
+  - name: Meghan Allen
+    role: Kids’ Camp
+    inst:  University of British Columbia
+    email: kidscamp@sigcse2020.org
+    
+  - name: Maureen Doyle
+    role: Kids’ Camp
+    inst:  Northern Kentucky University
+    email: kidscamp@sigcse2020.org
+
+  - name: Zach Butler
+    role: Puzzles, Social, & Board Games
+    inst:  Rochester Institute of Technology
+    email: boardgames@sigcse2020.org
+
+  - name: Michael Ball
+    role: Publicity and Social Media
+    inst:  University of California, Berkeley
+    email: publicity@sigcse2020.org
+
+  - name: Swapneel Sheth
+    role: Publicity and Social Media
+    inst:  University of Pennsylvania
+    email: publicity@sigcse2020.org
+
+  - name: Pam Wiese
+    role: Local Arrangements
+    inst:  Mt. Hood Community College
+    email: local@sigcse2020.org 
+
+    
+#- name: International Committee Members
+#  members:
+#   -name:
+#     inst:

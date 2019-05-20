@@ -1,0 +1,186 @@
+submissionopen: true
+submissionurl: "https://easychair.org/conferences/?conf=sigcse2020"
+
+camerareadyinstructionsopen: false
+camerareadyinstructions: "http://www.sheridanprinting.com/typedept/sigcse2019.htm" 
+#UPDATE camera ready instructions
+
+reviewer-signup: http://sigcse2020.org/reviewing
+
+symposiumchairsemail: symposium@sigcse2020.org
+programchairsemail: program@sigcse2020.org
+
+# Paper Abstract Deadline + Pre-Symposium/Affiliated Events Deadline
+round0: 
+  timestamp: "2019-08-23T00:23:59"
+  date: "Friday, August 23, 2019"
+
+#  Full  Papers,  Panels,  Special  Sessions  &  Workshops
+round1:
+  timestamp: "2019-08-30T00:23:59"
+  date: "Friday, August 30, 2019"
+
+# ACM SRC, BoFs,  Demos,  Lightning  Talks,  Nifty, Posters
+round2:
+  timestamp: "2019-10-18T00:23:59"
+  date: "Friday, October 18, 2019"
+
+  
+# Paper Reviewing
+bidstart: "Friday, August 23, 2019"
+bidend: "Friday, August 30, 2019"
+reviewstart: "Saturday, August 31, 2019"
+reviewend: "Wednesday, September 18, 2019"
+discussionstart: "Thursday, September 19, 2019" 
+discussionend: "Wednesday, September 25, 2019"
+
+# Round 1 Non-Paper Reviewing
+r1bidstart: "Saturday, August 31, 2019"
+r1bidend: "Thursday, September 5, 2019"
+r1reviewstart: "Friday, September 6, 2019"
+r1reviewend: "Saturday, September 21, 2019"
+r1discussionstart: "Sunday, September 22, 2019" 
+r1discussionend: "Wednesday, September 26, 2019"
+
+# Round 2 Non-Paper Reviewing
+r2bidstart: "Saturday, October 19, 2019"
+r2bidend: "Tuesday, October 22, 2019"
+r2reviewstart: "Wednesday, October 23, 2019"
+r2reviewend: "Wednesday, November 6, 2019"
+r2discussionstart: "Thursday, November 7, 2019" 
+r2discussionend: "Wednesday, November 13, 2019"
+
+
+master:
+  #Pre-symposium events, Affiliated Events
+  - time: "23:59 AoE (Baker Island, UTC-12h)"
+    notification: "Rolling notification"
+    round: round0
+    types:
+      - plural: Pre-Symposium Events
+        singular: Pre-Symposium Event
+        include: presymposium
+      - plural: Affiliated Events
+        singular: Affiliated Event
+        include: affiliated
+
+  # Paper Abstracts
+  - time: "23:59 AoE (Baker Island, UTC-12h)"
+    round: round0
+    types:
+      - plural: Paper Abstracts
+        singular: Paper Abstract
+        include: papers
+
+  # Papers
+  - time: "23:59 AoE (Baker Island, UTC-12h)"
+    notification: "Friday, October 4, 2019"
+    cameraready: "Sunday, December 1, 2019"
+    abstractdue: "Friday, August 23, 2019"
+    round: round1
+    types:
+      - plural: Papers
+        singular: Paper
+        include: papers
+
+  # Panels, Special Sessions, Workshops
+  - time: "23:59 AoE (Baker Island, UTC-12h)"
+    notification: "Friday, October 4, 2019"
+    cameraready: "Sunday, December 1, 2019"
+    round: round1
+    types:
+      - plural: Panels
+        singular: Panel
+        include: panels
+      - plural: Special Sessions
+        singular: Special Session
+        include: specialsessions
+      - plural: Workshops
+        singular: Workshop
+        include: workshops
+
+  # ACM SRC, BoFs, Demos, LTs, Nifty, Posters
+  - time: "23:59 AoE (Baker Island, UTC-12h)"
+    notification: "Friday, November 15, 2019"
+    cameraready: "Wednesday, December 11, 2019"
+    round: round2
+    types:
+      - plural: ACM Student Research Competition
+        singular: ACM Student Research Competition
+        include: src
+      - plural: Birds of a Feather
+        singular: Birds of a Feather
+        include: bofs
+      - plural: Demos
+        singular: demo
+        include: demos
+      - plural: Lightning Talks
+        singular: Lightning Talk
+        include: lightningtalks
+      - plural: Nifty Assignments
+        singular: Nifty Assignment
+        include: nifty
+      - plural: Posters
+        singular: Poster
+        include: posters
+
+
+# Details are keyed off the plural from the "master" above.
+details:
+  Pre-Symposium Events:
+    limits: "2 pages (including abstract of 250 words)"
+    length: "Morning (8:30-Noon, break 10-10:30 am),
+      Afternoon (1:30-5 pm, break 3-3:30 pm), or
+      All Day (8:30 am-5 pm, lunch, two breaks)"
+    specialsubmission: true
+  Affiliated Events:
+    limits: "2 pages (including abstract of 250 words)"
+    length: "Varies"
+    specialsubmission: true
+  #Round 1
+  Papers:
+    limits: "6 pages + 1 page for references"
+    length: "25 minutes"
+  Panels:
+    limits: "2 pages"
+    length: "75 minutes"
+  Special Sessions:
+    limits: "2 pages"
+    length: "75 minutes"
+  Workshops:
+    limits: "3 pages (including title page)"
+    connector: "including"
+    abstract: "250 words"
+    length: "3 hours"
+  # Round 2
+  ACM Student Research Competition:
+    limits: "2 pages"
+    connector: "including"
+    abstract: "250 words"
+    length: "3.25 hours (first round: poster session) and 1.25 hours (second round: presentation)"
+    specialsubmission: true
+  Birds of a Feather:
+    limits: "1 page"
+    abstract: "250 words"
+    connector: "including"
+    length: "45 minutes"
+  Demos:
+    limits: "2 pages"
+    connector: "including"
+    abstract: "250 words"
+    length: "45 minutes (during breaks)"
+  Lightning Talks:
+    limits: "1 page, 500 words max."
+    connector: "including"
+    abstract: "250 words"
+    length: "5 minutes"
+  Nifty Assignments:
+    limits: "<a href='http://nifty.stanford.edu/info.html'>http://nifty.stanford.edu/info.html</a>"
+    length: "<a href='http://nifty.stanford.edu/info.html'>http://nifty.stanford.edu/info.html</a>"
+  Posters:
+    limits: "2 pages"
+    abstract: "1 page extended abstract"
+    connector: "including"
+    length: "2 hours (poster session)"
+
+lastupdate: "May 20, 2019"

@@ -1,0 +1,267 @@
+---
+layout: default
+---
+
+<div class="row" style="padding-top: 20px;">
+  <div class="col-sm-12">
+  </div>
+</div>
+
+<div class="row" style="margin-bottom: 20px;">
+  <div class="col-sm-6"> <!-- Start Left Hand Side -->
+    <h3 style="margin-top:-6px;">SIGCSE {{site.data.sigcse.year}} {{site.data.sigcse.slogan}}</h3>
+    <h4>{{site.data.sigcse.date.month}}
+        {{site.data.sigcse.date.start}} - {{site.data.sigcse.date.end}},
+        {{site.data.sigcse.location.city}}, {{site.data.sigcse.location.state}},
+      {{site.data.sigcse.location.country}}</h4>
+  <p>
+  The SIGCSE Technical Symposium is the largest computing education conference worldwide organized by ACM SIGCSE. It attracts over 1,500 researchers, educators, and others interested in improving computing education in K-12 and higher education. 
+  </p>
+  
+<!--  <div class = "alert alert-warning" style="margin-top: 23px">
+    <span class="glyphicon glyphicon-align-left" aria-hidden="true"></span>
+      <a href="https://sigcse2020.sigcse.org/" target="_blank">See you at SIGCSE 2020 in Portland, OR - March 11-14, 2020</a>
+  </div>
+  
+  <div class = "alert alert-danger" style="margin-top: 23px">
+    <span class="glyphicon glyphicon-align-left" aria-hidden="true"></span>
+      <a href="https://www.surveymonkey.com/r/8L6Q3NL" target="_blank">SIGCSE 2019 EVALUATION</a>
+  </div>
+    
+  <div class = "alert alert-info" style="margin-top: 23px">
+    <span class="glyphicon glyphicon-align-left" aria-hidden="true"></span>
+      <a href="https://whova.com/embedded/event/sigcs_201902/" target="_blank">SIGCSE 2019 CONFERENCE SCHEDULE</a>
+  </div>
+  
+  <div class = "alert alert-info" style="margin-top: 23px">
+    <span class="glyphicon glyphicon-align-left" aria-hidden="true"></span>
+      <a href="https://dl.acm.org/citation.cfm?id=3287324" target="_blank">SIGCSE 2019 PROCEEDINGS</a> 
+  </div>
+  -->
+
+
+  <div class="row">
+    <div class="col-sm-12">
+        <h3 style="text-shadow: 1px 1px 1px; border-bottom: 1px solid #ccc;">Keynote Speakers - Forthcoming</h3>
+    </div>
+  </div>
+
+
+<!-- Provide names in bold below
+  <div class="row"> 
+      <div class="col-sm-3 text-center"></div>
+      <div class="col-sm-3 text-center"></div>
+      <div class="col-sm-3 text-center"></div>
+      <div class="col-sm-3 text-center"></div>
+  </div>
+-->
+  
+<!-- Picture row
+  <div class="row">  
+    
+    <div class="col-sm-3 text-center"> 
+      
+      <img  src="images/speakers/"
+            alt=""
+            height="140px">
+    </div>
+    <div class="col-sm-3 text-center"> 
+      
+      <img  src="images/speakers/"
+            alt=""
+            height="140px">
+    </div>
+  
+    <div class="col-sm-3 text-center"> 
+      
+      <img  src="images/speakers/"
+            alt=""
+            height="140px">
+    </div>
+
+    <div class="col-sm-3 text-center"> 
+      
+      <img  src="images/speakers/"
+            alt=""
+            height="140px">
+    </div>
+  </div> 
+--> 
+ 
+<!-- Keynote detail row
+  <div class="row"> 
+      <div class="col-sm-3 text-center">
+        Opening <br>Keynote
+        <br/>
+        <a href="info/">abstract/bio</a>
+		<br />
+      </div>
+      <div class="col-sm-3 text-center">
+        First Timers'<br>Luncheon
+        <br/>
+        <a href="info/">abstract/bio</a>
+      </div>
+      <div class="col-sm-3 text-center">
+        Friday<br>Keynote
+        <br/>
+        <a href="info/">abstract/bio</a>
+		<br/>
+		
+      </div>
+      <div class="col-sm-3 text-center">
+        Closing <br>Keynote
+        <br/>
+        <a href="info/">abstract/bio</a>
+  </div>
+-->
+
+  <div class="row"><!-- start supporters -->
+    {% for category in site.data.supporters %}
+      <div class="row">
+          <h3 class="text-center" style="text-shadow: 1px 1px 1px; border-bottom: 1px solid #ccc;">{{category[0]}} Supporters</h3>
+      </div>
+      {% assign mod = 0 %}
+      {% assign modulus = 3 %}
+      {% capture span %}{{ 12 | divided_by: modulus }}{% endcapture %}
+      {% capture subone %}{{modulus | minus: 1}}{% endcapture %}
+      <!-- SPAN: {{span}} SUBONE: {{subone}} -->
+
+      {% for supporter in category[1]  %}
+        {% capture mod %}{{ forloop.index0 | mod: modulus }}{% endcapture %}
+        {% if mod == '0' or forloop.first %}
+          <div class="row">
+        {% endif %}
+
+        <!-- SPONSOR: {{mod}} -->
+        <div class="col-md-{{span}}" >
+      	  <div class="thumbnail" style="border: 0px; padding-top: 40px;">
+            <h5 class="text-center" style="margin-top: -25px; color: black;">{{supporter.name}}</h3>
+            <a href="{{supporter.link}}">
+      		    <img alt="{{supporter.name}}"
+                   src="images/supporters/200s/{{supporter.image}}"
+                   />
+            </a>
+      	  </div>
+        </div>
+
+        {% if mod == subone or forloop.last %}
+        </div><!-- end row -->
+        {% endif %}
+
+      {% endfor %}
+    {% endfor %}
+  </div><!-- end supporters -->
+
+
+	</div> <!-- End Left Hand Side -->
+
+  <div class="col-sm-5 col-sm-offset-1"> <!-- Start Right Hand Side -->
+    
+    <div class="row">
+      <img  class="img-responsive"
+            src = "images/logo/sigcse2020-bridge.png"
+            alt = "Initial SIGCSE 2020 Logo"
+			/>
+
+    </div>
+<div class="row">
+    <div class="col-md-12">
+      <table class="table table-striped">
+        <thead style="font-weight: bold;">
+          <tr>
+            <td> Upcoming Dates </td>
+            <td> Event </td>
+          </tr>
+        </thead>
+        <tbody>
+       <!--   <tr>
+            <td> Feb 7th </td>
+            <td> Hotel Conference Rate Ends</td>
+          </tr>
+          <tr>
+            <td> Feb 8th </td>
+            <td> Early Registration Ends</td>
+          </tr>
+          <tr>
+            <td> Feb 28th </td>
+            <td> Late Registration Ends </td>
+          </tr>
+	    -->
+          <tr>
+		    <td> By Aug 23 </td>
+			<td> Pre-Symposium / Affiliated Events Proposals Due </td>
+		  </tr>
+		  <tr>
+            <td> Aug 23 </td>
+            <td> Paper Abstracts Due </td>
+          </tr>
+          <tr>
+            <td> Aug 30 </td>
+            <td> Full Papers, Panels, Special Sessions &amp; Workshops Due </td>
+          </tr>
+          <tr>
+            <td>Oct 4</td>
+            <td>Paper, Panels, Special Sessions &amp; Workshops Notifications</td>
+          </tr>
+          <tr>
+            <td> Oct 18 </td>
+            <td>All Other Submissions Due</td>
+          </tr>
+		      <tr>
+            <td> Nov 15 </td>
+            <td>Other Submissions Notifications</td>
+          </tr>
+
+          
+          <!--<tr>
+          <td> Jan 15 </td>
+          <td> Early Registration Ends </td>
+        </tr>
+        <tr>
+          <td> Feb 1 </td>
+          <td> Hotel Group Rate Deadline </td>
+        </tr>
+        -->
+        
+      
+          <tr>
+            <td> Mar 11 </td>
+            <td> <b>SIGCSE 2020!</b> </td>
+          </tr>
+
+        </tbody>
+      </table>
+    </div>
+    <div class="col-md-12">
+	{% include small-follow-links.html %}
+	</div>
+    <div class="col-md-12">
+      <h4>News</h4>
+      {% include front-news.html %}
+    </div>
+  </div>	<!-- End News -->
+  
+  
+  </div><!-- End Right Hand Side -->
+
+  
+
+  </div>
+
+</div>
+
+<!-- Deadlines are useful, but once they are past, they don't matter -->
+<!--
+    {% for dead in site.data.sigcse.deadlines %}
+    <div class="row">
+      <div class="col-sm-6" style="font-weight: bold;">
+        {{dead.date}}
+      </div>
+      <div class="col-sm-6">
+        {% for type in dead.items %}
+          {{type}}{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+      </div>
+    </div>
+    {% endfor %}
+-->

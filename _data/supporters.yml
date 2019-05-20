@@ -1,0 +1,53 @@
+Platinum:
+#   - name: "GitHub Education"
+#     image: github-education-200.png
+#     link: "https://education.github.com/" 
+#   - name: "Google, Inc."
+#     image: google-200.png
+#     link: "https://www.google.com/edu/cs/"
+#   - name: "Microsoft"
+#     image: microsoft-200.png
+#     link: "https://microsoft.com/"
+    
+Gold:
+
+#   - name: "Codio"
+#     image: codio-200.png
+#     link: "https://codio.com/"
+#   - name: "Intel"
+#     image: intel-200.png
+#   - name: "Oracle Academy"
+#     image: oracle-2019-200.png
+#     link: "http://www.oracle.com/academy/" 
+#   - name: "Turing's Craft"
+#     image: turingscraft-200.png
+#     link: "https://www.turingscraft.com/"
+#   - name: "zyBooks"
+#     image: zybooks-200.png
+#     link: "https://www.zybooks.com/sigcse-2019/"
+
+Silver:
+#  - name: ABET
+#    image: abet-new-100.png
+#    link: "http://www.abet.org/"
+#  - name: AWS Educate
+#    link: "https://aws.amazon.com/education/awseducate/"
+#    image: aws-educate-200.png
+#  - name: IBM
+#    image: ibm-200.png
+#    link: "http://ibm.com/"
+#  - name: Mimir
+#    image: mimir-200.png
+#    link: "http://www.mimirhq.com"
+#  - name: Turnitin
+#    image: turnitin-200.png
+#    link: "https://www.turnitin.com/"
+#  - name: "Vocareum, Inc"
+#    image: vocareum-200.png
+#    link: "https://www.vocareum.com/"
+    
+Bronze:
+#  - name: AnitaB.org
+#    image: anitab-200.png
+#    link: "https://anitab.org/"
+#    link: "https://anitab.org/"

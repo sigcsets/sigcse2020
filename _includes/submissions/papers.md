@@ -1,0 +1,1 @@
+Papers describe an educational research project, classroom experience, teaching technique, curricular initiative, or pedagogical tool. Submitted papers for review will be anonymous. Papers will undergo a blind reviewing process; accepted papers will need to submit a non-anonymous version for publication in the proceedings after acceptance.

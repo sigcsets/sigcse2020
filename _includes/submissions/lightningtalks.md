@@ -1,0 +1,1 @@
+Lightning talks describe works in progress, new and untested ideas, or opportunities for collaborative work. The purpose of a lightning talk can be to start a discussion, find collaborators, or receive input and critique about an idea. Lightning talk presentations will be 5 minutes each and given without media/slide support.

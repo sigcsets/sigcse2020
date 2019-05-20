@@ -1,0 +1,45 @@
+{% comment %}
+SO: {{site.data.cfp.submissionopen}}
+IPap: {{include.ispaper}}
+IPan: {{include.ispanel}}
+{% endcomment %}
+
+{% if include.ispaper %}
+
+Write your paper using the format specified above. Within the anonymized paper, you must provide Category and Subject Descriptors, General Terms, and Keywords based on the ACM classification system. These requirements are described in more detail in the [ACM publication guidelines]({{site.data.publishing.acmpubguidelines}}).
+
+Please note that there are updated proceedings templates as of 2017.  Make sure you are using the updated versions of the templates.  We are using the `ACM_SigConf` template. Recall that you will also need to cut-and-paste or type your text abstract description into a text box during the submission process.
+
+Be sure to choose the appropriate topic areas when submitting. Your choices help in assigning appropriate reviewers to your submission, and assist the reviewers in evaluating the paper from an appropriate perspective.
+
+{% elsif include.ispanel %}
+
+Within the proposal, you must provide Category and Subject Descriptors, General Terms, and Keywords, just as paper authors must do. These requirements are described in more detail in the [ACM publication guidelines]({{site.data.publishing.acmpubguidelines}}).
+
+{% else %}
+
+Write your submission using the format specified above.
+
+{% endif %}
+
+{% if site.data.cfp.submissionopen %}
+
+{% callout warning %}
+Please limit the number of topic choices to no more than 5.  This will help match your submission with reviewers.
+{% endcallout %}
+
+Convert your submission-ready paper into Adobe PDF format. Refer to our [Creating Adobe PDF Documents page](creating_pdf.html) page for assistance.
+
+A PDF version of your submission should be uploaded using [the online submission system - EasyChair]({{site.data.cfp.submissionurl}}).  
+
+Please do not wait until the last minute to submit your documents because that is when everyone else will be connecting to our server!
+
+Make note of the proposal ID number and password assigned to your submission. You will receive an e-mail message confirmation. Spam filters sometimes trap these automatically generated messages so you may need to check your spam trap for the confirmation and later, acceptance or rejection notification.
+
+After receiving confirmation, go to the submission site to review your submission for accuracy. Send e-mail to the chair(s) (see below) if there are any problems.
+
+{% else %}
+
+{% include submission-not-open.html %}
+
+{% endif %}

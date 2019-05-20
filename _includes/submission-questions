@@ -1,0 +1,73 @@
+<h3>Questions</h3>
+
+{% assign count = 0 %}
+{% assign plural = "" %}
+
+{% assign team = include.category %}
+
+{% if include.category == "Demos" %}
+	{% assign team = "Demos and Lightning Talks" %}
+{% endif %}
+{% if include.category == "Lightning Talks" %}
+	{% assign team = "Demos and Lightning Talks" %}
+{% endif %}
+{% if include.category == "Panels" %}
+	{% assign team = "Special Sessions and Panels" %}
+{% endif %}
+{% if include.category == "Special Sessions" %}
+	{% assign team = "Special Sessions and Panels" %}
+{% endif %}
+
+{% for cat in site.data.committees %}
+  {% for member in cat.members %}
+    {% if member.role == team %}
+      {% assign count = count | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+{% comment %}
+Liquid number comparison is awful.
+http://stackoverflow.com/questions/16762714/how-can-i-compare-a-strings-size-length-in-jekylls-liquid-templates
+{% endcomment %}
+
+{% capture plurality %}{{count | minus: 2}}{% endcapture %}
+
+{% unless plurality contains '-'  %}
+  {% assign plural = "s" %}
+{% endunless %}
+
+{% if plurality contains '-' %}
+  {% assign grouping = "Chair" %}
+{% else %}
+  {% assign grouping = "Team" %}
+{% endif %}
+
+
+
+If you have questions about anything discussed above, please contact the <a href="../info/committees.html">{{site.data.main.upper}} {{site.data.main.year}} {{team}} {{grouping}}</a>.
+
+<ul style="">
+{% for category in site.data.committees %}
+  {% for member in category.members %}
+    {% if member.role == team %}
+    <li style="padding-bottom: 10px;"><b>{{member.name}}</b><br/>
+      {{member.inst}} <br/>
+      <a href="mailto:{{member.email}}">{{member.email}}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+
+{% for cochair in site.data.committee %}
+{% if (cochair.title == team) %}
+<li style="padding-bottom: 10px;"><b>{{cochair.name}}</b><br/>
+  {{cochair.institution}} <br/>
+  <a href="mailto:{{cochair.email}}">{{cochair.email}}</a>
+</li>
+{% endif %}
+{% endfor %}
+</ul>
+
+

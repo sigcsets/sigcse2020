@@ -1,23 +1,25 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    {% include top-css.html %}
-    {% include top-js.html %}
-    <title>{{ page.title }}</title>
-  </head>
+
+  {% include head.html %}
+
   <body>
-    
-    <!-- class container-fluid will give 100% across all devices. -->
-    <!-- https://getbootstrap.com/docs/4.1/layout/grid/ -->
-    
-    <div class="container mt-3">
+
+    {% include nav/rendertopnav.html %}
+
+    <div class="wrapper">
+      <div class="row">
+        <div class="col-md-10 col-md-offset-1" >
+          {% if page.showTitle == true %}
+            <h1>{{page.title}}</h1>
+          {% endif %}
           {{ content }}
-    </div>
-    
-    {% include bottom-js.html %}
+        </div> <!-- /col-md-10 content -->
+      </div> <!-- /row -->
+    </div> <!-- /wrapper -->
+
+    {% include footer.html %}
 
   </body>
+
 </html>

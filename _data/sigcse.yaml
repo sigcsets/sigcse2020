@@ -1,0 +1,23 @@
+upper: SIGCSE
+year: 2020
+slogan: A Vision for the Next 50 Years
+date:
+  start: March 11th
+  end: March 14
+location:
+  city: Portland
+  state: Oregon
+  country: USA
+airport:
+  code: PDX
+  name: Portland International Airport
+  url: https://www.flypdx.com/
+  phone: "+1-(877)-739-4636 [TDD: +1-(800)-815-4636]"
+
+registration:
+  isopen: false
+  opendate: "20181226"
+  url: http://bit.ly/sigcse2019registration
+
+volunteers:
+  url: https://www.cs.ubc.ca/~sig-cse/sigcse/user/index.php
