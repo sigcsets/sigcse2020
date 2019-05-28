@@ -1,6 +1,7 @@
 ---
 title: Conference Policies
 showTitle: true
+layout: default
 ---
 
 <h3>SIGCSE Welcomes and Embraces All</h3>

@@ -5,9 +5,9 @@ title: Prospectus
 
 # The Premier Event in <br> Computer Science Education
 
-<!--<div class = "alert alert-success">
- <span class="glyphicon glyphicon-align-left" aria-hidden="true"></span> <a href = "{{ '/docs/SIGCSE_2019_Prospectus.pdf' | prepend: site.baseurl }}">Download the full prospectus as a PDF</a>.
-</div>-->
+<div class = "alert alert-success">
+ <span class="glyphicon glyphicon-align-left" aria-hidden="true"></span> <a href = "{{ '/pdf/SIGCSE_2020_Prospectus.pdf' | prepend: site.baseurl }}">Download the full prospectus as a PDF</a>.
+</div>
 
 <div class = "row">
   <div class = "col-md-6">
@@ -44,7 +44,7 @@ Angelina Streich<br>
 +1.609.344.1333<br>
 
 <p>Support/Exhibitor Liaisons<br>
-<a href="mailto:exhibitor@sigcse2019.org">exhibitor@sigcse2019.org</a><br>
+<a href="mailto:exhibitor@sigcse2020.org">exhibitor@sigcse2020.org</a><br>
 Dave Musicant - Carleton College<br>
 Jodi Tims - Baldwin Wallace University
 

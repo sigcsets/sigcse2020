@@ -7,7 +7,7 @@ showTitle: true
 (You can <a href = "{{ '/pdf/sigcse2020-cfp.html' | prepend: site.baseurl }}">download the PDF CFP</a>)
 
 <div align="center"><strong>The 51st ACM Technical Symposium on Computer Science Education</strong></div>
-<div align="center"><strong>March 11 - March 14, 2020, Minneapolis, MN, USA, http://sigcse2019.sigcse.org</strong></div>
+<div align="center"><strong>March 11 - March 14, 2020, Portland, Oregon, USA, http://sigcse2020.sigcse.org</strong></div>
 
 ## Important Dates
 

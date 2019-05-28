@@ -243,7 +243,42 @@
     email: local@sigcse2020.org 
 
     
-#- name: International Committee Members
-#  members:
-#   -name:
-#     inst:
+- name: International Committee Members
+  members: 
+   - name: Brett Becker
+     inst: University College Dublin
+   - name: Miles Berry
+     inst: University of Roehampton, UK
+   - name: Jennifer Campbell
+     inst: University of Toronto
+   - name: Ernesto Cuadros-Vargas
+     inst: UTEC, Peru
+   - name: Paul Denny
+     inst: University of Auckland, New Zealand
+   - name: Rodrigo Duran
+     inst: Aalto University
+   - name: Orit Hazzan
+     inst: Technion, Israel
+   - name: Arto Hellas
+     inst: University of Helsinki, Finland
+   - name: Amey Karkare
+     inst: IIT Kanpur
+   - name: Carsten Kleiner
+     inst: Hochschule Hannover, Germany
+   - name: Viraj Kumar
+     inst: Institute of Science
+   - name: Chao Mbogo
+     inst: Kenya Methodist University
+   - name: Chris McDonald
+     inst: University of Western Australia
+   - name: Marco Silva
+     inst: Federal University of Technology, Brazil
+   - name: Lenandlar Singh
+     inst: University of Guyana
+   - name: Hironori Washizaki
+     inst: Waseda University, Japan
+   - name: Gary Wong
+     inst: University of Hong Kong, Hong Kong
+   - name: Ming Zhang
+     inst: Peking University, China
+
