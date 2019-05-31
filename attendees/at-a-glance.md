@@ -1,6 +1,7 @@
 ---
 title: SIGCSE 2020 At-A-Glance
 showTitle: true
+layout: default
 ---
           
 <div class="alert alert-success" role="alert">
