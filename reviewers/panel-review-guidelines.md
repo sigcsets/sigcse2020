@@ -3,7 +3,7 @@ layout: default
 title: Panel Review Guidelines
 ---
 
-## SIGCSE 2019 Panel Review Guidelines
+## SIGCSE 2020 Panel Review Guidelines
 
 Panel sessions provide an opportunity for expert panel members to present their views on a specific topic and then to discuss these views among themselves and with the audience. Usually a panel session starts with a brief introduction of the panel topic and the participants, followed by short presentations by the panelists giving their views. They are scheduled in standard conference spaces. The session must allow sufficient opportunity (about 30 minutes) for an interactive question and answer period involving both the panelists and the audience.
 

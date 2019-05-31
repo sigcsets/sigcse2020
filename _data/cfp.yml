@@ -129,8 +129,8 @@ master:
 details:
   Pre-Symposium Events:
     limits: "2 pages (including abstract of 250 words)"
-    length: "Morning (8:30-Noon, break 10-10:30 am),
-      Afternoon (1:30-5 pm, break 3-3:30 pm), or
+    length: "Morning (8:30-Noon, break 10-10:30 am),<br/>
+      Afternoon (1:30-5 pm, break 3-3:30 pm), or<br/>
       All Day (8:30 am-5 pm, lunch, two breaks)"
     specialsubmission: true
   Affiliated Events:
@@ -148,9 +148,9 @@ details:
     limits: "2 pages"
     length: "75 minutes"
   Workshops:
-    limits: "3 pages (including title page)"
+    limits: "3 pages"
     connector: "including"
-    abstract: "250 words"
+    abstract: "250 words, title page, and references"
     length: "3 hours"
   # Round 2
   ACM Student Research Competition:
@@ -175,12 +175,12 @@ details:
     abstract: "250 words"
     length: "5 minutes"
   Nifty Assignments:
-    limits: "<a href='http://nifty.stanford.edu/info.html'>http://nifty.stanford.edu/info.html</a>"
-    length: "<a href='http://nifty.stanford.edu/info.html'>http://nifty.stanford.edu/info.html</a>"
+    limits: "Relevant materials in a zip"
+    length: "5-10 minutes in the Nifty Assignments session"
   Posters:
     limits: "2 pages"
-    abstract: "1 page extended abstract"
-    connector: "including"
+    abstract: "1 page"
+    connector: "including extended"
     length: "2 hours (poster session)"
 
 lastupdate: "May 20, 2019"

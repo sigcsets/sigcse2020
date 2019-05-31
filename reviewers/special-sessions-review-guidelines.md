@@ -3,7 +3,7 @@ layout: default
 title: Special Session Review Guidelines
 ---
 
-## SIGCSE 2019 Special Session Review Guidelines
+## SIGCSE 2020 Special Session Review Guidelines
 
 Special sessions provide an opportunity for SIGCSE community members to customize and experiment with the SIGCSE conference format. Special sessions should NOT replicate existing SIGCSE session formats (i.e., panels, paper presentations, and poster sessions). They are scheduled in standard conference spaces. Within these constraints, authors may design a format that meets their sessions goals.
 

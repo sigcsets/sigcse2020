@@ -8,15 +8,62 @@ showTitle: true
 
 ## What is a Workshop?
 
-Workshops provide an in-depth review of, or introduction to, a topic of interest, and should provide participants with materials and/or ideas that are immediately useful in the classroom. To this end, workshop presenters should provide participants with handouts outlining the workshop material.
+Workshops provide an in-depth review of, or introduction to, a topic of interest. A successful workshop should provide participants with materials and/or ideas that are immediately useful in the classroom. To this end, workshop presenters should provide participants with handouts outlining the workshop material.
 
-**Workshop proposals undergo review but not blind review.** Proposals are evaluated for relevance, anticipated interest, quality, and availability of appropriate facilities. Additionally, the breadth of topics is considered with the aim of having a balanced program. Finally, for workshops that have run before, feedback from prior workshops can be taken into account. You may want to review the list of last year’s accepted SIGCSE workshops prior to submitting a proposal.
+SIGCSE will provide one night free lodging per accepted workshop (not per presenter) at one of the conference hotels. This will be arranged after the accepted workshops have been selected. Please discuss this with your co-presenters and decide who will be using the provided free night.
+ 
+## Review Criteria and Process
 
-SIGCSE will provide one night free lodging per accepted workshop (not per presenter) at one of the conference hotels. This will be arranged after the accepted workshops have been selected. Please discuss this with your co-presenters and decide who will be using the provided free night. 
+**Reviews are not blind.** Proposals are evaluated for relevance, anticipated interest, quality, and availability of appropriate facilities. Additionally, the breadth of topics is considered with the aim of having a balanced program. Finally, for workshops that have run before, feedback from prior workshops may be taken into account. You may want to review the list of last year’s accepted SIGCSE Technical Symposium workshops prior to submitting a proposal.
+
+The proposal has two parts: the full proposal and the EasyChair submission, both of which are discussed in more detail below. 
+
+
+## Full Proposal Content
+
+The full proposal is used only for the review process.The proposal length is {{site.data.cfp.details["Workshops"].limits}} maximum. The required content is as follows.
+
+-   **Title**: A title for the Workshop.
+
+-   **Proposer**: Name, affiliation, email address, and website address of the presenter who will serve as the corresponding author.
+
+-   **Other Presenter(s)**: Names and affiliations of any presenters other than the proposer. All presenters must register for the SIGCSE Technical Symposium and be present for the workshop session, so be certain that you have their commitments before listing them.
+
+-   **Abstract**: An accurate and publishable description of the workshop. Include information about the intended audience to help readers make an informed choice about attending your proposed workshop. URLs are permitted, and abstracts of accepted workshops can be edited in response to reviews. 
+
+-   **Significance and Relevance of the Topic**: Used by reviewers to assess the significance of the topic. Include information about any trends in relation to the topic and possibly describe (or cite) evidence to that effect.
+
+-   **Participant Computer Requirements**: Used by attendees and by reviewers to assess the quality of the proposed workshop. For hands-on workshops, indicate Laptop Required, Laptop Recommended, or Laptop Optional (see “Hands-on Lab-based Workshops” below) and which operating systems are supported (Linux, macOS, Windows, Android, iOS). Describe any special requirements for attendees’ computers. 
+
+-   **Rough Agenda for the Workshop**: Used by reviewers to assess the quality of the proposed workshop. Workshops are three hours long with a 15-minute break that includes refreshments. Explain how you will budget the time, including a realistic amount for attendee questions. Be flexible with respect to the timing of the break, since that must be coordinated with the venue and the other workshops.
+
+-   **Expertise of Presenter(s)**: Used by reviewers to assess the quality of the proposed workshop. Summarize the qualifications of the presenter(s) as they relate to the proposed topic.
+
+-	**Advertisement:** Used to attract possible attendees. Because it is not published in the Symposium proceedings, the advertisement can use less formal language or include details that are not appropriate for the abstract.
+
+-   **Expected Audience**: Used by reviewers to gauge the level of interest Symposium attendees would have in the proposed workshop. Describe the anticipated nature and size of the audience. 
+
+-   **Space and Enrollment Restrictions**: Used by Symposium organizers to assess availability of appropriate facilities and to manage registration and room assignments. Provide the maximum number of participants that you can accommodate. If no limit is specified, we will assume a cap of 30 participants, although if interest is strong, we may seek to raise the limit to 40 or more. Also indicate any special restrictions on the non-A/V configuration of the room (e.g. round tables to facilitate discussion, clear floor space for robots).
+
+
+-   **Audio/Visual Requirements**: Used by Symposium organizers to assess availability of appropriate facilities and to manage A/V equipment. Indicate requirements such as wireless access, wired access, extra power outlets, microphone, digital projector, overhead projector, flip charts and pens, whiteboards, etc. Standard A/V materials and equipment (to be specified at the time of acceptance notifications) will be available for all workshops. In order to cover the costs associated with non-standard items, the minimum number of registrants for a workshop requiring such items may need to be raised.  
+
+-   **Other Critical Information**: Used by reviewers to assess relevance, anticipated interest, and quality of proposed workshop. Include any other notes that will facilitate such assessment.
+
+### What gets published and where?
+
+If the proposal is accepted, the presenter name(s) and affiliation(s), the workshop title, and the abstract as entered in EasyChair appear on the SIGCSE Technical Symposium website, in the printed program, and in the proceedings. The advertisement as entered in EasyChair also appears on the website. 
+
+
+### Sample Proposal
+
+-  [Proposal Example (PDF)](../docs/sigcse-sample-workshop.pdf)
+
+-  [Proposal Example (Word)](../docs/sigcse-sample-workshop.docx)
 
 ## Hands-On Lab-Based Workshops
 
-All hands-on workshops at SIGCSE will use participants’ laptop computers at the conference site. The Symposium Committee will help presenters distribute workshop software to participants prior to the Symposium, e.g., by providing attendee e-mail addresses for software distribution. Distribution of software is the responsibility of the workshop leaders. We recommend that the organizers of each hands-on workshop create their own web page (on their own server) with all necessary software and instructions for installation. To accommodate late registrations, we will collect these URLs and make them available to late registrants when they register on-site. We will also provide presenters with mailing lists containing the emails of current enrollees soon after the close of the early registration window.
+Some SIGCSE Technical Symposium workshops are "hands-on," i.e., participants use their laptop computers at the conference site. Workshop presenters are responsible for distribution of workshop software to participants prior to the Symposium. The SIGCSE Technical Symposium Committee recommends that presenters of hands-on workshops provide enrollees a URL pointing to all necessary software and instructions for installation (SIGCSE cannot host the material, but there are myriad cloud services available). SIGCSE will provide presenters with mailing lists containing the emails of current enrollees soon after the close of the early registration window and again after the close of the late registration window. We will also collect the software distribution URLs and make them available to on-site registrants. 
 
 Proposers of hands-on workshops should indicate which of the following formats they wish for their workshop:
 
@@ -27,51 +74,6 @@ Proposers of hands-on workshops should indicate which of the following formats t
 * **Laptop Optional**. It is not necessary for participants to bring laptops.
 	
 * **Laptop Not Required**. Participants do not need a laptop.
-
-## How Should The Proposal Be Formatted?
-
-Workshop proposals are to be provided in PDF format. The full proposal contains an abstract and a body that describes your Workshop (as detailed below). The abstract needs to appear in two places: in the PDF proposal and in a text box on the submission page.
-
-The full proposal is used for the review process only. If the proposal is accepted, the abstract is the description that appears on the Symposium website and in the Symposium program and proceedings. There is also a new section called advertisement that is new for 2019. This section will also accompany the abstract on the Symposium website. This section will serve the purpose of (along with the abstract) providing information to attract possible attendees. This section can, for instance, use less formal language than what would suit the abstract, or include details that are not appropriate for the abstract. The advertisement will not appear in the proceedings. 
-
-The format for the proposal is as follows.
-
-## Full Workshop Proposal Format
-
-The proposal length is {{site.data.cfp.details["Workshops"].limits}} maximum.
-
--   **Title**: A title for the Workshop.
-
--   **Presenter(s)**: Include name, affiliation, email address, and website address for all presenters. You should expect most correspondence related to the conference to arrive via email. Please check your spam filter if you haven’t received an expected notification because the auto-responses generated by the conference software are sometimes blocked.  Be certain that all presenters are committed to attend the Symposium.  All presenters must register for the SIGCSE conference and be present for the Workshop session.
-
--   **Abstract**: A description of the Workshop. The same abstract will also need to be submitted via a text box on the submission page. Include information about the intended audience and computing requirements in the abstract to help readers make an informed choice about attending your workshop, should it be accepted.  Please be sure that your description is accurate and that both submitted copies (here in the Workshop Proposal, and in the submission text box) are exactly the same.
-
--	**Advertisement:** This section will also accompany the abstract on the Symposium website. This section will serve the purpose of (along with the abstract) providing information to attract possible attendees. This section can, for instance, use less formal language than what would suit the abstract, or include details that are not appropriate for the abstract. The advertisement will not appear in the proceedings.
-
--   **Significance and Relevance of the Topic**: Please include information about any trends in relation to the topic and possibly describe (or cite) evidence to that effect. Your objective here is to explain why the topic is significant.
-
--   **Expected Audience**: Briefly describe the nature and size of the expected audience. This information will help gage the level of interest SIGCSE attendees will have in the Workshop.
-
--   **Space and Enrollment Restrictions**: Please tell us the maximum number of participants that you can accommodate. If no limit is specified, we will assume a cap of 30 participants. Be aware that, if interest is strong, we may seek to raise the limit to 40 or more. Also indicate any special restrictions on the configuration of the room (flip chart easels, clear floor space for robots, etc.).
-
--   **Expertise of Presenter(s)**: Give a summary of the qualifications of the presenter(s) as it relates to the topic being proposed.
-
--   **Rough Agenda for the Workshop**: Timing details would be helpful here. Explain what the attendees can expect. Be sure to budget a realistic amount of time for questions from attendees. Please keep in mind the time limit of 3 hours for your workshop, including a 15 minute break.  Prior to the Symposium workshop presenters will be informed at what time the break refreshments will be available.
-
--   **Audio/Visual and Computer Requirements**: Indicate your A/V requirements, such as wireless access, wired access, extra power outlets, microphone, digital projector, overhead projector, flip charts and pens, whiteboards, etc. Please note that certain A/V materials and equipment will be available for all workshops. Specialty items may require the minimum registrants for a workshop to be raised to cover additional costs. At the time of acceptance, more information about the standard vs. non-standard A/V equipment will be available. For hands-on workshops, indicate Laptop Recommended, Laptop Required, or Laptop Optional (see “ Hands-on Lab-based Workshops “ above) and which operating systems are supported (Linux, Mac, Windows, Android, iOS). Describe any special requirements for attendees’ computers. The easychair submission will also allow you to select specific A/V requirements. Please ensure that this reflects the requirements stated here. 
-
--   **Other Critical Information**: Other notes that will help to evaluate your proposal according to the evaluation criteria described above.
-
-## Workshop Abstract
-
-The abstract is the description of the Workshop that will appear on the conference web pages. The description is limited to and must match verbatim the abstract section of the Workshop Proposal. The Workshop abstract must be submitted in plain text. The abstract for an accepted proposal may contain a URL with more information. (Abstracts of accepted Workshops can be edited in response to reviews.)
-
-### Sample Proposal
-
--  [Proposal Example (PDF)](../docs/sigcse-sample-workshop.pdf)
-
--  [Proposal Example (Word)](../docs/sigcse-sample-workshop.docx)
-
 
 ## How Do I Submit My Proposal?
 

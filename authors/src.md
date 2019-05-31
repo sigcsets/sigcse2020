@@ -6,17 +6,17 @@ showTitle: true
 
 {% include submissiondetails.html plural="ACM Student Research Competition" %}
 
+## ACM Student Research Competition
+
 The ***ACM Student Research Competition*** held at the 
-SIGCSE {{site.data.main.year}} conference will consist of two categories of competition,
-graduate and undergraduate, with prizes awarded based on judging during
-the conference. **A submission to the Student Research Competition should describe recently completed or ongoing student research in any of the topic areas covered by SIGCSE Technical Symposium.**
+SIGCSE Technical Symposium will consist of two categories of competition, graduate and undergraduate, with prizes awarded based on judging during the conference. **A submission to the Student Research Competition should describe recently completed or ongoing student research in any area of Computer Science.**
 All graduate submissions must represent a student’s individual research contribution–neither supervisors or other students are allowed as co-authors. Undergraduate submissions may represent individual or team research contributions. Research completed while the student was an undergraduate may be submitted to the undergraduate category even if the student is now a first-year graduate student. A student must be an ACM student member to qualify for awards and travel grants (up to $500 may be available for students who do not have another source of funding).
 
 ## Preparing your ACM Student Research Competition Submission
 
-Students will submit extended abstracts of {{site.data.cfp.details[plural].limits}} maximum, which will be reviewed to determine acceptance into the Student Research Competition (SRC) at SIGCSE. If accepted into the SRC, an abstract of {{site.data.cfp.details[plural].abstract}} will be published (see below). 
+Students will submit extended abstracts of {{site.data.cfp.details[plural].limits}} maximum, which will be reviewed to determine acceptance into the ACM Student Research Competition (SRC) at SIGCSE. If accepted into the ACM SRC, an abstract of {{site.data.cfp.details[plural].abstract}} will be published (see below). 
 
-Qualifying research must deal with topics that are relevant to the mission of the SIGCSE Technical Symposium, as described by the Call for Participation. The author submitting the abstract must still be a student at the time the abstract is due. Each submission should include the author’s name, affiliation, and email address; research advisor’s name; ACM student member number; category (undergraduate or graduate); research title; and an extended abstract (maximum {{site.data.cfp.details[plural].limits}} - references may be on the third page) containing the following sections:
+Qualifying research may come from any area of Computer Science, as described by the Call for Participation. The author submitting the abstract must still be a student at the time the abstract is due. Each submission should include the author’s name, affiliation, and email address; research advisor’s name; ACM student member number; category (undergraduate or graduate); research title; and an extended abstract (maximum {{site.data.cfp.details[plural].limits}} - references may be on the third page) containing the following sections:
 
 * **Abstract**: max {{site.data.cfp.details[plural].abstract}}
 
@@ -28,15 +28,17 @@ Qualifying research must deal with topics that are relevant to the mission of th
 
 * **Results and Contributions**: This section should clearly show how the results of your work contribute to computer science and should explain the significance of those results.
 
-The paper is limited to a maximum of {{site.data.cfp.details[plural].limits}} and must adhere to ACM's publication guidelines:
+The extended abstract submission is limited to a maximum of {{site.data.cfp.details[plural].limits}} plus a page for references and must adhere to ACM's publication guidelines:
 
 <div class="text-center" style="margin-top: 10px; margin-bottom: 10px;">
 <a href="{{site.data.publishing.acmpubguidelines}}">Formatting requirements, MS Word template, and LaTeX template</a>
 </div>
 
-We are using the ACM_SigConf template. If your submission is accepted into the SRC, you will have a chance to modify your abstract of {{site.data.cfp.details[plural].abstract}} before it is published.
+SIGCSE 2020 is NOT participating in the new ACM workflow, template, and production system.  *Word Authors*, please use the Interim Tempalte. *LaTex Authors*, please use the official ACM Master with the `ACM_SigConf` template.
 
-A PDF version of your submission should be uploaded using the online submission system - EasyChair.
+If your submission is accepted into the ACM SRC, you will have a chance to modify your abstract of {{site.data.cfp.details[plural].abstract}} before it is published.
+
+A PDF version of your submission should be uploaded using EasyChair, the online submission system.
 
 ## Selection Process for ACM Student Research Competition
 

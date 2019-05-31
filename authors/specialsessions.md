@@ -8,18 +8,14 @@ showTitle: true
 
 ## What Is A Special Session?
 
-Special sessions are your opportunity to customize and experiment with the SIGCSE conference format. Special sessions should NOT replicate existing SIGCSE session formats (i.e., panels, paper presentations, and poster sessions). They are scheduled in standard conference spaces. Within these constraints, the form is yours to design.
+Special sessions are your opportunity to customize and experiment with the SIGCSE Technical Symposium format. Special sessions should NOT replicate existing session formats (i.e., panels, paper presentations, and poster sessions) that are part of the SIGCSE  Technical Symposium. They are scheduled in standard conference spaces. Within these constraints, the form is yours to design.
 
 For example, a special session might be a tutorial or seminar, a committee report, a curricular or accreditation forum, a rapid-fire sequence of five-minute talks, or a hands-on demo of dance moves proven to improve retention of CS material.
 
 Possible topic areas include management of large classes, projects and assignments, teaching computer science in K-12, experiments on collaborative learning, report of an ACM committee addressing issues at two-year colleges, or special issues arising when teaching computing outside of North America.
 
-**Special session proposal review is NOT blind.** Criteria used in reviewing the proposals will include the likely level of interest in the session and the suitability and feasibility of the proposed format to its topic. If the proposal is accepted, all presenters listed in the special session description will be required to register for the conference and to participate in the session.
 
-<div class = "alert alert-info" style="margin-top: 23px">
-    <span class="glyphicon glyphicon-align-left" aria-hidden="true"></span>
-     We are particularly interested in proposals that highlight the 50th SIGCSE Technical Symposium.  Please check the option on the submission form if your proposal is related to the 50th.
-</div>
+**Special session proposal review is NOT blind.** Criteria used in reviewing the proposals will include the likely level of interest in the session and the suitability and feasibility of the proposed format to its topic. If the proposal is accepted, all presenters listed in the special session description will be required to register for the conference and to participate in the session.
 
 ## How Should The Proposal Be Formatted?
 
@@ -30,9 +26,11 @@ The paper is limited to a maximum of {{site.data.cfp.details[plural].limits}} an
 <a href="{{site.data.publishing.acmpubguidelines}}">Formatting requirements, MS Word template, and LaTeX template</a>
 </div>
 
+SIGCSE 2020 is NOT participating in the new ACM workflow, template, and production system.  *Word Authors*, please use the Interim Tempalte. *LaTex Authors*, please use the official ACM Master with the `ACM_SigConf` template.
+
 The following modifications and exceptions apply:
 
-* **Abstract**: Should provide a brief summary describing your special section including session objective intended audience, and relevance to the SIGCSE community.
+* **Abstract**: Should provide a brief summary describing your special section including session objective, intended audience, and relevance to the SIGCSE community.
 
 * Subsequent sections should contain the following information:
 
@@ -42,9 +40,10 @@ The following modifications and exceptions apply:
 
 	* **Expectations**: State the intended audience. Indicate how much the session will cover and what the audience should learn. If feedback from the audience is desired, indicate how it will be elicited. Explicitly stating these expectations is particularly important if your proposed special session is a tutorial.
 
-	* **Suitability for a special session**: Include a brief description that justifies the inclusion of this presentation as a special session. Explain why the proposed presentation is better suited for a special session than a paper or panel.
+	* **Suitability for a special session**:  Include a brief description that justifies the inclusion of this presentation as a special session. Explain why the proposed presentation is better suited for a special session than a paper or panel.
 
 	* **References**: Citing relevant work where appropriate is encouraged, but not required. If they are included, they should be placed in a separate section titled References and should follow the formatting guidelines.
+
 
 If accepted, the special session description will be allocated
 {{site.data.cfp.details[plural].limits}} in the conference proceedings

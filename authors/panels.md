@@ -12,14 +12,10 @@ Panel sessions provide an opportunity for expert panel members to present their 
 
 A typical panel will consist of four participants, including the moderator. Limiting a panel to four participants allows sufficient time for audience questions. Proposals with more than four panelists must convincingly show that all panelists will be able to speak, and the audience able to respond, within the session time.
 
-**Panel proposal review is NOT blind.** Criteria used in reviewing the proposals include the likely level of interest of the topic, the presence of panel members with multiple perspectives on the topic, and the likelihood that the panel will leave sufficient time for audience participation.
+
+**Panel proposal review is NOT blind.** Criteria used in reviewing the proposals include the likely level of interest of the topic, the presence of panel members with multiple perspectives on the topic and significant expertise and experience, and the likelihood that the panel will leave sufficient time for audience participation.
 
 If the proposal is accepted, all presenters listed in the panel description will be required to register for the conference and to participate in the session.
-
-<div class = "alert alert-info" style="margin-top: 23px">
-    <span class="glyphicon glyphicon-align-left" aria-hidden="true"></span>
-     We are particularly interested in proposals that highlight the 50th SIGCSE Technical Symposium.  Please check the option on the submission form if your proposal is related to the 50th.
-</div>
 
 
 ## How Should The Proposal Be Formatted?
@@ -30,13 +26,15 @@ The proposal is limited to a maximum of {{site.data.cfp.details[plural].limits}}
 <a href="{{site.data.publishing.acmpubguidelines}}">Formatting requirements, MS Word template, and LaTeX template</a>
 </div>
 
+SIGCSE 2020 is NOT participating in the new ACM workflow, template, and production system.  *Word Authors*, please use the Interim Tempalte. *LaTex Authors*, please use the official ACM Master with the `ACM_SigConf` template.
+
 The following modifications and exceptions do apply:
 
 -   When providing author information, indicate which of the panelists
     is the moderator by placing the word "Moderator" in parentheses
-    after her/his name.
+    after their name.
 
--   **Abstract:** Should provide a brief summary of your panel 
+-   **Abstract:** Should provide a brief summary of your panel.
 
 - 	**Summary:** The first section should be titled Summary and should provide an expanded summary of the panel’s goals,  intended audience, and relevance to the SIGCSE community written by the moderator.
 

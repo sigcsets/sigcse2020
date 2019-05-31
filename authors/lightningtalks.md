@@ -8,13 +8,13 @@ showTitle: true
 
 ## What is a Lightning Talk?
 
-Lightning Talks describe works in progress, new and untested ideas, or opportunities for collaborative work. The purpose of a Lightning Talk can be to start a discussion, find collaborators, or receive input and critique about an idea. Proposals are limited to 500 words, including the abstract of 250 words, and will be blind reviewed for acceptance. Lightning Talk presentations will be a maximum of 5 minutes each, including time for questions. Presenters may use slides, but these must be submitted to the Lightning Talks chair a few days before the presentation.
+Lightning Talks describe works in progress, new and untested ideas, or opportunities for collaborative work. The purpose of a Lightning Talk can be to start a discussion, find collaborators, or receive input and critique about an idea. Proposals are limited to 500 words, including the abstract of 250 words, and will be blind reviewed for acceptance. Lightning Talk presentations will be a maximum of 5 minutes each. Presenters may use slides, but these must be submitted to the Lightning Talks chair a few days before the presentation.
 
 **Proposals will undergo blind review.**
 
 ## How Should The Proposal Be Formatted?
 
-Lightning Talk proposals must be submitted in PDF format. The full proposal contains an abstract and a description of your Lightning Talk (as detailed below). The full proposal is used for the review process only. If the proposal is accepted, the abstract is the description that appears on the Symposium website, and in the Symposium program and proceedings. The format for the proposal is described below.
+Lightning Talk proposals must be submitted in PDF format. The full proposal contains an abstract and a description of your Lightning Talk (as detailed below). The full proposal is used for the review process only. If the proposal is accepted, the title and authors appear in the printed program and the title, authors, and abstract appear in the online program and proceedings.
 
 ## Lightning Talk Proposal Format and Contents (limited to {{site.data.cfp.details["Lightning Talks"].limits}})
 

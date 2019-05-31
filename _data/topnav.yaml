@@ -2,38 +2,38 @@
   subheads:
   - name: Call for Participation
     link: /authors/cfp.html
-#  - name: Important Dates
-#    link: /authors/index.html
+  - name: Important Dates
+    link: /authors/index.html
   - name: Frequently Asked Questions
     link: /authors/faq.html
-#    divider: true
-#  - name: Papers
-#    link: /authors/papers.html
-#  - name: Panels
-#    link: /authors/panels.html
-#  - name: Special Sessions
-#    link: /authors/specialsessions.html
-#  - name: Workshops
-#    link: /authors/workshops.html
-#    divider: true
-#  - name: ACM Student Research Competition
-#    link: /authors/src.html
-#  - name: BoFs
-#    link: /authors/bofs.html
-#  - name: Demos
-#    link: /authors/demos.html
-#  - name: Lightning Talks
-#    link: /authors/lightningtalks.html   
-#  - name: Posters
-#    link: /authors/posters.html
-#  - name: Nifty Assignments
-#    link: /authors/nifty.html
-#    divider: true
-#  - name: Pre-Symposium Events
-#    link: /authors/presymposium.html
-#  - name: Affiliated Events
-#    link: /authors/affiliated.html
-#    divider: true
+    divider: true
+  - name: Papers
+    link: /authors/papers.html
+  - name: Panels
+    link: /authors/panels.html
+  - name: Special Sessions
+    link: /authors/specialsessions.html
+  - name: Workshops
+    link: /authors/workshops.html
+    divider: true
+  - name: ACM Student Research Competition
+    link: /authors/src.html
+  - name: BoFs
+    link: /authors/bofs.html
+  - name: Demos
+    link: /authors/demos.html
+  - name: Lightning Talks
+    link: /authors/lightningtalks.html   
+  - name: Nifty Assignments
+    link: /authors/nifty.html
+  - name: Posters
+    link: /authors/posters.html
+    divider: true
+  - name: Pre-Symposium Events
+    link: /authors/presymposium.html
+  - name: Affiliated Events
+    link: /authors/affiliated.html
+    divider: true
   - name: PDF 2019 Call for Participation
     link: /pdf/sigcse2020-cfp.pdf
 - name: For Reviewers

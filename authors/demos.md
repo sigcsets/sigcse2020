@@ -13,7 +13,7 @@ Demos provide a way to showcase an educational tool or project in a live setting
 
 ## How Should The Proposal Be Formatted?
 
-Demo proposals are submitted in PDF format. The full proposal contains an abstract and a body that describes your Demo (as detailed below). The full proposal is used for the review process only. If the proposal is accepted, the abstract is the description that appears on the Symposium website and in the Symposium program and proceedings. The format for the proposal is as follows.
+Demo proposals are submitted in PDF format. The full proposal contains an abstract and a body that describes your Demo (as detailed below). The full proposal is used for the review process only. If the proposal is accepted, the title and authors appear in the printed program and the title, authors, and abstract appear in the online program and proceedings.
 
 ### Demo Proposal Format and Contents
 
@@ -31,7 +31,7 @@ Demo proposals are submitted in PDF format. The full proposal contains an abstra
 
 * **Expertise of Presenter(s)**: Give a summary of the qualifications of the presenter(s) as it relates to the tool/project being proposed.
 
-* **Rough Agenda for the Demo**: Timing details would be helpful here. Explain what the attendees can expect. Be sure to budget a realistic amount of time for questions from attendees. 
+* **Agenda for the Demo**: Timing details would be helpful here. Explain what the attendees can expect. Be sure to budget a realistic amount of time for questions from attendees. 
 
 * **Audio/Visual and Computer Requirements**: Indicate your A/V requirements, such as wireless access, wired access, extra power outlets, data projector or other materials that you need to use. Please note that certain A/V materials and equipment will be available for all demos. At the time of acceptance, more information about the standard vs. non-standard A/V equipment will be available.
 
@@ -43,7 +43,7 @@ Demo proposals are submitted in PDF format. The full proposal contains an abstra
 
 * While proposed agendas may change, you should be as detailed in your agenda as possible.  Illustrate the specific activities you have in mind to the best of your ability.
 
-* Make sure that you are explicit about what you want to get out of the demo experience.  As described above, demos are meant for you (the presenter) to get exposure for your tool or to generate discussion.  However, it is helpful for your reviewers to understand if you are looking to find users, vet future research directions, etc.
+* Make sure that you are explicit about what *you* want to get out of the demo experience.  As described above, demos are meant for you (the presenter) to get exposure for your tool or to generate discussion.  However, it is helpful for your reviewers to understand if you are looking to find users, vet future research directions, etc.
 
 ### Demo Proposal Abstract
 

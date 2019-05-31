@@ -61,7 +61,7 @@ time: {{subtime}}
         </tr>
         <tr>
           <td><b>Time Due </b></td>
-          <td> <a href="{{subtimelink}}">{{subtime}}</a> </td>
+          <td> {{subtime}}</td>
         </tr>
         <tr>
           <td><b>Submission Limits </b></td>
@@ -91,10 +91,12 @@ time: {{subtime}}
           <td> {{subnotification}}</td>
         </tr>
 
+		{% if subcameraready %}
         <tr>
           <td><b>Camera-Ready Deadline </b></td>
           <td> {{subcameraready}}</td>
         </tr>
+		{% endif %}
 
 		{% if site.data.cfp.camerareadyinstructionsopen %}
         <tr>

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Author Guidelines: BOFs"
+title: "Author Guidelines: Birds-of-a-Feather (BOFs)"
 showTitle: true
 ---
 {% include submissiondetails.html plural="Birds of a Feather" %}
@@ -15,7 +15,7 @@ Birds-of-a-Feather (BOF) Sessions provide an environment for colleagues with sim
 
 BOF proposals are to be provided in PDF format. The full proposal contains an abstract and a body that describes your BOF (as detailed below). The abstract needs to appear in two places: in the PDF proposal and in a text box on the submission page.
 
-The full proposal is used for the review process only. If the proposal is accepted, the abstract is the description that appears on the Symposium website and in the Symposium program and proceedings. The format for the proposal is as follows.
+The full proposal is used for the review process only. If the proposal is accepted, the title and authors appear in the printed program and the title, authors, and abstract appear in the online program and proceedings. 
 
 ### BOF Proposal Format and Contents
 
@@ -23,13 +23,13 @@ The full proposal is used for the review process only. If the proposal is accept
 
 * **Title**: A title for the BOF.
 
-* **Abstract**: A description of the BOF. The same abstract will also need to be submitted via a text box on the submission page. Please be sure that your description is accurate and that both submitted copies (here in the BOF Proposal, and in the submission text box) are exactly the same. 
+* **Abstract**: A description of the BOF. The same abstract will also need to be submitted via a text box on the submission page. Please be sure that your description is accurate and that both submitted copies (here in the BOF Proposal, and in the submission text box) are exactly the same. The abstract must be at most 250 words.
 
 * **Significance and Relevance of the Topic**: Please include information about any trends in relation to the topic and possibly describe (or cite) evidence to that effect. Your objective here is to explain why the topic is significant. You should also justify how your BOF will engage participants in group discussion and enhance future connections between attendees. This information can help your proposal to be selected if resources become an issue.
 
 * **Expected Audience**: Briefly describe the nature and size of the expected audience. If you expect a particularly large or small audience, please explain why.  If you have a rough estimate of attendees based on previous years, please include it here. This information can help in room assignment.
 
-* **Discussion Leader(s)**: Although correspondence will be with the proposer above, it will be the discussion leader(s) who will be mentioned in Symposium literature. Please list any additional such names (besides the proposer) and affiliations here. Be certain that you have their commitments to attend the Symposium. All discussion leaders must register for the SIGCSE conference and be present for the BOF session.
+* **Discussion Leader(s)**: Although correspondence will be with the proposer above, it will be the discussion leader(s) who will be mentioned in Symposium literature. Please list any additional such names (besides the proposer) and affiliations here. Be certain that you have their commitments to attend the Symposium. All discussion leaders must register for the SIGCSE Technical Symposium and be present for the BOF session.
 
 * **Expertise of Discussion Leader(s)**: Give a summary of the qualifications of the discussion leader(s) as it relates to the BOF topic being proposed.
 
@@ -37,7 +37,7 @@ The full proposal is used for the review process only. If the proposal is accept
 
 ### BOF Abstract (limited to {{site.data.cfp.details["Birds of a Feather"].abstract}})
 
-The abstract is the description of the BOF that will appear on the conference web pages. The description is limited to and must match verbatim the abstract section of the BOF Proposal. The BOF abstract must be submitted in plain text. The abstract for an accepted proposal may contain a URL with more information. (Abstracts of accepted BOFs can be edited in response to reviews.)
+The abstract is the description of the BOF that will appear in the online program. The description is limited to and must match verbatim the abstract section of the BOF Proposal. The BOF abstract must be submitted in plain text. The abstract for an accepted proposal may contain a URL with more information. (Abstracts of accepted BOFs can be edited in response to reviews.)
 
 ### Sample Proposal
 

@@ -240,8 +240,6 @@
     
 - name: International Committee Members
   members: 
-   - name: Brett Becker
-     inst: University College Dublin
    - name: Miles Berry
      inst: University of Roehampton, UK
    - name: Jennifer Campbell
