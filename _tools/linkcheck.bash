@@ -27,11 +27,11 @@ fi
 
 if [ "$1" == "live" ];
 then
-  pylinkcheck.py -P http://sigcse2018.sigcse.org/
+  pylinkcheck.py -P http://sigcse2020.sigcse.org/
 fi
 
 if [ "$1" == "staging" ];
 then
   echo "Basic Authentication requires a password. Skipping link check for now."
-  # pylinkcheck.py -P http://www.sigcse2018.sigcse.org/.staging/
+  # pylinkcheck.py -P http://www.sigcse2020.sigcse.org/.staging/
 fi
