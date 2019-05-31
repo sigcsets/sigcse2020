@@ -240,12 +240,12 @@ showTitle: true
 <tr>
     <td>7:00 am - 8:30 am</td>
     <td>Speaker Breakfast (for Saturday presenters only)</td>
-    <td>Rooms #324, 325, 326</td>
+    <td>TBD</td>
 </tr>
 <tr>
     <td>8:30 am - 11:45 am</td>
     <td>Registration</td>
-    <td>Charles St Lobby</td>
+    <td>Oregon Convention Center</td>
 </tr>
 <tr>
     <td>8:15 am - 9:45 am</td>
