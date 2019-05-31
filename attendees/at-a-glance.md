@@ -278,7 +278,7 @@ showTitle: true
     <td>TBD</td>
 </tr>
 <tr>
-    <td>4:00 pm - 7:00 pm</td>
+    <td>3:30 pm - 6:30 pm</td>
     <td>Workshops 401-410</td>
     <td>TBD</td>
 </tr>
