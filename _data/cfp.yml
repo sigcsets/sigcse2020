@@ -50,6 +50,38 @@ r2reviewend: "Wednesday, November 6, 2019"
 r2discussionstart: "Thursday, November 7, 2019" 
 r2discussionend: "Wednesday, November 13, 2019"
 
+reviewing:
+  - track: Papers
+    round: round0
+    bidding: true
+  - track: Panels
+    round: round1
+    bidding: true
+  - track: Special Sessions
+    round: round1
+    bidding: true
+  - track: Workshops
+    round: round1
+    bidding: false
+  - track: ACM Student Research Competition
+    round: round2
+    bidding: false
+  - track: Demos
+    round: round2
+    bidding: false
+  - track: Lightning Talks
+    round: round2
+    bidding: false
+  - track: Birds of a Feather
+    round: round2
+    bidding: false
+  - track: Nifty Assignments
+    round: round2
+    bidding: false
+  - track: Posters
+    round: round2
+    bidding: false
+
 
 master:
   #Pre-symposium events, Affiliated Events
@@ -183,4 +215,4 @@ details:
     connector: "including extended"
     length: "2 hours (poster session)"
 
-lastupdate: "May 20, 2019"
+lastupdate: "June 1, 2019"

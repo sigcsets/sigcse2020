@@ -1,16 +1,21 @@
 ---
 layout: default
 title: General Review Process
+showTitle: true
 ---
 
-## SIGCSE 2020 General Review Process
+The general review process covers the following submission types (grouped by submission date):
 
-The general review process covers submissions (grouped by submission date):
+* [**Group 1**](#group-1-timeline): [Panels](../reviewers/panel-review-guidelines.html), [Special Sessions](../reviewers/special-sessions-review-guidelines.html), [Workshops](../reviewers/workshop-review-guidelines.html)
+* [**Group 2**](#group-2-timeline): 
+[ACM Student Research Competition](../reviewers/src-review-guidelines.html)
+[BoFs](../reviewers/bofs-review-guidelines.html), 
+[Demos](../reviewers/demos-review-guidelines.html), 
+[Lightning talks](../reviewers/lt-review-guidelines.html), 
+[Nifty Assignments](../reviewers/nifty-review-guidelines.html), and
+[Posters](../reviewers/poster-review-guidelines.html)  
 
-* [**Group 1**](#group-1-timeline): [Panels](../reviewers/panels.html), [Special Sessions](../reviewers/specialsessions.html), [workshops](../reviewers/workshops.html)
-* [**Group 2**](#group-2-timeline): [Nifty Assignments](../reviewers/nifty.html), [BoFs](../reviewers/bofs.html), [Posters](../reviewers/posters.html), [Demos](../reviewers/demos.html), [Lightning talks](../reviewers/lightningtalks.html), and [ACM Student Research Competition](../reviewers/src.html).  
-
-(If you are reviewing for [Papers](../authors/papers.html), please refer to the [Paper Review Process](paper-review-process.html)).
+(If you are reviewing for [Papers](../authors/papers.html), please refer to the [Paper Review Process](paper-review-process.html) and [Paper Review Guidelines](paper-review-guidelines.html).
 
 Reviewers provide high-quality reviews for submissions to provide authors with feedback so they may improve their work for presentation or future submission.  Reviewers are expected to provide constructive, specific comments in reviews that support numeric indicators.  
 
@@ -28,7 +33,7 @@ The following dates describe the timeline for Reviewer work on SIGCSE 2020.  Ple
 
 #### Group 1 Timeline 
 
-Group 1 submissions are [Panels](../reviewers/panels.html), [Special Sessions](../reviewers/specialsessions.html), and [Workshops](../reviewers/workshops.html).
+Group 1 submissions are [Panels](../reviewers/panel-review-guidelines.html), [Special Sessions](../reviewers/special-sessions-review-guidelines.html), and [Workshops](../reviewers/workshop-review-guidelines.html).
 
 <div class="table-responsive" style="margin-top: 20px;">
   <table class="table">
@@ -59,7 +64,7 @@ Group 1 submissions are [Panels](../reviewers/panels.html), [Special Sessions](.
 
 #### Group 2 Timeline
 
-Group 2 submissions are [Nifty Assignments](../reviewers/nifty.html), [BoFs](../reviewers/bofs.html), [Posters](../reviewers/posters.html), [Demos](../reviewers/demos.html), [Lightning talks](../reviewers/lightningtalks.html), and [ACM Student Research Competition](../reviewers/src.html)
+Group 2 submissions are [ACM Student Research Competition](../reviewers/src-review-guidelines.html), [BoFs](../reviewers/bofs-review-guidelines.html), [Demos](../reviewers/demos-review-guidelines.html), [Lightning talks](../reviewers/lt-review-guidelines.html), [Nifty Assignments](../reviewers/nifty-review-guidelines.html), and [Posters](../reviewers/poster-review-guidelines.html).
   
 <div class="table-responsive" style="margin-top: 20px;">
   <table class="table">
@@ -70,8 +75,13 @@ Group 2 submissions are [Nifty Assignments](../reviewers/nifty.html), [BoFs](../
 			<td><strong>End Date</strong></td>
 		</tr>
 		<tr>
+			<td>Bidding (Optional - see track specific information for details)</td>
+			<td>{{site.data.cfp.r2bidstart}}</td>
+			<td>{{site.data.cfp.r2bidend}}</td>
+		</tr>
+		<tr>
 			<td>Review</td>
-			<td>{{site.data.cfp.r2reviewstart}}</td>
+			<td>{{site.data.cfp.r2bidstart}} OR {{site.data.cfp.r2reviewstart}}</td>
 			<td>{{site.data.cfp.r2reviewend}}</td>
 		</tr>
 		<tr>
@@ -91,7 +101,7 @@ Please check at most 5 topics!  More topics will make it harder for the EasyChai
 
 ### Bid
 
-Only Group 1 tracks will have a bidding period.  If you do not bid, we will use topics to assign submissions for review.
+If your track has a bidding period, please bid within the specified window.  If you do not bid, we will use topics to assign submissions for review.
 
 Reviewers will bid on submissions they are interested in reviewing after the submission deadline.  Please bid for submissions where the title and abstract are in your area of expertise.  Bidding will help with assigning submissions for review that you're qualified and interested in reviewing!
 
@@ -107,10 +117,16 @@ As a **reviewer**, we ask that you carefully read each submission assigned to yo
 
 Track specific reviewer guidelines are available:
 
-* [**Group 1**](#group-1-timeline): [Panels](../reviewers/panels.html), [Special Sessions](../reviewers/specialsessions.html), [workshops](../reviewers/workshops.html)
-* [**Group 2**](#group-2-timeline): [Nifty Assignments](../reviewers/nifty.html), [BoFs](../reviewers/bofs.html), [Posters](../reviewers/posters.html), [Demos](../reviewers/demos.html), [Lightning talks](../reviewers/lightningtalks.html), and [ACM Student Research Competition](../reviewers/src.html). 
+* [**Group 1**](#group-1-timeline): [Panels](../reviewers/panel-review-guidelines.html), [Special Sessions](../reviewers/special-sessions-review-guidelines.html), [Workshops](../reviewers/workshop-review-guidelines.html)
+* [**Group 2**](#group-2-timeline): 
+[ACM Student Research Competition](../reviewers/src-review-guidelines.html)
+[BoFs](../reviewers/bofs-review-guidelines.html), 
+[Demos](../reviewers/demos-review-guidelines.html), 
+[Lightning talks](../reviewers/lt-review-guidelines.html), 
+[Nifty Assignments](../reviewers/nifty-review-guidelines.html), and
+[Posters](../reviewers/poster-review-guidelines.html)   
 
-While your review text should clearly support your scores and recommendation, please **do not** include your preference for acceptance or rejection of a submission in the feedback to the authors.  Instead, use the provided radio buttons to make a recommendation (the authors will not see this) based on your summary review and provide any details that refer to your recommendation directly in the confidential comments to the track chairs.  As a reviewer, you will only see a small portion of the submissions and a submission that you recommend for acceptance may be rejected when considering the full set of submissions.
+{% include reviewreminder.html %}
 
 ### Discussion
 

@@ -8,7 +8,9 @@ showTitle: true
 
 ## SIGCSE Technical Symposium Paper Types
 
-Papers describe an educational research project, classroom experience, teaching technique, curricular initiative, or pedagogical tool. All papers should explicitly state their motivating questions, relate to relevant literature, and contain an analysis of the effectiveness of the interventions. Initial submissions must be anonymous. Note that an **abstract submission is required for all papers** and it is due a week before the full paper is due.
+Papers describe an educational research project, classroom experience, teaching technique, curricular initiative, or pedagogical tool. All papers should explicitly state their motivating questions, relate to relevant literature, and contain an analysis of the effectiveness of the interventions. Initial submissions must be anonymous. Note that an **abstract submission is required for all papers** and it is due a week before the full paper is due.  
+
+**Paper submissions are expected to be original and polished work.**  While there will be the opportunity to revise work from reviews, those revisions should be minor since there is no "review-revise-review" cycle for the SIGCSE Technical Symposium.  Additionally, we expect that submissions will include a review of previous, related work.
 
 **Please ensure that you submit your paper to the correct paper track. Papers will be reviewed for the track they are submitted to and will not be moved between tracks.**
 
@@ -19,7 +21,7 @@ Papers describe an educational research project, classroom experience, teaching 
 * **Curricula Initiatives** papers should describe new curricula, programs, and degrees, the motivating context before the new initiative was undertaken, what it took to put the initiative into place, what the impact has been, and suggestions for others wishing to adopt it. This track may also include position papers, which are meant to engender fruitful academic discussion by presenting a defensible opinion about a CS education topic, substantiated with evidence.
 
 ### Paper Resources
-There are many resources for writing high quality papers for submission to the SIGCSE Technical Symposium.  We encourage authors to read and evaluate papers from prior SIGCSE Technical Symposium, especially those designated as *best papers*, which were selected both due to content and high quality reporting.  Authors will also likely find the [paper review guidelines](..//reviewers/paper-review-guidelines.html) beneficial for identifying how reviewers will assess papers for each track.   We have linked in additional resources that you may find useful as you write your papers, especially computer science education research papers.
+There are many resources for writing high quality papers for submission to the SIGCSE Technical Symposium.  We encourage authors to read and evaluate papers from prior SIGCSE Technical Symposium, especially those designated as *best papers*, which were selected both due to content and high quality reporting.  Authors will also likely find the [paper review guidelines](../reviewers/paper-review-guidelines.html) beneficial for identifying how reviewers will assess papers for each track.   We have linked in additional resources that you may find useful as you write your papers, especially computer science education research papers.
 
 * [Writing a research question (csedresearch.org)](https://csedresearch.org/write-a-research-question/)
 * [Reporting Tips (csedresearch.org)](https://csedresearch.org/guides/)

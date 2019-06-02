@@ -38,20 +38,34 @@
     link: /pdf/sigcse2020-cfp.pdf
 - name: For Reviewers
   subheads:
-#   - name: Paper Review Process & Responsibilities
-#     link: /reviewers/paper-review-process.html
-#   - name: Paper Review Guidelines
-#     link: /reviewers/paper-review-guidelines.html
-#     divider: true
-#   - name: General Review Process
-#     link: /reviewers/general-review-process.html
-#   - name: Panel Review Guidelines
-#     link: /reviewers/panel-review-guidelines.html
-#   - name: Special Session Review Guidelines
-#     link: /reviewers/special-sessions-review-guidelines.html
-#   - name: Workshop Review Guidelines
-#     link: /reviewers/workshop-review-guidelines.html
-#     divider: true
+   - name: Paper Review Process & Reviewer Responsibilities
+     link: /reviewers/paper-review-process.html
+   - name: Paper Review Guidelines
+     link: /reviewers/paper-review-guidelines.html
+     divider: true
+   - name: General Review Process
+     link: /reviewers/general-review-process.html
+     divider: true
+   - name: Panel Review Guidelines
+     link: /reviewers/panel-review-guidelines.html
+   - name: Special Session Review Guidelines
+     link: /reviewers/special-sessions-review-guidelines.html
+   - name: Workshop Review Guidelines
+     link: /reviewers/workshop-review-guidelines.html
+     divider: true
+   - name: ACM SRC Guidelines
+     link: /reviewers/src-review-guidelines.html
+   - name: BOFs Review Guidelines
+     link: /reviewers/bofs-review-guidelines.html
+   - name: Demos Review Guidelines
+     link: /reviewers/demos-review-guidelines.html
+   - name: Lightning Talks Review Guidelines
+     link: /reviewers/lt-review-guidelines.html
+   - name: Nifty Assignments Review Guidelines
+     link: /reviewers/nifty-review-guidelines.html
+   - name: Poster Review Guidelines
+     link: /reviewers/poster-review-guidelines.html
+     divider: true
    - name: Reviewer Signup
      link: /reviewers/signup.html
 - name: For Attendees
