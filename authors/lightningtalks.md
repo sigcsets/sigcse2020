@@ -48,6 +48,6 @@ The abstract for an accepted proposal may contain a link to a website with more 
 
 {% include generic-submission-block.html %}
 
-{% include presenter-warning.html %}
+{% include presenter-warning.html kind="lightning talk"%}
 
 {% include submission-questions category="Lightning Talks" %}

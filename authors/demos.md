@@ -60,6 +60,6 @@ The abstract is the description of the Demo that will appear on the conference w
 
 {% include generic-submission-block.html %}
 
-{% include presenter-warning.html %}
+{% include presenter-warning.html kind="demo" %}
 
 {% include submission-questions category="Demos" %}

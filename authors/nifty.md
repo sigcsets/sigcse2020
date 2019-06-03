@@ -63,6 +63,6 @@ If your assignment is accepted, you will need to:
 
 {% include nifty-submission-block.html %}
 
-{% include presenter-warning.html %}
+{% include presenter-warning.html kind="Nifty Assignment"%}
 
 {% include submission-questions category="Nifty Assignments" %}

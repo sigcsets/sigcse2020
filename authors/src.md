@@ -68,6 +68,6 @@ The first-place winners from each category (graduate and undergraduate) will adv
 
 {% include generic-submission-block.html %}
 
-{% include presenter-warning.html %}
+{% include presenter-warning.html kind="student research competition poster and/or presentation" %}
 
 {% include submission-questions category="ACM Student Research Competition" %}

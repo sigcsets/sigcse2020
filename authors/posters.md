@@ -56,7 +56,7 @@ The first page (an extended abstract that will go into the proceedings) must adh
 <a href="{{site.data.publishing.acmpubguidelines}}">Formatting requirements, MS Word template, and LaTeX template</a>
 </div>
 
-SIGCSE 2020 is NOT participating in the new ACM workflow, template, and production system.  *Word Authors*, please use the Interim Tempalte. *LaTex Authors*, please use the official ACM Master with the `ACM_SigConf` template.
+SIGCSE 2020 is NOT participating in the new ACM workflow, template, and production system.  *Word Authors*, please use the Interim Template. *LaTex Authors*, please use the official ACM Master with the `ACM_SigConf` template.
 
 The extended abstract page should include:
 
@@ -107,6 +107,6 @@ Please note that this award is separate from the [ACM Student Research Competiti
 
 {% include generic-submission-block.html %}
 
-{% include presenter-warning.html %}
+{% include presenter-warning.html kind = "poster" %}
 
 {% include submission-questions category="Posters" %}

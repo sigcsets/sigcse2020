@@ -20,6 +20,11 @@ Papers describe an educational research project, classroom experience, teaching 
 
 * **Curricula Initiatives** papers should describe new curricula, programs, and degrees, the motivating context before the new initiative was undertaken, what it took to put the initiative into place, what the impact has been, and suggestions for others wishing to adopt it. This track may also include position papers, which are meant to engender fruitful academic discussion by presenting a defensible opinion about a CS education topic, substantiated with evidence.
 
+### Selecting a Track
+Please select the most appropriate track for your work.  The Program Chairs will not move papers between tracks. Any submissions made to more than one track will be desk rejected from both tracks.  
+
+Authors may find ["What is a SIGCSE Symposium Paper?"](https://dl.acm.org/citation.cfm?id=3243073) useful as they consider which track to submit to.  Research papers report on work that addresses one or more research questions where studies are pre-planned. Experience reports are a deeply reflective case study or experience that is of interest to the community; they typically don't have research questions, but instead, provide a reflection on the goal of the experience.  Tools papers that are describing a tool and its use should be submitted to the Experience Reports and Tools track.  A research study on a tool should be submitted to the CS Education Research track.
+
 ### Paper Resources
 There are many resources for writing high quality papers for submission to the SIGCSE Technical Symposium.  We encourage authors to read and evaluate papers from prior SIGCSE Technical Symposium, especially those designated as *best papers*, which were selected both due to content and high quality reporting.  Authors will also likely find the [paper review guidelines](../reviewers/paper-review-guidelines.html) beneficial for identifying how reviewers will assess papers for each track.   We have linked in additional resources that you may find useful as you write your papers, especially computer science education research papers.
 
@@ -97,7 +102,7 @@ The paper is limited to a maximum of {{site.data.cfp.details[plural].limits}} an
 <a href="{{site.data.publishing.acmpubguidelines}}">Formatting requirements, MS Word template, and LaTeX template</a>
 </div>
 
-SIGCSE 2020 is NOT participating in the new ACM workflow, template, and production system.  *Word Authors*, please use the Interim Tempalte. *LaTex Authors*, please use the official ACM Master with the `ACM_SigConf` template.
+SIGCSE 2020 is NOT participating in the new ACM workflow, template, and production system.  *Word Authors*, please use the Interim Template. *LaTex Authors*, please use the official ACM Master with the `ACM_SigConf` template.
 
 If your paper is accepted you will have a chance to modify your publication version before it is published.
 

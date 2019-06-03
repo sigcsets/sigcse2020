@@ -13,7 +13,13 @@ Pre-Symposium Events are an excellent venue for SIGCSE sub-communities to arrang
 
 The SIGCSE 2020 organizers have a vision to encourage sub-communities to organize their own events by submitting a pre-symposium event proposal that should include a description of the event and its importance and relevance, the proposed organizing committee and, if appropriate, the program committee, and the proposed format for the event.  **[Please note there is a charge for holding a Pre-symposium Event to help defray costs. Food & beverage and A/V needs beyond the standard set up will be at the organizers own expense.](#logistics)**
 
-If your pre-symposium event is accepted, the event organizers would then release a “Call for Participation” inviting members of your community to submit papers, posters, or apply to your event through **your own event submission site**. Your organizing and program committees would be responsible for handling all event websites, submissions, decisions, notifications, and publication of the event proceedings.
+If your pre-symposium event is accepted, you, as event organizers would then release a “Call for Participation” inviting members of your community to submit papers, posters, or apply to your event through **your own event submission site**. Your organizing and program committees would be responsible for handling all event websites, submissions, decisions, notifications, and publication of the event proceedings.
+
+Please note the following:
+
+* Pre-Symposium events participants should also register for the SIGCSE Technical Symposium.
+* Pre-Symposium events must supply their own registration sites.  Registration for your Pre-Symposium event will not be handled through SIGCSE Technical Symposium registration systems. 
+* We will link to your Pre-Symposium event URL provided as part of registration from the SIGCSE webpages.  This should be the URL that will contain information about your event, logistics, and applications/registration.
 
 **Proposals undergo review but not blind review.**  Acceptance is based on availability.
 
@@ -81,7 +87,8 @@ The logistics information for Pre-symposium Events are detailed below.  Once the
 ### Charge
 Pre-Symposium Events will be charged a fee to help defray costs on a per room basis.
 
-*Charges for SIGCSE 2020 will be posted soon.*
+* Half-day: $325
+* Full-day: $650
   
 ### Food & Beverage
 Food and beverage must be paid by the Pre-Symposium Event organizers directly to the convention center.  dLPLAN will contact event organizers with details for arranging food & beverage for your event.

@@ -1,0 +1,27 @@
+{% comment %}
+SO: {{site.data.cfp.submissionopen}}
+IPap: {{include.ispaper}}
+IPan: {{include.ispanel}}
+{% endcomment %}
+
+
+
+Prepare your Nifty submission using the format specified above.
+
+{% if site.data.cfp.submissionopen %}
+
+{% callout warning %}
+Please limit the number of topic choices to no more than 5.  This will help match your submission with reviewers.
+{% endcallout %}
+
+Prepare your Nifty submission as specified above. Upload the .zip archive you created using [the online submission system - EasyChair]({{site.data.cfp.submissionurl}}).   lease do not wait until the last minute to submit your documents because that is when everyone else will be connecting to our server!
+
+Make note of the proposal ID number and password assigned to your submission. You will receive an e-mail message confirmation. Spam filters sometimes trap these automatically generated messages so you may need to check your spam trap for the confirmation and later, acceptance or rejection notification.
+
+After receiving confirmation, go to the submission site to review your submission for accuracy. Send e-mail to the chair(s) (see below) if there are any problems.
+
+{% else %}
+
+{% include submission-not-open.html %}
+
+{% endif %}

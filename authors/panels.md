@@ -26,7 +26,7 @@ The proposal is limited to a maximum of {{site.data.cfp.details[plural].limits}}
 <a href="{{site.data.publishing.acmpubguidelines}}">Formatting requirements, MS Word template, and LaTeX template</a>
 </div>
 
-SIGCSE 2020 is NOT participating in the new ACM workflow, template, and production system.  *Word Authors*, please use the Interim Tempalte. *LaTex Authors*, please use the official ACM Master with the `ACM_SigConf` template.
+SIGCSE 2020 is NOT participating in the new ACM workflow, template, and production system.  *Word Authors*, please use the Interim Template. *LaTex Authors*, please use the official ACM Master with the `ACM_SigConf` template.
 
 The following modifications and exceptions do apply:
 

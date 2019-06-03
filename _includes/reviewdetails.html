@@ -1,0 +1,100 @@
+{% assign plural = include.plural %}
+{% for submission in site.data.cfp.reviewing %}
+  {% if plural == submission.track %}
+    {% assign subtrack = submission.round %}
+	{% if submission.bidding %}  
+      {% if subtrack == "round0" %}
+        {% assign bidstart = site.data.cfp.bidstart %}
+		{% assign bidend = site.data.cfp.bidend %}
+		{% assign reviewstart = site.data.cfp.reviewstart %}
+		{% assign reviewend = site.data.cfp.reviewend %}
+		{% assign discussionstart = site.data.cfp.discussionstart %}
+		{% assign discussionend = site.data.cfp.discussionend %}
+      {% elsif subtrack == "round1" %}
+        {% assign bidstart = site.data.cfp.r1bidstart %}
+		{% assign bidend = site.data.cfp.r1bidend %}
+		{% assign reviewstart = site.data.cfp.r1reviewstart %}
+		{% assign reviewend = site.data.cfp.r1reviewend %}
+		{% assign discussionstart = site.data.cfp.discussionstart %}
+		{% assign discussionend = site.data.cfp.discussionend %}
+      {% elsif subtrack == "round2" %}
+        {% assign bidstart = site.data.cfp.r2bidstart %}
+		{% assign bidend = site.data.cfp.r2bidend %}
+		{% assign reviewstart = site.data.cfp.r2reviewstart %}
+		{% assign reviewend = site.data.cfp.r2reviewend %}
+		{% assign discussionstart = site.data.cfp.r2discussionstart %}
+		{% assign discussionend = site.data.cfp.r2discussionend %}
+      {% else %}
+        {% assign subdate = "Oops." %}
+      {% endif %}
+	{% else %}
+      {% if subtrack == "round0" %}
+		{% assign reviewstart = site.data.cfp.bidstart %}
+		{% assign reviewend = site.data.cfp.reviewend %}
+		{% assign discussionstart = site.data.cfp.discussionstart %}
+		{% assign discussionend = site.data.cfp.discussionend %}
+      {% elsif subtrack == "round1" %}
+		{% assign reviewstart = site.data.cfp.r1bidstart %}
+		{% assign reviewend = site.data.cfp.r1reviewend %}
+		{% assign discussionstart = site.data.cfp.discussionstart %}
+		{% assign discussionend = site.data.cfp.discussionend %}
+      {% elsif subtrack == "round2" %}
+		{% assign reviewstart = site.data.cfp.r2bidstart %}
+		{% assign reviewend = site.data.cfp.r2reviewend %}
+		{% assign discussionstart = site.data.cfp.r2discussionstart %}
+		{% assign discussionend = site.data.cfp.r2discussionend %}
+      {% else %}
+        {% assign subdate = "Oops." %}
+      {% endif %}
+	{% endif %}
+  {% endif %}
+{% endfor %}
+
+<!-- DEBUGGING >
+{{include.plural}}
+
+track: {{subtrack}}
+
+date: {{subdate}}
+
+time: {{subtime}}
+
+{{subnotification}}
+
+{{subcameraready}}
+
+{{subtimelink}}
+
+{{specialsubmission}}
+
+-->
+<h2>Review Timeline</h2>
+
+<div class="table-responsive" style="margin-top: 20px;">
+  <table class="table">
+      <tbody>
+	    <tr>
+		  <th>Reviewing Phase</th>
+		  <th>Start Date</th>
+		  <th>End Date</th>
+		</tr>
+        {% if bidstart %}
+        <tr>
+		  <td><b>Bidding</b></td>
+          <td>{{bidstart}}</td>
+          <td>{{bidend}}</td>
+        </tr>
+        {% endif %}
+        <tr>
+		  <td><b>Reviewing</b></td>
+          <td>{{reviewstart}}</td>
+          <td>{{reviewend}}</td>
+        </tr>
+		<tr>
+		  <td><b>Discussion & Recommendations</b></td>
+          <td>{{discussionstart}}</td>
+          <td>{{discussionend}}</td>
+        </tr>
+      </tbody>
+    </table>
+</div>
