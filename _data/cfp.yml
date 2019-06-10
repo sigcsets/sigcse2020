@@ -56,10 +56,10 @@ reviewing:
     bidding: true
   - track: Panels
     round: round1
-    bidding: true
+    bidding: false
   - track: Special Sessions
     round: round1
-    bidding: true
+    bidding: false
   - track: Workshops
     round: round1
     bidding: false
@@ -68,10 +68,10 @@ reviewing:
     bidding: false
   - track: Demos
     round: round2
-    bidding: false
+    bidding: true
   - track: Lightning Talks
     round: round2
-    bidding: false
+    bidding: true
   - track: Birds of a Feather
     round: round2
     bidding: false

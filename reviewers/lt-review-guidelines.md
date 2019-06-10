@@ -14,7 +14,7 @@ showTitle: true
 
 ## Review Guidelines
 
-Keep in mind that lightning talks are meant to be a place to present and receive feedback on work that is preliminary or in progress. Please provide constructive feedback and clearly justify your choice of rating to help the authors. A review that gives a low score with no written comments is not helpful to the authors since it simply tells the authors that they have been unsuccessful, with no indication of how or why.
+As you write your review, please keep in mind  that Lightning Talks are meant to describe works in progress, new and untested ideas, or opportunities for collaborative work. The purpose of a Lightning Talk can be to start a discussion, find collaborators, or receive input and critique about an idea.
 
 Reviewers will be asked to summarize the work, provide their familiarity with the submission topic, describe the expected audience, identify strengths and weaknesses of the submissions, and provide an overall evaluation.  Reviewers may provide confidential comments to the program committee to address concerns about the submission. These comments will not be shared with submitting authors.
 
