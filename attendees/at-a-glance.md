@@ -270,7 +270,7 @@ layout: default
 </tr>
 <tr>
     <td>12:00 pm - 1:45 pm</td>
-    <td>SIGCSE Lunch with BOF Topic Tables</td>
+    <td>SIGCSE Lunch with Discussion Topic Tables</td>
     <td>Oregon Ballroom</td>
 </tr>
 <tr>

@@ -1,16 +1,18 @@
 Platinum:
-#   - name: "GitHub Education"
-#     image: github-education-200.png
-#     link: "https://education.github.com/" 
+   - name: "GitHub Education"
+     image: github-education-200.jpg
+     link: "https://education.github.com/" 
 #   - name: "Google, Inc."
 #     image: google-200.png
 #     link: "https://www.google.com/edu/cs/"
-#   - name: "Microsoft"
-#     image: microsoft-200.png
-#     link: "https://microsoft.com/"
+   - name: "Microsoft"
+     image: microsoft-200.jpg
+     link: "https://www.microsoft.com/en-us/"
     
 Gold:
-
+   - name: "Gradescope by turnitin"
+     image: turnitin-200.png
+     link: "https://www.turnitin.com/"
 #   - name: "Codio"
 #     image: codio-200.png
 #     link: "https://codio.com/"
@@ -22,9 +24,9 @@ Gold:
 #   - name: "Turing's Craft"
 #     image: turingscraft-200.png
 #     link: "https://www.turingscraft.com/"
-#   - name: "zyBooks"
-#     image: zybooks-200.png
-#     link: "https://www.zybooks.com/sigcse-2019/"
+   - name: "zyBooks"
+     image: zybooks-200.jpg
+     link: "https://www.zybooks.com/"
 
 Silver:
 #  - name: ABET
@@ -39,9 +41,7 @@ Silver:
 #  - name: Mimir
 #    image: mimir-200.png
 #    link: "http://www.mimirhq.com"
-#  - name: Turnitin
-#    image: turnitin-200.png
-#    link: "https://www.turnitin.com/"
+
 #  - name: "Vocareum, Inc"
 #    image: vocareum-200.png
 #    link: "https://www.vocareum.com/"
