@@ -12,7 +12,7 @@ Platinum:
 Gold:
    - name: "Gradescope by turnitin"
      image: turnitin-200.png
-     link: "https://www.turnitin.com/"
+     link: "https://www.gradescope.com/"
 #   - name: "Codio"
 #     image: codio-200.png
 #     link: "https://codio.com/"
