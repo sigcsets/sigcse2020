@@ -77,6 +77,8 @@ Affiliated Events will be charged a fee to help defray costs on a per room basis
 ### Food and Beverage
 Food and beverage must be paid by the Affiliated Event organizers directly to the convention center.  dLPLAN will contact event organizers with details for arranging food & beverage for your event.
 
+[Convention Center Catering Menu](../pdf/ConvCent_CateringMenu.pdf)
+
 ### Audio/Visual
 The standard room setup consists of a screen, projector, and microphone.  There will be a charge for any A/V items that you request beyond the standard A/V set. You will be provided with an online portal to order and pay for those items. dLPLAN will contact event organizers with details for arranging additional A/V for your event. 
 
