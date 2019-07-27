@@ -38,6 +38,9 @@
     link: /pdf/sigcse2020-cfp.pdf
 - name: For Reviewers
   subheads:
+   - name: Reviewer Signup
+     link: /reviewers/signup.html
+     divider: true
    - name: Paper Review Process & Reviewer Responsibilities
      link: /reviewers/paper-review-process.html
    - name: Paper Review Guidelines
@@ -65,9 +68,7 @@
      link: /reviewers/nifty-review-guidelines.html
    - name: Poster Review Guidelines
      link: /reviewers/poster-review-guidelines.html
-     divider: true
-   - name: Reviewer Signup
-     link: /reviewers/signup.html
+
 - name: For Attendees
   subheads:
    - name: Conference Policies

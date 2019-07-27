@@ -15,16 +15,11 @@ The general review process covers the following submission types (grouped by sub
 [Nifty Assignments](../reviewers/nifty-review-guidelines.html), and
 [Posters](../reviewers/poster-review-guidelines.html)  
 
-<div class = "alert alert-info" style="margin-top: 23px">
-    <span class="glyphicon glyphicon-align-left" aria-hidden="true"></span>
-      If you are reviewing for <a href="../authors/papers.html">Papers</a> (your invitation email from EasyChair will have your track assignment), please refer to the <a href="paper-review-process.html">Paper Review Process</a> and <a href="paper-review-guidelines.html">Paper Review Guidelines</a>.
-  </div>
-
-
+(If you are reviewing for [Papers](../authors/papers.html), please refer to the [Paper Review Process](paper-review-process.html) and [Paper Review Guidelines](paper-review-guidelines.html).
 
 Reviewers provide high-quality reviews for submissions to provide authors with feedback so they may improve their work for presentation or future submission.  Reviewers are expected to provide constructive, specific comments in reviews that support numeric indicators.  
 
-Each submission will receive at most 3 reviews.  
+Each submission will receive 3 reviews.  
 
 All reviews are submitted through EasyChair.   Reviewers are considered "Ordinary PC members" in EasyChair.
 
@@ -97,10 +92,6 @@ Group 2 submissions are [ACM Student Research Competition](../reviewers/src-revi
 		</tbody>
 	</table>
 </div>
-
-### Workload
-
-Each reviewer will review between 3 and 5 submissions per Round.  Reviewers have the option of reviewing in both Round 1 & Round 2.  Most submissions are around 2 pages in length.
 
 ### Reviewer Profile
 

@@ -4,11 +4,16 @@ title: Paper Review Process
 showTitle: true
 ---
 
+<div class = "alert alert-info" style="margin-top: 23px">
+    <span class="glyphicon glyphicon-align-left" aria-hidden="true"></span>
+      If you are NOT reviewing papers (your invitation email from EasyChair will have your track assignment), please refer to the <a href="general-review-process.html">General Review Process</a> which contains links to <a href="general-review-process.html#review">Track-Specific Review Guidelines</a>.
+  </div>
+
 SIGCSE papers are reviewed using a double-blind process managed through EasyChair. There are four phases to the review process: [bid](#bid), [review](#review), [discussion](#discussion), and [recommendation](#recommendation).
 
 **Reviewers** provide high-quality reviews for submissions to provide authors with feedback so they may improve their work for presentation or future submission.  **Associate Program Chairs** (APCs) meta-review each paper and provide a recommendation and feedback to the Program Chairs.
 
-Each *paper* submission will receive 4 reviews and a meta-review.  
+Each *paper* submission will receive 3 reviews and a meta-review.  
 
 All reviews are submitted through EasyChair.  Reviewers are considered "Ordinary PC members" in EasyChair.  APCs are considered "Senior PC members" in EasyChair.
 

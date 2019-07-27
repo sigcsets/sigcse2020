@@ -164,7 +164,7 @@
 
   - name: Jodi Tims
     role: Supporter/Exhibitor Liaison
-    inst:  Baldwin Wallace University
+    inst:  Northeastern University
     email: exhibitor@sigcse2020.org
     
   - name: Mark Floryan
@@ -242,6 +242,8 @@
   members: 
    - name: Miles Berry
      inst: University of Roehampton, UK
+   - name: Steven Bradley
+     inst: Durham University, UK
    - name: Jennifer Campbell
      inst: University of Toronto
    - name: Ernesto Cuadros-Vargas
@@ -264,6 +266,8 @@
      inst: Kenya Methodist University
    - name: Chris McDonald
      inst: University of Western Australia
+   - name: André Santos
+     inst: Instituto Universitário de Lisboa, Portugal
    - name: Marco Silva
      inst: Federal University of Technology, Brazil
    - name: Lenandlar Singh

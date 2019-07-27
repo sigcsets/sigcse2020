@@ -91,7 +91,7 @@ Lightning Talks proposals are {{site.data.cfp.details["Lightning Talks"].limits}
 
 See the Nifty site for instructions on making up your submission: {{site.data.cfp.details["Nifty Assignments"].limits}}
 
-Accepted Nifty abstracts will be included in the proceedings as part of the Nifty paper.  For details about a Nifty submission, see {{site.data.cfp.details["Nifty Assignments"].limits}}.
+Accepted Nifty abstracts will be included in the proceedings as part of the Nifty paper.  For details about a Nifty submission, see [How Should the Proposal be Formatted](nifty.html#how-should-the-proposal-be-formatted).
 
 
 ### Posters
