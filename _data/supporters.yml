@@ -13,17 +13,17 @@ Gold:
    - name: "Gradescope by turnitin"
      image: turnitin-200.png
      link: "https://www.gradescope.com/"
-#   - name: "Codio"
-#     image: codio-200.png
-#     link: "https://codio.com/"
+   - name: "Codio"
+     image: codio-200.png
+     link: "https://codio.com/"
 #   - name: "Intel"
 #     image: intel-200.png
 #   - name: "Oracle Academy"
 #     image: oracle-2019-200.png
 #     link: "http://www.oracle.com/academy/" 
-#   - name: "Turing's Craft"
-#     image: turingscraft-200.png
-#     link: "https://www.turingscraft.com/"
+   - name: "Turing's Craft"
+     image: turingscraft-200.png
+     link: "https://www.turingscraft.com/"
    - name: "zyBooks"
      image: zybooks-200.jpg
      link: "https://www.zybooks.com/"
