@@ -29,9 +29,9 @@ Gold:
      link: "https://www.zybooks.com/"
 
 Silver:
-#  - name: ABET
-#    image: abet-new-100.png
-#    link: "http://www.abet.org/"
+  - name: ABET
+    image: abet-new-100.png
+    link: "https://www.abet.org/"
 #  - name: AWS Educate
 #    link: "https://aws.amazon.com/education/awseducate/"
 #    image: aws-educate-200.png
