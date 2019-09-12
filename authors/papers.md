@@ -29,8 +29,8 @@ Authors may find ["What is a SIGCSE Symposium Paper?"](https://dl.acm.org/citati
 There are many resources for writing high quality papers for submission to the SIGCSE Technical Symposium.  We encourage authors to read and evaluate papers from prior SIGCSE Technical Symposium, especially those designated as *best papers*, which were selected both due to content and high quality reporting.  Authors will also likely find the [paper review guidelines](../reviewers/paper-review-guidelines.html) beneficial for identifying how reviewers will assess papers for each track.   We have linked in additional resources that you may find useful as you write your papers, especially computer science education research papers.
 
 * [Writing a research question (csedresearch.org)](https://csedresearch.org/write-a-research-question/)
-* [Reporting Tips (csedresearch.org)](https://csedresearch.org/guides/)
-* [Checklist for Research Articles (csedresearch.org)](https://csedresearch.org/check-articles/)
+* [Reporting Tips (csedresearch.org)](https://csedresearch.org/reporting-activities/)
+* [Checklist for Research Articles (csedresearch.org)](https://csedresearch.org/reviewing-articles/)
 * [Evaluation Instruments (csedresearch.org)](https://csedresearch.org/evaluation-instruments/)
 * [What's the difference between a research paper and an experience report? (Andy Ko)](https://gist.github.com/andyjko/689837b8eefccb3a8a28ff0aa5300615#whats-the-difference-between-a-research-paper-and-an-experience-report)
 

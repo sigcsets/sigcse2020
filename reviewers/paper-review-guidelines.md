@@ -13,13 +13,13 @@ Here are some recommendations for writing reviews of submitted papers that help 
 
 * Papers submitted to the SIGCSE Technical Symposium are expected to be original work. If the work is not original or is not a sufficient advancement over prior work, please state so in the review or 'confidential comments to the program committee' section.
 
-* Your job as a reviewer is to write detailed reviews, even for excellent papers. In addition to telling the authors what you didn’t like about their paper, be sure to include what you did like as well.
+* Your job as a reviewer is to write detailed reviews, even for excellent papers. In addition to telling the authors what you didn’t like about their paper, be sure to include what you did like.
 
 * Even if your opinion is that the paper is poorly written or poorly thought-out, you can still provide constructive criticisms to help the authors, and in the long run, the conference. Think of your goal as convincing the authors of the paper you’re reviewing to submit something else next year, but of such high quality that it will be well-reviewed and easily accepted. Give the authors advice on how to do that.
 
 * The best reviews clearly justify the reviewer’s choice of rating. The least valuable review gives a low score with no written comments. That simply tells the authors that they have been unsuccessful, with no indication of how or why.
 
-* The focus of your review should be on content.
+* The focus of your review should be on the content. Authors shouldn’t provide any links to supplemental materials. If they do, as a reviewer, you are not expected to review linked supplemental materials. When crafting your review, consider the most important information that is needed for the paper to stand as an independent work.
 
 * Papers that you review are supposed to be anonymous. Your review should be based on the merits of the paper, not the reputation of the authors or their institutions. Therefore, we have asked the authors to remove all identifiable references to themselves. We realize that reviewers sometimes know the work and can guess who the authors of the papers might be. If the work is not anonymized, please let the Program Chairs know and continue to provide a fair and unbiased review.  If you are unable to do so, please notify the Program Chairs.
 
@@ -32,6 +32,8 @@ Here are some recommendations for writing reviews of submitted papers that help 
 * Please point out typographic and grammatical errors; if there are too many to list, please state so in your review.
 
 * Although SIGCSE requires all submitted papers to be polished work, all accepted authors get a brief opportunity to improve the presentation of their paper before camera-ready copy is due. Your detailed feedback may help improve a paper, and in a small way, improve the conference.
+
+* Do not put your recommendation for Accept or Reject in the author visible comments. The comments to authors should focus on the strengths and weaknesses of the paper and provide feedback to the authors for improvement, either for a camera-ready or for a future submission.  These comments should correspond to the numeric score that you give the paper, which the other reviewers, APC, and Program Chairs will all see. Remember, you are only looking at a small fraction of the submissions; the Program Chairs consider the entire pool of submissions for a balanced and representative program. 
 
 ## Substandard Reviews
 
@@ -108,12 +110,11 @@ For a typical paper in this track, here are some key factors to include (as an a
     - About the data: why this particular type of data is relevant to your research questions
     - About the participants: how many, what was their background (are they instructors, students, alumni, etc.); what if any formal coursework have they had in computing; how many were men and how many women; and any other factors that are relevant to the author’s project
     - About the person(s) gathering the data: What is their relationship to the participants? For example, if the data were collected from students in a class, was the instructor one of the researchers or not?
-    - About the data gathering process: did the project use surveys, interviews, samples of student work, other; If surveys or interviews, exactly what questions were asked.
-	- Six pages may not be sufficient to provide all the necessary details.  Authors may link to supplemental materials that should be blinded for review.  However, as a reviewer, you are not expected to review linked supplemental materials. 
+    - About the data gathering process: did the project use surveys, interviews, samples of student work, other; If surveys or interviews, exactly what questions were asked. 
 6. Is the data analysis process/methodology sufficiently described so that the reader could reproduce it?
     - What methodology was used?
     - Is the methodology described, with an appropriate citation?
-    - Is the implementation of the methodology clearly enough described? How many people were involved? What process was used to resolve any disagreements?
+    - Is the implementation of the methodology described clearly enough? How many people were involved? What process was used to resolve any disagreements?
 	- Is the analysis process/methodology appropriate for answering the research questions?
 7. Is the analysis methodology something new to computing education research that might be a contribution itself?
 8. Are the results of the analysis clearly summarized?
@@ -128,9 +129,10 @@ For a typical paper in this track, here are some key factors to include (as an a
 There are many resources for writing high quality papers for submission to the SIGCSE Technical Symposium.  We encourage reviewers to read and evaluate papers from prior SIGCSE Technical Symposium, especially those designated as *best papers*, which were selected both due to content and high quality reporting. We have linked in additional resources that you may find useful as you review CS Education Research papers.
 
 * [Writing a research question (csedresearch.org)](https://csedresearch.org/write-a-research-question/)
-* [Reporting Tips (csedresearch.org)](https://csedresearch.org/guides/)
-* [Checklist for Research Articles (csedresearch.org)](https://csedresearch.org/check-articles/)
+* [Reporting Tips (csedresearch.org)](https://csedresearch.org/reporting-activities/)
+* [Checklist for Research Articles (csedresearch.org)](https://csedresearch.org/reviewing-articles/)
 * [Evaluation Instruments (csedresearch.org)](https://csedresearch.org/evaluation-instruments/)
+
 
 ### Experience Reports and Tools Paper Track
 
@@ -154,6 +156,8 @@ For a typical paper in this track, here are some key factors to include (as an a
 
 Curricula initiatives should describe new curricula, programs, and degrees, the motivating context before the new initiative was undertaken, what it took to put the initiative into place, what the impact has been, and suggestions for others wishing to adopt it. This track may also include position papers, which are meant to engender fruitful academic discussion by presenting a defensible opinion about a CS education topic, substantiated with evidence.
 
+For a typical paper in this track, here are some key factors to include (as an author) and to look for (as a reviewer):
+
 1. Is the innovation clearly stated? Since the rest of the paper will be organized around this, it’s often good to put it in the abstract and in the first section of the paper.
     - Description of the problem or need being addressed.
 2. Is the curricular innovation or position paper of interest to the SIGCSE Technical Symposium audience?
@@ -167,4 +171,4 @@ Curricula initiatives should describe new curricula, programs, and degrees, the 
 5. Future Success Indicators
     - How could the curricular innovation or proposed idea be assessed if adopted or implemented?
     - In what context can the curricular innovation or proposed idea be used (large research institutions, community colleges, high schools)?	
-    - How difficult would the curricular innovation or proposed idea be to adopt it? For example, the human and financial resources needed.
+    - How difficult would the curricular innovation or proposed idea be to adopt it? For example, do the authors consider the human and financial resources needed.

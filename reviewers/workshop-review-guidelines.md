@@ -6,15 +6,23 @@ showTitle: true
 
 ## Overview
 
-Workshops provide an in-depth review of, or introduction to, a topic of interest, and should provide participants with materials and/or ideas that are immediately useful in the classroom. To this end, workshop presenters should provide participants with handouts, online materials, or other tangible documents/ artifacts outlining and/or supporting the workshop material.
-
-**Workshop proposals undergo review but not blind review**. Proposals are evaluated for relevance, anticipated interest, quality, and availability of appropriate facilities. In addition, feedback on, and attendance at, similar workshops that have been offered in previous years may be taken into account. This is particularly relevant for workshops that propose repeating or extending a previously offered workshop. Authors may want to review the list of workshops accepted in previous years before submitting a proposal.
+Workshops provide an in-depth review of or introduction to a topic of interest, and should provide participants with materials and/or ideas that are immediately useful in the classroom. 
 
 ## Review
 
-Please provide constructive feedback and clearly justify your choice of rating to help the authors. A review that gives a low score with no written comments is not helpful to the authors since it simply tells the authors that they have been unsuccessful, with no indication of how or why.
+SIGCSE Technical Symposium workshop proposals are reviewed within EasyChair. Please ensure that you have followed all of the guidelines in the General Review Process.
 
-Reviewers will be asked to summarize the work; provide their familiarity with the submission topic; comment on the experience of the workshop leaders, the agenda, and materials; provide feedback on the abstract and advertisement text; identify strengths and weaknesses of the submissions; and provide an overall evaluation.  Reviewers may provide confidential comments to the program committee to address concerns about the submission. These comments will not be shared with submitting authors.
+**Reviews of workshop proposals are not blind.** Each proposal is assigned to at least three reviewers. 
+
+As stated in the general review guidelines, “[r]eviewers provide high-quality reviews for submissions to provide authors with feedback so they may improve their work for presentation or future submission[s].” As such, please ensure that all criticism is phrased in a constructive manner.
+
+Your overall recommendation should focus on significance and relevance, anticipated interest, and quality. In assessing significance and relevance, your primary resource should be the (surprise!) “Significance and Relevance of the Topic” section of the proposal. Similarly, in assessing anticipated interest, you should pay particular attention to the “Expected Audience” section. Finally, in assessing quality, you should consider all sections except “Space and Enrollment Restrictions” and “Audio/Visual Requirements.” The program and track chairs will consider these sections and the availability of appropriate facilities, as well as feedback on, and attendance at, similar workshops that have been offered in previous years
 
 {% include reviewreminder.html %}
+
+## Discussion
+
+The discussion and recommendation period provides the opportunity for reviewers and track chairs to discuss reviews and feedback so they can provide the best recommendation for acceptance or rejection to the Program Chairs. We ask that **reviewers engage in discussion when prompted by other reviewers or the track chairs** by using the Comments feature of EasyChair. During this period you will be able to revise your review based on the discussion, but you are not required to do so.
+
+Track chairs will make a final recommendation to the Program Chairs after considering the reviews.
 

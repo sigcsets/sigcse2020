@@ -2,9 +2,9 @@ Platinum:
    - name: "GitHub Education"
      image: github-education-200.jpg
      link: "https://education.github.com/" 
-#   - name: "Google, Inc."
-#     image: google-200.png
-#     link: "https://www.google.com/edu/cs/"
+   - name: "Google, Inc."
+     image: google-200.png
+     link: "https://edu.google.com/code-with-google/?modal_active=none&story-card_activeEl=enhance-any-subject"
    - name: "Microsoft"
      image: microsoft-200.jpg
      link: "https://www.microsoft.com/en-us/"
