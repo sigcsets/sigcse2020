@@ -77,8 +77,8 @@
      link: /attendees/at-a-glance.html
 #   - name: Accessibility
 #     link: /attendees/accessibility.html
-#   - name: Registration and Rates
-#     link: /attendees/index.html#registering    
+   - name: Registration Rates
+     link: /attendees/index.html#registration-rates    
 #   - name: Hotels 
 #     link: /attendees/index.html#conference-hotels
 #     divider: true
