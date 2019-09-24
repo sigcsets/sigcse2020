@@ -32,7 +32,7 @@ There are many resources for writing high quality papers for submission to the S
 * [Reporting Tips (csedresearch.org)](https://csedresearch.org/reporting-activities/)
 * [Checklist for Research Articles (csedresearch.org)](https://csedresearch.org/reviewing-articles/)
 * [Evaluation Instruments (csedresearch.org)](https://csedresearch.org/evaluation-instruments/)
-* [What's the difference between a research paper and an experience report? (Andy Ko)](https://gist.github.com/andyjko/689837b8eefccb3a8a28ff0aa5300615#whats-the-difference-between-a-research-paper-and-an-experience-report)
+* [What's the difference between a research paper and an experience report? (Amy Ko)](https://gist.github.com/amyjko/689837b8eefccb3a8a28ff0aa5300615#whats-the-difference-between-a-research-paper-and-an-experience-report)
 
 ### Paper Topics
 
