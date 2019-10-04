@@ -46,7 +46,7 @@ layout: default
     </tr>
     <tr>
         <td>7:00 am - 8:15 am</td>
-        <td>Speaker Breakfast (Thurs presenters only)</td>
+        <td>Speaker Breakfast (Thurs paper presenters by invitation only)</td>
         <td>TBD</td>
     </tr>
     <tr>
@@ -140,7 +140,7 @@ layout: default
 </tr>
 <tr>
     <td>7:00 am - 8:15 am</td>
-    <td>Speaker Breakfast (Friday presenters only)</td>
+    <td>Speaker Breakfast (Fri paper presenters by invitation only)</td>
     <td>TBD</td>
 </tr>
 <tr>
@@ -239,8 +239,8 @@ layout: default
     <td><strong>Location</strong></td>
 </tr>
 <tr>
-    <td>7:00 am - 8:30 am</td>
-    <td>Speaker Breakfast (for Saturday presenters only)</td>
+    <td>7:00 am - 8:15 am</td>
+    <td>Speaker Breakfast (Sat paper presenters by invitation only)</td>
     <td>TBD</td>
 </tr>
 <tr>

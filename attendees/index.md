@@ -84,7 +84,7 @@ layout: default
 
 <div class = "row" style = "padding-bottom: 5;">&nbsp;</div>
 
-#### Workshop Registration
+### Workshop Registration
 
 <div class = "row" style = "font-weight: bold;">
     <div class = "col-sm-6"> Workshop Registration Rates </div>
@@ -99,4 +99,86 @@ layout: default
     <div class = "col-sm-2"> $95 </div>
 </div>
 
+
+## Conference Hotels
+
+
+### Hyatt Regency Portland at Convention Center
+
+General Information:
+
+* [Reservation Link](https://www.hyatt.com/en-US/hotel/oregon/hyatt-regency-portland-at-the-oregon-convention-center/pdxrp?corp_id=G-AFCM)
+     * Group Code: g-afcm
+* Address: 329 NE Couch St. Portland, OR  97232
+* Phone: 760.580.1103  
+* Hotel Website: hyattregencyportlandocc.com
+
+Rates are:
+
+* $199 for (1) queen bed (1 or 2 people)
+* $224 for (2) queen beds (3 people)
+* $249 for (2) queen beds (4 people)
+ 
+Dates that group rate is available:
+
+* Monday                3/9/20
+* Tuesday                3/10/20
+* Wednesday         3/11/20
+* Thursday              3/12/20
+* Friday                    3/13/20
+* Saturday              3/14/20
+
+ 
+### Marriott Courtyard Portland Downtown / Convention Center
+
+General Information:
+
+* [Reservation Link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1567721502621&key=GRP&app=resvlink)
+     * Group Code: STSSTSA for (1) Queen
+     * Group Code: STSSTSB for (2) queen
+* Address: 435 NE Wasco St., Portland, OR 97232
+* Phone:  503.234.3200
+* Website: courtyard.com
+
+Rates are:
+
+* $175 for (1) queen bed (1 or 2 people)
+* $175 for (2) queen beds (1 or 2 people)
+ 
+
+Dates that group rate is available:
+
+* Tuesday                3/10/20
+* Wednesday         3/11/20
+* Thursday              3/12/20
+* Friday                    3/13/20
+* Saturday              3/14/20
+
+
+### DoubleTree by Hilton - Portland
+
+General Information:
+
+* [Reservation Link](https://doubletree.hilton.com/en/dt/groups/personalized/R/RLLC-DT-AC9-20200309/index.jhtml)
+     * Group Code: AC9
+* Address: 1000 NE Multnomah, Portland, OR 97232
+* Phone: 503.281.6111
+* Website: http://www.portland.doubletree.com/
+
+Rates are:
+
+* $174 for (1) queen bed (1 or 2 people
+* $194 for (1) King bed (1 or 2 people)
+* $194 for (2) queen beds (1 or 2 people)
+* $209 for (2) queen beds (3 people)
+* $224 for (2) queen beds (4 people)
+ 
+
+Dates that group rate is available:
+
+* Tuesday                3/10/20
+* Wednesday         3/11/20
+* Thursday              3/12/20
+* Friday                    3/13/20
+* Saturday              3/14/20
 

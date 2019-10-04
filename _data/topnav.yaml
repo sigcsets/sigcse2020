@@ -3,7 +3,7 @@
   - name: Call for Participation
     link: /authors/cfp.html
   - name: Important Dates
-    link: /authors/index.html
+    link: /authors/
   - name: Frequently Asked Questions
     link: /authors/faq.html
     divider: true
@@ -78,14 +78,14 @@
 #   - name: Accessibility
 #     link: /attendees/accessibility.html
    - name: Registration Rates
-     link: /attendees/index.html#registration-rates    
-#   - name: Hotels 
-#     link: /attendees/index.html#conference-hotels
-#     divider: true
+     link: /attendees/#registration-rates    
+   - name: Hotels 
+     link: /attendees/#conference-hotels
+     divider: true
 #   - name: Roommate Database
-#     link: /attendees/index.html#roommatedb
+#     link: /attendees/#roommatedb
 #   - name: Transportation
-#     link: /attendees/index.html#travel
+#     link: /attendees/#travel
 #   - name: Student Volunteers
 #     link: /info/studentvolunteers.html
 #     divider: true
