@@ -115,7 +115,7 @@ master:
         singular: Paper
         include: papers
 
-  # Panels, Special Sessions, Workshops
+  # Panels, Special Sessions
   - time: "23:59 AoE (Baker Island, UTC-12h)"
     notification: "Friday, October 4, 2019"
     cameraready: "Sunday, December 1, 2019"
@@ -130,8 +130,18 @@ master:
       - plural: Workshops
         singular: Workshop
         include: workshops
+        
+  # Workshops
+  - time: "23:59 AoE (Baker Island, UTC-12h)"
+    notification: "Friday, October 4, 2019"
+    cameraready: "Wednesday, December 11, 2019"
+    round: round1
+    types:
+      - plural: Workshops
+        singular: Workshop
+        include: workshops
 
-  # ACM SRC, BoFs, Demos, LTs, Nifty, Posters
+  # ACM SRC, BoFs, Demos, LTs, Nifty
   - time: "23:59 AoE (Baker Island, UTC-12h)"
     notification: "Friday, November 15, 2019"
     cameraready: "Wednesday, December 11, 2019"
@@ -152,6 +162,16 @@ master:
       - plural: Nifty Assignments
         singular: Nifty Assignment
         include: nifty
+      - plural: Posters
+        singular: Poster
+        include: posters
+        
+  # Posters
+  - time: "23:59 AoE (Baker Island, UTC-12h)"
+    notification: "Friday, November 15, 2019"
+    cameraready: "Sunday, December 1, 2019"
+    round: round2
+    types:
       - plural: Posters
         singular: Poster
         include: posters
