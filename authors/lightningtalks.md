@@ -36,7 +36,7 @@ The abstract for an accepted proposal may contain a link to a website with more 
 
 * [Sample proposal (PDF)](../docs/sigcse-sample-lightning-talk.pdf)
 
-* [Sample proposal (Word)](../docs/sigcse-sample-lightning-talk.docx)
+<!--* [Sample proposal (Word)](../docs/sigcse-sample-lightning-talk.docx)-->
 
 ### 2018 Lightning Talks
 

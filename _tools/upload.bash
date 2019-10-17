@@ -9,7 +9,9 @@ function build {
 function upload {
   rsync -vrz \
     -e "ssh -p 7822 -i ~/.ssh/id_rsa" _site/ \
-    sigcse@sigcse.hosting.acm.org:/home/sigcse/www/$1
+	sigcse@sigcse.hosting.acm.org:/home/sigcse/public_html/$1 --delete
+    #sigcse@sigcse.hosting.acm.org:/home/sigcse/www/$1 --delete
+	
 }
 
 function linkcheck {
