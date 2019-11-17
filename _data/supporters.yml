@@ -5,6 +5,9 @@ Platinum:
    - name: "Google, Inc."
      image: google-200.png
      link: "https://edu.google.com/code-with-google/?modal_active=none&story-card_activeEl=enhance-any-subject"
+   - name: "Intel"
+     image: intel-200.png
+     link: https://www.intel.com/content/www/us/en/homepage.html
    - name: "Microsoft"
      image: microsoft-200.jpg
      link: "https://www.microsoft.com/en-us/"
@@ -16,8 +19,7 @@ Gold:
    - name: "Codio"
      image: codio-200.png
      link: "https://codio.com/"
-#   - name: "Intel"
-#     image: intel-200.png
+
 #   - name: "Oracle Academy"
 #     image: oracle-2019-200.png
 #     link: "http://www.oracle.com/academy/"
