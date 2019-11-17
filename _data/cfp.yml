@@ -169,7 +169,7 @@ master:
   # Posters
   - time: "23:59 AoE (Baker Island, UTC-12h)"
     notification: "Friday, November 15, 2019"
-    cameraready: "Sunday, December 1, 2019"
+    cameraready: "Sunday, December 8, 2019"
     round: round2
     types:
       - plural: Posters
