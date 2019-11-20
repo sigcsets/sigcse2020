@@ -15,19 +15,19 @@ layout: default
     <td><strong>Location</strong></td>
 </tr>
 <tr>
-    <td>8:30 am - 5:30 pm</td>
+    <td>8:30 am - 5:00 pm</td>
     <td>Pre-symposium Events</td>
-    <td>TBD</td>
+    <td>Oregon Convention Center</td>
 </tr>
 <tr>
     <td>3:00 pm - 9:30 pm</td>
     <td>Registration</td>
-    <td>Oregon Convention Center</td>
+    <td>Outside Exhibit Hall E</td>
 </tr>
 <tr>
     <td>7:00 pm - 10:00 pm</td>
     <td>Workshops 101-110</td>
-    <td>TBD</td>
+    <td>Oregon Convention Center</td>
 </tr>
 
 </table>
@@ -47,16 +47,16 @@ layout: default
     <tr>
         <td>7:00 am - 8:15 am</td>
         <td>Speaker Breakfast (Thurs paper presenters by invitation only)</td>
-        <td>TBD</td>
+        <td>E 143</td>
     </tr>
     <tr>
         <td>7:30 am - 5:50 pm</td>
         <td>Registration</td>
-        <td>Oregon Convention Center</td>
+        <td>Outside Exhibit Hall E</td>
     </tr>
     <tr>
         <td>8:15 am - 9:45 am</td>
-        <td>Opening Keynote</td>
+        <td>Opening Plenary Session</td>
         <td>Portland Ballroom</td>
     </tr>
     <tr>
@@ -65,14 +65,9 @@ layout: default
         <td>Exhibit Hall E</td>
     </tr>
     <tr>
-        <td>10:00 am - 11:30 am</td>
-        <td>NSF Showcase #1</td>
-        <td>Exhibit Hall E</td>
-    </tr>
-    <tr>
         <td>10:45 am - 12:00 pm</td>
         <td>Technical Session #1</td>
-        <td>TBD</td>
+        <td>Oregon Convention Center</td>
     </tr>
     <tr>
         <td>12:00 pm - 1:45 pm</td>
@@ -87,11 +82,11 @@ layout: default
     <tr>
         <td>1:45 pm - 3:00 pm</td>
         <td>Technical Session #2</td>
-        <td>TBD</td>
+        <td>Oregon Convention Center</td>
     </tr>
     <tr>
         <td>1:45 pm - 5:00 pm</td>
-        <td>Student Research Posters</td>
+        <td>Posters</td>
         <td>Exhibit Hall E</td>
     </tr>
     <tr>
@@ -100,24 +95,19 @@ layout: default
         <td>Exhibit Hall E</td>
     </tr>
     <tr>
-        <td>3:00 pm - 4:30 pm</td>
-        <td>NSF Showcase #2</td>
-        <td>Exhibit Hall E</td>
-    </tr>
-    <tr>
         <td>3:45 pm - 5:00 pm</td>
         <td>Technical Session #3</td>
-        <td>TBD</td>
+        <td>Oregon Convention Center</td>
     </tr>
     <tr>
         <td>5:30 pm - 6:20 pm</td>
         <td>Birds of a Feather: Flock 1</td>
-        <td>TBD</td>
+        <td>Oregon Convention Center</td>
     </tr>
     <tr>
         <td>6:30 pm - 7:20 pm</td>
         <td>Birds of a Feather: Flock 2</td>
-        <td>TBD</td>
+        <td>Oregon Convention Center</td>
     </tr>
     <tr>
         <td>7:30 pm - 9:30 pm</td>
@@ -141,26 +131,21 @@ layout: default
 <tr>
     <td>7:00 am - 8:15 am</td>
     <td>Speaker Breakfast (Fri paper presenters by invitation only)</td>
-    <td>TBD</td>
+    <td>E 143</td>
 </tr>
 <tr>
     <td>8:00 am - 5:00 pm</td>
     <td>Registration</td>
-    <td>Oregon Convention Cenber</td>
+    <td>Outside Exhibit Hall E</td>
 </tr>
 <tr>
     <td>8:15 am - 9:45 am</td>
-    <td>Keynote</td>
+    <td>Plenary Session</td>
     <td>Portland Ballroom</td>
 </tr>
 <tr>
     <td>10:00 am - 10:45 am</td>
     <td>Break, Exhibits &amp; Demos</td>
-    <td>Exhibit Hall E</td>
-</tr>
-<tr>
-    <td>10:00 am - 11:30 am</td>
-    <td>NSF Showcase #3</td>
     <td>Exhibit Hall E</td>
 </tr>
 <tr>
@@ -171,7 +156,7 @@ layout: default
 <tr>
     <td>10:45 am - 12:00 pm</td>
     <td>Technical Session #4</td>
-    <td>TBD</td>
+    <td>Oregon Convention Center</td>
 </tr>
 <tr>
     <td>12:00 pm - 1:45 pm</td>
@@ -181,21 +166,16 @@ layout: default
 <tr>
     <td>12:00 pm - 1:45 pm</td>
     <td>International Lunch</td>
-    <td>TBD</td>
+    <td>Oregon Ballroom 201</td>
 </tr>
 <tr>
     <td>1:45 pm - 3:00 pm</td>
     <td>Technical Session #5</td>
-    <td>TBD</td>
+    <td>Oregon Convention Center</td>
 </tr>
 <tr>
     <td>3:00 pm - 3:45 pm</td>
     <td>Break, Exhibits &amp; Demos</td>
-    <td>Exhibit Hall E</td>
-</tr>
-<tr>
-    <td>3:00 pm - 4:30 pm</td>
-    <td>NSF Showcase #4</td>
     <td>Exhibit Hall E</td>
 </tr>
 <tr>
@@ -206,22 +186,22 @@ layout: default
 <tr>
     <td>3:45 pm - 5:00 pm</td>
     <td>Technical Session #6</td>
-    <td>TBD</td>
+    <td>Oregon Convention Center</td>
 </tr>
 <tr>
     <td>5:10 pm - 6:00 pm</td>
     <td>SIGCSE Business Meeting</td>
-    <td>TBD</td>
+    <td>Portland Ballroom 251</td>
 </tr>
 <tr>
     <td>6:00 pm - 7:00 pm</td>
     <td>NCWIT Reception</td>
-    <td>TBD</td>
+    <td>Oregon Ballroom 201</td>
 </tr>
 <tr>
     <td>7:00 pm - 10:00 pm</td>
     <td>Workshops 301-310</td>
-    <td>TBD</td>
+    <td>Oregon Convention Center</td>
 </tr>
 
 
@@ -241,16 +221,16 @@ layout: default
 <tr>
     <td>7:00 am - 8:15 am</td>
     <td>Speaker Breakfast (Sat paper presenters by invitation only)</td>
-    <td>TBD</td>
+    <td>E 143</td>
 </tr>
 <tr>
     <td>8:30 am - 11:45 am</td>
     <td>Registration</td>
-    <td>Oregon Convention Center</td>
+    <td>Outside Exhibit Hall E</td>
 </tr>
 <tr>
     <td>8:15 am - 9:45 am</td>
-    <td>Keynote</td>
+    <td>Closing Plenary Session</td>
     <td>Portland Ballroom</td>
 </tr>
 <tr>
@@ -259,14 +239,9 @@ layout: default
     <td>Exhibit Hall E</td>
 </tr>
 <tr>
-    <td>10:00 am - 11:30 am</td>
-    <td>NSF Showcase #5</td>
-    <td>Exhibit Hall E</td>
-</tr>
-<tr>
     <td>10:45 am - 12:00 pm</td>
     <td>Technical Session #7</td>
-    <td>TBD</td>
+    <td>Oregon Convention Center</td>
 </tr>
 <tr>
     <td>12:00 pm - 1:45 pm</td>
@@ -276,12 +251,12 @@ layout: default
 <tr>
     <td>1:45 pm - 3:00 pm</td>
     <td>Technical Session #8</td>
-    <td>TBD</td>
+    <td>Oregon Convention Center</td>
 </tr>
 <tr>
     <td>3:30 pm - 6:30 pm</td>
     <td>Workshops 401-410</td>
-    <td>TBD</td>
+    <td>Oregon Convention Center</td>
 </tr>
 
 
