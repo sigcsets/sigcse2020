@@ -109,14 +109,14 @@ General Information:
 
 * [Reservation Link](https://www.hyatt.com/en-US/hotel/oregon/hyatt-regency-portland-at-the-oregon-convention-center/pdxrp?corp_id=G-AFCM)
      * Group Code: g-afcm
-* Address: 329 NE Couch St. Portland, OR  97232
-* Phone: 760.580.1103  
+* Address: 375 NE Holladay Street, Portland, Oregon, 97232
+* Phone: 877.803.7534 
 * Hotel Website: hyattregencyportlandocc.com
 
 Rates are:
 
-* $199 for (1) queen bed (1 or 2 people)
-* $224 for (2) queen beds (3 people)
+* $199 for (1) king bed (1 or 2 people)
+* $224 for (2) queen beds (3 people) - 	note:  the KING rooms do have a pull out sofa, so that is an option for 3 guests as well
 * $249 for (2) queen beds (4 people)
  
 Dates that group rate is available:
