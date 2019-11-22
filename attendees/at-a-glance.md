@@ -15,8 +15,18 @@ layout: default
     <td><strong>Location</strong></td>
 </tr>
 <tr>
-    <td>8:30 am - 5:00 pm</td>
-    <td>Pre-symposium Events</td>
+    <td>8:30 am - 12:00 pm</td>
+    <td>Pre-symposium Morning Session</td>
+    <td>Oregon Convention Center</td>
+</tr>
+<tr>
+    <td>8:30 am - 7:00 pm</td>
+          <td><a href="http://respect2020.stcbp.org/">RESPECT 2020</a></td>
+    <td>Portland Ballroom</td>
+</tr>
+<tr>
+    <td>1:30 pm - 5:00 pm</td>
+    <td>Pre-symposium Afternoon Session</td>
     <td>Oregon Convention Center</td>
 </tr>
 <tr>
@@ -50,7 +60,7 @@ layout: default
         <td>E 143</td>
     </tr>
     <tr>
-        <td>7:30 am - 5:50 pm</td>
+        <td>7:30 am - 9:30 pm</td>
         <td>Registration</td>
         <td>Outside Exhibit Hall E</td>
     </tr>
@@ -64,9 +74,14 @@ layout: default
         <td>Break, Exhibits &amp; Demos</td>
         <td>Exhibit Hall E</td>
     </tr>
+     <tr>
+        <td>10:00 am - 12:00 pm</td>
+        <td>Poster Session #1.1</td>
+        <td>Exhibit Hall E</td>
+    </tr>
     <tr>
         <td>10:45 am - 12:00 pm</td>
-        <td>Technical Session #1</td>
+        <td>Technical Session #1.1</td>
         <td>Oregon Convention Center</td>
     </tr>
     <tr>
@@ -81,12 +96,12 @@ layout: default
     </tr>
     <tr>
         <td>1:45 pm - 3:00 pm</td>
-        <td>Technical Session #2</td>
+        <td>Technical Session #1.2</td>
         <td>Oregon Convention Center</td>
     </tr>
     <tr>
         <td>1:45 pm - 5:00 pm</td>
-        <td>Posters</td>
+        <td>Student Research Posters</td>
         <td>Exhibit Hall E</td>
     </tr>
     <tr>
@@ -96,7 +111,7 @@ layout: default
     </tr>
     <tr>
         <td>3:45 pm - 5:00 pm</td>
-        <td>Technical Session #3</td>
+        <td>Technical Session #1.3</td>
         <td>Oregon Convention Center</td>
     </tr>
     <tr>
@@ -150,12 +165,12 @@ layout: default
 </tr>
 <tr>
     <td>10:00 am - 12:00 pm</td>
-    <td>Poster Session #1</td>
+    <td>Poster Session #2.1</td>
     <td>Exhibit Hall E</td>
 </tr>
 <tr>
     <td>10:45 am - 12:00 pm</td>
-    <td>Technical Session #4</td>
+    <td>Technical Session #2.1</td>
     <td>Oregon Convention Center</td>
 </tr>
 <tr>
@@ -169,8 +184,13 @@ layout: default
     <td>Oregon Ballroom 201</td>
 </tr>
 <tr>
+    <td>1:00 pm - 1:45 pm</td>
+    <td>Volunteering with SIGCSE</td>
+    <td>C 122</td>
+</tr>
+<tr>
     <td>1:45 pm - 3:00 pm</td>
-    <td>Technical Session #5</td>
+    <td>Technical Session #2.2</td>
     <td>Oregon Convention Center</td>
 </tr>
 <tr>
@@ -180,12 +200,12 @@ layout: default
 </tr>
 <tr>
     <td>3:00 pm - 5:00 pm</td>
-    <td>Poster Session #2</td>
+    <td>Poster Session #2.2</td>
     <td>Exhibit Hall E</td>
 </tr>
 <tr>
     <td>3:45 pm - 5:00 pm</td>
-    <td>Technical Session #6</td>
+    <td>Technical Session #2.3</td>
     <td>Oregon Convention Center</td>
 </tr>
 <tr>
@@ -202,6 +222,11 @@ layout: default
     <td>7:00 pm - 10:00 pm</td>
     <td>Workshops 301-310</td>
     <td>Oregon Convention Center</td>
+</tr>
+<tr>
+    <td>7:30 pm - 10:00 pm</td>
+          <td>Movie Night: <a href="https://thebitplayer.com/">The Bit Player</a></td>
+    <td>Portland Ballroom</td>
 </tr>
 
 
@@ -240,17 +265,17 @@ layout: default
 </tr>
 <tr>
     <td>10:45 am - 12:00 pm</td>
-    <td>Technical Session #7</td>
+    <td>Technical Session #3.1</td>
     <td>Oregon Convention Center</td>
 </tr>
 <tr>
     <td>12:00 pm - 1:45 pm</td>
-    <td>SIGCSE Lunch with Discussion Topic Tables</td>
+    <td>SIGCSE Celebration Lunch</td>
     <td>Oregon Ballroom</td>
 </tr>
 <tr>
     <td>1:45 pm - 3:00 pm</td>
-    <td>Technical Session #8</td>
+    <td>Technical Session #3.2</td>
     <td>Oregon Convention Center</td>
 </tr>
 <tr>
