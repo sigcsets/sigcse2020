@@ -71,17 +71,17 @@ layout: default
     </tr>
     <tr>
         <td>10:00 am - 10:45 am</td>
-        <td>Break, Exhibits &amp; Demos</td>
+        <td>Break, Exhibits &amp; Demos #1</td>
         <td>Exhibit Hall E</td>
     </tr>
      <tr>
         <td>10:00 am - 12:00 pm</td>
-        <td>Poster Session #1.1</td>
+        <td>Poster Session #1</td>
         <td>Exhibit Hall E</td>
     </tr>
     <tr>
         <td>10:45 am - 12:00 pm</td>
-        <td>Technical Session #1.1</td>
+        <td>Technical Session #1</td>
         <td>Oregon Convention Center</td>
     </tr>
     <tr>
@@ -96,7 +96,7 @@ layout: default
     </tr>
     <tr>
         <td>1:45 pm - 3:00 pm</td>
-        <td>Technical Session #1.2</td>
+        <td>Technical Session #2</td>
         <td>Oregon Convention Center</td>
     </tr>
     <tr>
@@ -106,12 +106,17 @@ layout: default
     </tr>
     <tr>
         <td>3:00 pm - 3:45 pm</td>
-        <td>Break, Exhibits &amp; Demos</td>
+        <td>Break, Exhibits &amp; Demos #2</td>
+        <td>Exhibit Hall E</td>
+    </tr>
+          <tr>
+        <td>3:00 pm - 5:00 pm</td>
+        <td>Poster Session #2</td>
         <td>Exhibit Hall E</td>
     </tr>
     <tr>
         <td>3:45 pm - 5:00 pm</td>
-        <td>Technical Session #1.3</td>
+        <td>Technical Session #3</td>
         <td>Oregon Convention Center</td>
     </tr>
     <tr>
@@ -160,17 +165,17 @@ layout: default
 </tr>
 <tr>
     <td>10:00 am - 10:45 am</td>
-    <td>Break, Exhibits &amp; Demos</td>
+    <td>Break, Exhibits &amp; Demos #3</td>
     <td>Exhibit Hall E</td>
 </tr>
 <tr>
     <td>10:00 am - 12:00 pm</td>
-    <td>Poster Session #2.1</td>
+    <td>Poster Session #3</td>
     <td>Exhibit Hall E</td>
 </tr>
 <tr>
     <td>10:45 am - 12:00 pm</td>
-    <td>Technical Session #2.1</td>
+    <td>Technical Session #4</td>
     <td>Oregon Convention Center</td>
 </tr>
 <tr>
@@ -190,22 +195,22 @@ layout: default
 </tr>
 <tr>
     <td>1:45 pm - 3:00 pm</td>
-    <td>Technical Session #2.2</td>
+    <td>Technical Session #5</td>
     <td>Oregon Convention Center</td>
 </tr>
 <tr>
     <td>3:00 pm - 3:45 pm</td>
-    <td>Break, Exhibits &amp; Demos</td>
+    <td>Break, Exhibits &amp; Demos #4</td>
     <td>Exhibit Hall E</td>
 </tr>
 <tr>
     <td>3:00 pm - 5:00 pm</td>
-    <td>Poster Session #2.2</td>
+    <td>Poster Session #4</td>
     <td>Exhibit Hall E</td>
 </tr>
 <tr>
     <td>3:45 pm - 5:00 pm</td>
-    <td>Technical Session #2.3</td>
+    <td>Technical Session #6</td>
     <td>Oregon Convention Center</td>
 </tr>
 <tr>
@@ -260,12 +265,17 @@ layout: default
 </tr>
 <tr>
     <td>10:00 am - 10:45 am</td>
-    <td>Break, Exhibits &amp; Demos</td>
+    <td>Break, Exhibits &amp; Demos #5</td>
     <td>Exhibit Hall E</td>
 </tr>
+          <tr>
+        <td>10:00 am - 12:00 pm</td>
+        <td>Poster Session #5</td>
+        <td>Exhibit Hall E</td>
+    </tr>
 <tr>
     <td>10:45 am - 12:00 pm</td>
-    <td>Technical Session #3.1</td>
+    <td>Technical Session #7</td>
     <td>Oregon Convention Center</td>
 </tr>
 <tr>
@@ -275,7 +285,7 @@ layout: default
 </tr>
 <tr>
     <td>1:45 pm - 3:00 pm</td>
-    <td>Technical Session #3.2</td>
+    <td>Technical Session #8</td>
     <td>Oregon Convention Center</td>
 </tr>
 <tr>
