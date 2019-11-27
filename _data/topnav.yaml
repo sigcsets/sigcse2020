@@ -99,12 +99,12 @@
 #     link: /attendees/bestpapers.html
 #   - name: SIGCSE 2019 Authors & Speakers
 #     link: /attendees/speakers.html
-#   - name: Workshops
-#     link: /attendees/workshops.html   
-#   - name: Pre-Symposium Events
-#     link: /attendees/presymposium.html
-#   - name: Supporter Sessions
-#     link: /attendees/supporter-sessions.html
+   - name: Workshops
+     link: /attendees/workshops.html   
+   - name: Pre-Symposium Events
+     link: /attendees/presymposium.html
+   - name: Supporter Sessions
+     link: /attendees/supporter-sessions.html
 #   - name: Exhibitor Map
 #     link: /info/floorplan.html     
 #   - name: Dept. Chairs' Roundtable

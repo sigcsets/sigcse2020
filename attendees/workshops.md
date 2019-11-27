@@ -1,7 +1,11 @@
 ---
 title: Workshops
 showTitle: true
+layout: default
 ---
+
+<!-- REMOVE WHEN DATA IS AVAILABLE -->
+<h3>More info coming soon!</h3>
 
 {% comment %}
 There are two pages for workshops, currently---one for the YAML structure, 
@@ -50,3 +54,6 @@ number,easychair,date,authors,title,advertisement,abstract
 <p>{{ws.abstract}}</p>
 
 {% endfor %}
+
+
+{% include submission-questions category="Workshops Track" %}

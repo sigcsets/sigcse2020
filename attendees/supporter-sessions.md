@@ -1,8 +1,10 @@
 ---
 title: Supporter Sessions
 showTitle: true
+layout: default
 ---
-
+<!-- REMOVE WHEN DATA IS AVAILABLE -->
+<h3>More info coming soon!</h3>
 
 {% comment %}
 *Date,*Time Start,*Time End,Tracks,*Session Title,Room/Location,Description,Speakers,Authors,"Session or 
@@ -20,9 +22,6 @@ or loading it into DrRacket and hitting "Run"
 {% endcomment %}
 
 {% include presymp.html track="Supporter Session" %}
-
-
-
 
 {% comment %}
 

@@ -111,7 +111,7 @@ layout: default
     </tr>
           <tr>
         <td>3:00 pm - 5:00 pm</td>
-        <td>Poster Session #2</td>
+        <td>ACM Student Research Competition Poster Session</td>
         <td>Exhibit Hall E</td>
     </tr>
     <tr>
@@ -170,7 +170,7 @@ layout: default
 </tr>
 <tr>
     <td>10:00 am - 12:00 pm</td>
-    <td>Poster Session #3</td>
+    <td>Poster Session #2</td>
     <td>Exhibit Hall E</td>
 </tr>
 <tr>
@@ -205,7 +205,7 @@ layout: default
 </tr>
 <tr>
     <td>3:00 pm - 5:00 pm</td>
-    <td>Poster Session #4</td>
+    <td>Poster Session #3</td>
     <td>Exhibit Hall E</td>
 </tr>
 <tr>
@@ -270,7 +270,7 @@ layout: default
 </tr>
           <tr>
         <td>10:00 am - 12:00 pm</td>
-        <td>Poster Session #5</td>
+        <td>Poster Session #4</td>
         <td>Exhibit Hall E</td>
     </tr>
 <tr>

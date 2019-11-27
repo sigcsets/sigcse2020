@@ -1,11 +1,15 @@
 ---
 title: Pre-Symposium Events
 showTitle: true
+layout: default
 ---
+<!-- REMOVE WHEN DATA IS AVAILABLE -->
+<h3>More info coming soon!</h3>
 
 There are several exciting pre-symposium events this year; plan your travel so you can get in a day early and take part in these excellent professional development and educational opportunities.
 
 <b>Please note</b>, some presymposium events have associated fees.
+
 
 <!-- num,presenters,title,description,cost,date,room,maxparticipants,infourl,numppl -->
 
