@@ -186,8 +186,8 @@ Dates that group rate is available:
 
 General Information:
 
-* [Researvation Link](https://hoteleastlund.webhotel.microsdc.us/bp/search_rooms.jsp?groupCode=SIGCSE20)
-      * Group Code: SIGCSE20
+* [Reservation Link](https://hoteleastlund.webhotel.microsdc.us/bp/search_rooms.jsp?groupCode=SIGCSE20)
+     * Group Code: SIGCSE20
 * Address: 1021 NE Grand Avenue, Portland, OR  97232
 * Phone: 503.235.2100 
 * Website: https://hoteleastlund.com/
