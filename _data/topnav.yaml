@@ -89,8 +89,8 @@
 #   - name: Student Volunteers
 #     link: /info/studentvolunteers.html
 #     divider: true
-#   - name: SIGCSE 2019 Online Program
-#     link: https://whova.com/embedded/event/sigcs_201902/
+   - name: SIGCSE 2020 Online Program
+     link: https://whova.com/embedded/event/sigcs_202003/?utc_soruce=ems
 #   - name: SIGCSE 2019 Proceedings
 #     link: https://dl.acm.org/citation.cfm?id=3287324
 #   - name: SIGCSE 2019 PDF Program
