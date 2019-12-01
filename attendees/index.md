@@ -182,3 +182,26 @@ Dates that group rate is available:
 * Friday                    3/13/20
 * Saturday              3/14/20
 
+### Hotel Eastlund
+
+General Information:
+
+* [Researvation Link](https://hoteleastlund.webhotel.microsdc.us/bp/search_rooms.jsp?groupCode=SIGCSE20)
+      * Group Code: SIGCSE20
+* Address: 1021 NE Grand Avenue, Portland, OR  97232
+* Phone: 503.235.2100 
+* Website: https://hoteleastlund.com/
+
+Rates are:
+
+* $189 for (1) King bed (1 or 2 people)
+* $189 for (2) Queen (2 – 4 people)
+
+Dates that group rate is available:
+
+* Monday                3/9/20
+* Tuesday                3/10/20
+* Wednesday         3/11/20
+* Thursday              3/12/20
+* Friday                    3/13/20
+* Saturday              3/14/20
