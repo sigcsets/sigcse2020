@@ -1,31 +1,14 @@
 ---
-title: Pre-Symposium Events
+title: Pre-Symposium & Co-Located Events
 showTitle: true
 layout: default
 ---
-<!-- REMOVE WHEN DATA IS AVAILABLE -->
-<h3>More info coming soon!</h3>
 
 There are several exciting pre-symposium events this year; plan your travel so you can get in a day early and take part in these excellent professional development and educational opportunities.
 
-<b>Please note</b>, some presymposium events have associated fees.
+<b>Please note</b>, some pre-symposium events have associated fees and separate registration websites.  For any questions, please contact the pre-symposium event organizers.
 
-
-<!-- num,presenters,title,description,cost,date,room,maxparticipants,infourl,numppl -->
-
-{% comment %}
-*Date,*Time Start,*Time End,Tracks,*Session Title,Room/Location,Description,Speakers,Authors,"Session or 
-Sub-session(Sub)",,,,,,,,,,,,,,,,
-
-WARNING FIXME
-The Whova presymposium data must be run through clean-whova.rkt.
-
-You can do this by running 
-
-racket clean-whova.rkt
-
-or loading it into DrRacket and hitting "Run"
-
-{% endcomment %}
+<!--*Date,*Time Start,*Time End,Tracks,*Session Title,Room/Location,Description,Speakers,Authors,"Session or 
+Sub-session(Sub)"-->
 
 {% include presymp.html track="Pre-Symposium" %}
