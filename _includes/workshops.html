@@ -1,0 +1,41 @@
+<!-- TOP LINKS -->
+<ul>
+{% for event in site.data.workshops %}
+  {% if event["number"] != "0" %}
+  {% assign anchor = event['title'] | downcase | remove: ' ' | remove: '!' | remove: '?' | remove: ':' | remove: '(' | remove: ')' | remove: ',' }} %}
+    <li><a href="#{{anchor}}">Workshop {{event['number']}}: {{event["title"]}}</a> </li>
+  {% endif %}
+  {% if event["number"] == "0" %}
+  </ul>
+  {% assign anchor = event['title'] | downcase | remove: ' ' | remove: '!' | remove: '?' | remove: ':' | remove: '(' | remove: ')' | remove: ',' }} %}
+  <strong><a href="#{{anchor}}">{{event["title"]}}</a></strong>
+  <ul>
+  {% endif %}
+{% endfor %}
+</ul>
+
+<!-- DESCRIPTIONS -->
+{% for event in site.data.workshops %}
+  {% if event["number"] == "0" %}
+  {% assign anchor = event['title'] | downcase | remove: ' ' | remove: '!' | remove: '?' | remove: ':' | remove: '(' | remove: ')' | remove: ',' }} %}
+
+  <p><a name="{{anchor}}"></a></p>
+  <h2>{{event['title']}}: {{event['authors']}}</h2>
+  {% endif %}
+
+  {% if event["number"] != "0" %}
+  {% comment %} These anchors need to be mangled. {% endcomment %}
+  {% assign anchor = event['title'] | downcase | remove: ' ' | remove: '!' | remove: '?' | remove: ':' | remove: '(' | remove: ')' | remove: ',' }} %}
+
+  <p><a name="{{anchor}}"></a></p>
+  <h3>Workshop {{event['number']}}: {{event["title"]}}</h3>
+  <p><b>Organizers</b>: {{event.authors}}</p>
+  <p><b>Advertisement</b>:</p> {{event.advertisement}}
+  <p><b>Abstract</b>:</p> {{event.abstract}}
+  <hr>
+  {% endif %}
+{% endfor %}
+
+<p>
+
+
