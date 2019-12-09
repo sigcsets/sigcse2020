@@ -194,7 +194,7 @@ General Information:
 Rates are:
 
 * $189 for (1) King bed (1 or 2 people)
-* $189 for (2) Queen (2 – 4 people)
+* $209 for (2) Queen (2 – 4 people)
 
 Dates that group rate is available:
 
