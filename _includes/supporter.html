@@ -1,0 +1,36 @@
+<!-- TOP LINKS -->
+<ul>
+{% for event in site.data.supporter %}
+  {% if event["Tracks"] == include.track %}
+  {% assign anchor = event['*Session Title'] | downcase | remove: ' ' | remove: '!' | remove: '?' | remove: ':' | remove: '(' | remove: ')' | remove: ',' }} %}
+    <li><a href="#{{anchor}}">{{event["*Session Title"]}}</a> </li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+<!-- DESCRIPTIONS -->
+{% for event in site.data.supporter %}
+
+  {% if event["Tracks"] == include.track %}
+  {% comment %} These anchors need to be mangled. {% endcomment %}
+  {% assign anchor = event['*Session Title'] | downcase | remove: ' ' | remove: '!' | remove: '?' | remove: ':' | remove: '(' | remove: ')' | remove: ',' }} %}
+
+  <p><a name="{{anchor}}"></a></p>
+  <h3>{{event['*Session Title']}}</h3>
+  <ul>
+    <li><b>Organizers</b>: {{event.Speakers}}</li>
+    <li> <b>Date</b>: {{event["*Date"]}}</li> 
+    <li> <b>Time</b>: {{event["*Time Start"]}} - {{event["*Time End"]}}</li>     
+    {% if event["Room/Location"] %} 
+    <li><b>Room</b>: {{event["Room/Location"] | escape}} </li>
+    {% endif %}
+  </ul>
+  {{event.Description}}
+  <hr>
+  {% endif %}
+{% endfor %}
+
+<p>
+
+{% include submission-questions category="Pre-Symposium and Affiliated Events Liaison" %}
+
