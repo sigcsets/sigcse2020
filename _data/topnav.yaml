@@ -91,6 +91,7 @@
 #     divider: true
    - name: SIGCSE 2020 Online Program
      link: https://whova.com/embedded/event/sigcs_202003/?utc_soruce=ems
+     divider: true
 #   - name: SIGCSE 2019 Proceedings
 #     link: https://dl.acm.org/citation.cfm?id=3287324
 #   - name: SIGCSE 2019 PDF Program
@@ -105,6 +106,7 @@
      link: /attendees/presymposium.html
    - name: Supporter Sessions
      link: /attendees/supporter-sessions.html
+     divider: true
 #   - name: Exhibitor Map
 #     link: /info/floorplan.html     
 #   - name: Dept. Chairs' Roundtable
@@ -117,8 +119,8 @@
 #   - name: Session Chair Information
 #     link: /attendees/session-chair.html
 #     divider: true
-#   - name: Minneapolis Visitor Information
-#     link: /attendees/visitor-info.html
+   - name: Portland Visitor Information
+     link: /attendees/visitor-info.html
 #   - name: Kids' Camp
 #     link: /attendees/kidscamp.html  
 

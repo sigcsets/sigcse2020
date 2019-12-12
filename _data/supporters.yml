@@ -40,9 +40,9 @@ Silver:
 #  - name: AWS Educate
 #    link: "https://aws.amazon.com/education/awseducate/"
 #    image: aws-educate-200.png
-#  - name: IBM
-#    image: ibm-200.png
-#    link: "http://ibm.com/"
+  - name: IBM
+    image: ibm-200.jpg
+    link: "http://ibm.com/"
 #  - name: Mimir
 #    image: mimir-200.png
 #    link: "http://www.mimirhq.com"
