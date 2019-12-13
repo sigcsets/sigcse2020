@@ -121,8 +121,9 @@
 #     divider: true
    - name: Portland Visitor Information
      link: /attendees/visitor-info.html
-#   - name: Kids' Camp
-#     link: /attendees/kidscamp.html  
+     divider: true
+   - name: Kids' Camp
+     link: /attendees/kidscamp.html  
 
 
 - name: For Exhibitors

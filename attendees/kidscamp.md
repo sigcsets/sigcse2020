@@ -1,18 +1,19 @@
 ---
 title: Kids' Camp
 showTitle: true
+layout: default
 ---
 
 We are pleased to announce that we will once again have Kids’ Camp at
-SIGCSE 2019, generously supported by the SIGCSE Board!
+SIGCSE 2020, generously supported by the SIGCSE Board!
 
 ## Registration
 
 <div class="alert alert-success text-center">
-<span class="glyphicon glyphicon-ok" aria-hidden="true"></span> <a href="https://www.accentregister.com/Event/CEvents/6834">CLICK HERE TO REGISTER FOR KIDS CAMP 2019!</a>
+<span class="glyphicon glyphicon-ok" aria-hidden="true"></span> <a href="http://www.accentregister.com/register/sigcse20">CLICK HERE TO REGISTER FOR KIDS CAMP 2020!</a>
 </div>
 
-The SIGCSE 2019 Kids’ Camp will be held in the Millennium Hotel, adjacent to the Hyatt Regency hotel along with the main technical sessions. The exact location will be available at the registration table.
+The SIGCSE 2020 Kids’ Camp will be held in the Oregon Convention Center. The exact location will be available at the registration table.
 
 Accent of Children’s Arrangements, Inc. will be providing childcare programs for Kids’ Camp. To learn more about Accent, please visit their [website](http://www.accentoca.com/).
 
@@ -28,13 +29,13 @@ Kids’ Camp Dates and Times:
 
 * Saturday, March 2
 
-    8:00am - 2:00pm
+    8:00am - 5:00pm
 
 ## Fees
 
-The fee is $50.00 TOTAL for all days per family; unlimited hours, for those who register on or before February 7, 2019.
+The fee is $50.00 TOTAL for all days per family; unlimited hours, for those who register on or before March 2, 2020.
 
-The fee is $100.00 TOTAL for all days per family, for those who register after February 7, 2019.
+The fee is $100.00 TOTAL for all days per family, for those who register after March 2, 2020.
 
 <!-- ## Kids' Camp Theme
 
@@ -77,4 +78,4 @@ around the theme of **Superheroes**.-->
 
 ### Nursing Moms
 
-A private area will be available at the Hyatt for nursing moms. Any conference attendee can ask at the Hyatt front desk and you will be directed to the room. This room is available for you even if you are not staying at the Hyatt.
+A private area will be available for nursing moms. Any conference attendee can ask at the registrationdesk and you will be directed to the room. 

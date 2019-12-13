@@ -198,7 +198,6 @@ Rates are:
 
 Dates that group rate is available:
 
-* Monday                3/9/20
 * Tuesday                3/10/20
 * Wednesday         3/11/20
 * Thursday              3/12/20
