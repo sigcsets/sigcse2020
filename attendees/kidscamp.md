@@ -19,15 +19,15 @@ Accent of Children’s Arrangements, Inc. will be providing childcare programs f
 
 Kids’ Camp Dates and Times:
 
-* Thursday, February 28
+* Thursday, March 12
 
     8:00am - 6:00pm
 
-* Friday, March 1
+* Friday, March 13
 
     8:00am - 6:00pm
 
-* Saturday, March 2
+* Saturday, March 14
 
     8:00am - 5:00pm
 
@@ -74,8 +74,10 @@ around the theme of **Superheroes**.-->
     - 1:3 for children 13 months to 35 months old
     - 1:5 for children 3 to 5 years old
     - 1:8 for children 6 to 12 years old
-    Student volunteers for the computing activities will be additional helpers and are not included in this ratio.
+    
+	
+	Student volunteers for the computing activities will be additional helpers and are not included in this ratio.
 
 ### Nursing Moms
 
-A private area will be available for nursing moms. Any conference attendee can ask at the registrationdesk and you will be directed to the room. 
+A private area will be available for nursing moms. Any conference attendee can ask at the registration desk and you will be directed to the room. 
