@@ -8,48 +8,13 @@ layout: default
 
 ## Registration Rates
 
+### Standard Rates
+
 <div class = "row" style = "font-weight: bold;">
     <div class = "col-sm-6"> Registration Type </div>
     <div class = "col-sm-2"> Early: <br>Through Jan 29 </div>
     <div class = "col-sm-2"> Advance: <br>Through Mar 10 </div>
     <div class = "col-sm-2"> Late/Onsite: <br>Mar 11 onward </div>
-</div>
-<div class = "row" style="padding-top: 15px;">
-    <div class = "col-sm-6"> Student <b>&starf;</b> </div>
-
-    <div class = "col-sm-2"> $100 </div>
-    <div class = "col-sm-2"> $100 </div>
-    <div class = "col-sm-2"> $100 </div>
-</div>
-<div class = "row" style="padding-top: 15px;">
-    <div class = "col-sm-6"> K-12 Teacher Fri-Sat <b>&starf;</b> </div>
-    <div class = "col-sm-2"> $160 </div>
-    <div class = "col-sm-2"> $185 </div>
-    <div class = "col-sm-2"> $210 </div>
-</div>
-<div class = "row" style="padding-top: 15px;">
-    <div class = "col-sm-6"> K-12 Teacher <b>&starf;</b> </div>
-    <div class = "col-sm-2"> $300 </div>
-    <div class = "col-sm-2"> $325 </div>
-    <div class = "col-sm-2"> $350 </div>
-</div>
-<div class = "row" style="padding-top: 15px;">
-    <div class = "col-sm-6"> Community College Faculty Fri-Sat <b>&starf;</b> </div>
-    <div class = "col-sm-2"> $160 </div>
-    <div class = "col-sm-2"> $185 </div>
-    <div class = "col-sm-2"> $210 </div>
-</div>
-<div class = "row" style="padding-top: 15px;">
-    <div class = "col-sm-6"> Community College Faculty <b>&starf;</b> </div>
-    <div class = "col-sm-2"> $300 </div>
-    <div class = "col-sm-2"> $325 </div>
-    <div class = "col-sm-2"> $360 </div>
-</div>
-<div class = "row" style="padding-top: 15px;">
-    <div class = "col-sm-6"> Retired SIGCSE members <b>&starf;</b> </div>
-    <div class = "col-sm-2"> $200 </div>
-    <div class = "col-sm-2"> $225 </div>
-    <div class = "col-sm-2"> $325 </div>
 </div>
 <div class = "row" style="padding-top: 15px;">
     <div class = "col-sm-6"> ACM/SIG Members <b>&starf;</b> </div>
@@ -58,12 +23,102 @@ layout: default
     <div class = "col-sm-2"> $450 </div>
 </div>
 <div class = "row" style="padding-top: 15px;">
-    <div class = "col-sm-6"> Non-ACM/SIG Members </div>
+    <div class = "col-sm-6"> Non-members </div>
     <div class = "col-sm-2"> $450 </div>
     <div class = "col-sm-2"> $500 </div>
     <div class = "col-sm-2"> $550 </div>
 </div>
+<div class = "row" style="padding-top: 15px;">
+    <div class = "col-sm-6"> Non-members - Joining (electronic) <b>&starf;</b> </div>
+    <div class = "col-sm-2"> $350 </div>
+    <div class = "col-sm-2"> $400 </div>
+    <div class = "col-sm-2"> $450 </div>
+</div>
+<div class = "row" style="padding-top: 15px;">
+    <div class = "col-sm-6"> Non-members - Joining (paper) <b>&starf;</b> </div>
+    <div class = "col-sm-2"> $350 </div>
+    <div class = "col-sm-2"> $400 </div>
+    <div class = "col-sm-2"> $450 </div>
+</div>
 
+### Community College Faculty Rates
+
+<div class = "row" style = "font-weight: bold;">
+    <div class = "col-sm-6"> Registration Type </div>
+    <div class = "col-sm-2"> Early: <br>Through Jan 29 </div>
+    <div class = "col-sm-2"> Advance: <br>Through Mar 10 </div>
+    <div class = "col-sm-2"> Late/Onsite: <br>Mar 11 onward </div>
+</div>
+<div class = "row" style="padding-top: 15px;">
+    <div class = "col-sm-6"> Community College Faculty <b>&starf;</b> </div>
+    <div class = "col-sm-2"> $300 </div>
+    <div class = "col-sm-2"> $325 </div>
+    <div class = "col-sm-2"> $360 </div>
+</div>
+<div class = "row" style="padding-top: 15px;">
+    <div class = "col-sm-6"> Community College Faculty Fri-Sat <b>&starf;</b> </div>
+    <div class = "col-sm-2"> $160 </div>
+    <div class = "col-sm-2"> $185 </div>
+    <div class = "col-sm-2"> $210 </div>
+</div>
+
+### K-12 Teacher Rates
+
+<div class = "row" style = "font-weight: bold;">
+    <div class = "col-sm-6"> Registration Type </div>
+    <div class = "col-sm-2"> Early: <br>Through Jan 29 </div>
+    <div class = "col-sm-2"> Advance: <br>Through Mar 10 </div>
+    <div class = "col-sm-2"> Late/Onsite: <br>Mar 11 onward </div>
+</div>
+<div class = "row" style="padding-top: 15px;">
+    <div class = "col-sm-6"> K-12 Teacher <b>&starf;</b> </div>
+    <div class = "col-sm-2"> $300 </div>
+    <div class = "col-sm-2"> $325 </div>
+    <div class = "col-sm-2"> $350 </div>
+</div>
+<div class = "row" style="padding-top: 15px;">
+    <div class = "col-sm-6"> K-12 Teacher Fri-Sat <b>&starf;</b> </div>
+    <div class = "col-sm-2"> $160 </div>
+    <div class = "col-sm-2"> $185 </div>
+    <div class = "col-sm-2"> $210 </div>
+</div>
+
+### Student Rates
+
+<div class = "row" style = "font-weight: bold;">
+    <div class = "col-sm-6"> Registration Type </div>
+    <div class = "col-sm-2"> Early: <br>Through Jan 29 </div>
+    <div class = "col-sm-2"> Advance: <br>Through Mar 10 </div>
+    <div class = "col-sm-2"> Late/Onsite: <br>Mar 11 onward </div>
+</div>
+<div class = "row" style="padding-top: 15px;">
+    <div class = "col-sm-6"> ACM/SIG Member - Student <b>&starf;</b> </div>
+    <div class = "col-sm-2"> $100 </div>
+    <div class = "col-sm-2"> $100 </div>
+    <div class = "col-sm-2"> $100 </div>
+</div>
+<div class = "row" style="padding-top: 15px;">
+    <div class = "col-sm-6"> Non-member - Student <b>&starf;</b> </div>
+    <div class = "col-sm-2"> $100 </div>
+    <div class = "col-sm-2"> $100 </div>
+    <div class = "col-sm-2"> $100 </div>
+</div>
+
+
+### Other Rates
+
+<div class = "row" style = "font-weight: bold;">
+    <div class = "col-sm-6"> Registration Type </div>
+    <div class = "col-sm-2"> Early: <br>Through Jan 29 </div>
+    <div class = "col-sm-2"> Advance: <br>Through Mar 10 </div>
+    <div class = "col-sm-2"> Late/Onsite: <br>Mar 11 onward </div>
+</div>
+<div class = "row" style="padding-top: 15px;">
+    <div class = "col-sm-6"> ACM/SIG Member - Retired <b>&starf;</b> </div>
+    <div class = "col-sm-2"> $200 </div>
+    <div class = "col-sm-2"> $225 </div>
+    <div class = "col-sm-2"> $325 </div>
+</div>
 <div class = "row" style="padding-top: 15px;">
     <div class = "col-sm-6"> Exhibits Only </div>
     <div class = "col-sm-2"> $75 </div>
@@ -102,6 +157,7 @@ layout: default
 
 ## Conference Hotels
 
+Hotel cutoff date for registration rates is February 8th.
 
 ### Hyatt Regency Portland at Convention Center
 
