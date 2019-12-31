@@ -40,9 +40,9 @@ Silver:
   - name: ABET
     image: abet-new-100.png
     link: "https://www.abet.org/"
-#  - name: AWS Educate
-#    link: "https://aws.amazon.com/education/awseducate/"
-#    image: aws-educate-200.png
+  - name: AWS Educate
+    link: "https://aws.amazon.com/education/awseducate/"
+    image: aws-educate-200.png
   - name: IBM
     image: ibm-200.jpg
     link: "http://ibm.com/"
@@ -55,7 +55,6 @@ Silver:
 #    link: "https://www.vocareum.com/"
     
 Bronze:
-#  - name: AnitaB.org
-#    image: anitab-200.png
-#    link: "https://anitab.org/"
-#    link: "https://anitab.org/"
+  - name: AnitaB.org
+    image: anitab-200.png
+    link: "https://anitab.org/"

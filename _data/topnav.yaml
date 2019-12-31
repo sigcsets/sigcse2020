@@ -73,12 +73,11 @@
   subheads:
    - name: Conference Policies
      link: /attendees/policies.html
-   - name: SIGCSE 2020 Schedule At-A-Glance
-     link: /attendees/at-a-glance.html
+     divider: true
 #   - name: Accessibility
 #     link: /attendees/accessibility.html
-   - name: Registration Rates
-     link: /attendees/#registration-rates    
+   - name: Registration & Rates
+     link: /attendees/#registration  
    - name: Hotels 
      link: /attendees/#conference-hotels
      divider: true
@@ -91,6 +90,8 @@
 #     divider: true
    - name: SIGCSE 2020 Online Program
      link: https://whova.com/embedded/event/sigcs_202003/?utc_soruce=ems
+   - name: SIGCSE 2020 Schedule At-A-Glance
+     link: /attendees/at-a-glance.html
      divider: true
 #   - name: SIGCSE 2019 Proceedings
 #     link: https://dl.acm.org/citation.cfm?id=3287324
@@ -130,8 +131,8 @@
   subheads:
     - name: Prospectus
       link: /info/supporters.html
-    #- name: Interactive Floor Plan
-    #  link: /info/floorplan.html
+    - name: Interactive Floor Plan
+      link: /info/floorplan.html
     #- name: List of Supporters and Exhibitors
     #  link: /info/supporters-and-exhibitors.html
 #- name: Program

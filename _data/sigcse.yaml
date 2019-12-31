@@ -15,9 +15,9 @@ airport:
   phone: "+1-(877)-739-4636 [TDD: +1-(800)-815-4636]"
 
 registration:
-  isopen: false
-  opendate: "20181226"
-  url: http://bit.ly/sigcse2019registration
+  isopen: true
+  opendate: "20191230"
+  url: http://www.cvent.com/d/syqwss/4W
 
 volunteers:
   url: https://www.cs.ubc.ca/~sig-cse/sigcse/user/index.php

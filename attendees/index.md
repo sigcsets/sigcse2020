@@ -2,22 +2,51 @@
 title: For Attendees
 showTitle: true
 layout: default
+cancellation_date: "February 26, 2020"
+nav:
+  - text: Registration Information
+    link: registering-for-sigcse-2020
+  - text: Visas
+    link: regarding-visas
+  - text: Conference Hotels
+    link: conference-hotels
+#  - text: Alternate Hotels
+#    link: unofficial-hotels    
+#  - text: Roommate Database
+#    link: find-a-roommate
 ---
 
-<a name="registration-rates"></a>
+<ul>
+{% for h in page.nav %}
+<li> <a href="#{{h.link}}">{{h.text}}</a></li>
+{% endfor %}
+</ul>
 
-## Registration Rates
+<br/>
 
-### Standard Rates
 
-<div class = "row" style = "font-weight: bold;">
-    <div class = "col-sm-6"> Registration Type </div>
+SIGCSE {{site.data.sigcse.year}} will be held at the <a href="https://www.oregoncc.org/en">Oregon Convention Center</a> in Portland, OR, USA. 
+
+This pages provides information on <a href="#registration">registration</a>, <a href="#registration-rates">registration rates</a>, <a href="#regarding-visas">obtaining visas</a>, <a href="#conference-hotels">conference hotels</a>, and finding a roommate (forthcoming).
+
+<a name="registration"></a>
+## Registering for SIGCSE 2020
+
+<div class="alert alert-success text-center">
+<span class="glyphicon glyphicon-home" aria-hidden="true"></span> <a href="{{site.data.sigcse.registration.url}}">Register now!</a>
+</div>
+
+### Registration Rates
+
+
+<div class = "row" style = "font-weight: bold; padding-top: 15px;">
+    <div class = "col-sm-6"> Standard Rates </div>
     <div class = "col-sm-2"> Early: <br>Through Jan 29 </div>
     <div class = "col-sm-2"> Advance: <br>Through Mar 10 </div>
     <div class = "col-sm-2"> Late/Onsite: <br>Mar 11 onward </div>
 </div>
 <div class = "row" style="padding-top: 15px;">
-    <div class = "col-sm-6"> ACM/SIG Members <b>&starf;</b> </div>
+    <div class = "col-sm-6"> ACM/SIGCSE Members <b>&starf;</b> </div>
     <div class = "col-sm-2"> $350 </div>
     <div class = "col-sm-2"> $400 </div>
     <div class = "col-sm-2"> $450 </div>
@@ -29,22 +58,21 @@ layout: default
     <div class = "col-sm-2"> $550 </div>
 </div>
 <div class = "row" style="padding-top: 15px;">
-    <div class = "col-sm-6"> Non-members - Joining (electronic) <b>&starf;</b> </div>
-    <div class = "col-sm-2"> $350 </div>
-    <div class = "col-sm-2"> $400 </div>
-    <div class = "col-sm-2"> $450 </div>
+    <div class = "col-sm-6"> Non-members - Joining SIGCSE (receiving electronic publications) <b>&diams;</b></div>
+    <div class = "col-sm-2"> $375 </div>
+    <div class = "col-sm-2"> $425 </div>
+    <div class = "col-sm-2"> $475 </div>
 </div>
 <div class = "row" style="padding-top: 15px;">
-    <div class = "col-sm-6"> Non-members - Joining (paper) <b>&starf;</b> </div>
-    <div class = "col-sm-2"> $350 </div>
-    <div class = "col-sm-2"> $400 </div>
-    <div class = "col-sm-2"> $450 </div>
+    <div class = "col-sm-6"> Non-members - Joining SIGCSE (receiving paper publications) <b>&diams;</b></div>
+    <div class = "col-sm-2"> $395 </div>
+    <div class = "col-sm-2"> $445 </div>
+    <div class = "col-sm-2"> $495 </div>
 </div>
+<hr/>
 
-### Community College Faculty Rates
-
-<div class = "row" style = "font-weight: bold;">
-    <div class = "col-sm-6"> Registration Type </div>
+<div class = "row" style = "font-weight: bold; ">
+    <div class = "col-sm-6"> Community College Faculty Rates </div>
     <div class = "col-sm-2"> Early: <br>Through Jan 29 </div>
     <div class = "col-sm-2"> Advance: <br>Through Mar 10 </div>
     <div class = "col-sm-2"> Late/Onsite: <br>Mar 11 onward </div>
@@ -61,11 +89,10 @@ layout: default
     <div class = "col-sm-2"> $185 </div>
     <div class = "col-sm-2"> $210 </div>
 </div>
+<hr/>
 
-### K-12 Teacher Rates
-
-<div class = "row" style = "font-weight: bold;">
-    <div class = "col-sm-6"> Registration Type </div>
+<div class = "row" style = "font-weight: bold; ">
+    <div class = "col-sm-6"> K-12 Teacher Rates </div>
     <div class = "col-sm-2"> Early: <br>Through Jan 29 </div>
     <div class = "col-sm-2"> Advance: <br>Through Mar 10 </div>
     <div class = "col-sm-2"> Late/Onsite: <br>Mar 11 onward </div>
@@ -82,39 +109,36 @@ layout: default
     <div class = "col-sm-2"> $185 </div>
     <div class = "col-sm-2"> $210 </div>
 </div>
+<hr/>
 
-### Student Rates
-
-<div class = "row" style = "font-weight: bold;">
-    <div class = "col-sm-6"> Registration Type </div>
+<div class = "row" style = "font-weight: bold; ">
+    <div class = "col-sm-6"> Student Rates </div>
     <div class = "col-sm-2"> Early: <br>Through Jan 29 </div>
     <div class = "col-sm-2"> Advance: <br>Through Mar 10 </div>
     <div class = "col-sm-2"> Late/Onsite: <br>Mar 11 onward </div>
 </div>
 <div class = "row" style="padding-top: 15px;">
-    <div class = "col-sm-6"> ACM/SIG Member - Student <b>&starf;</b> </div>
+    <div class = "col-sm-6"> ACM/SIGCSE Member - Student <b>&starf;</b> </div>
     <div class = "col-sm-2"> $100 </div>
     <div class = "col-sm-2"> $100 </div>
     <div class = "col-sm-2"> $100 </div>
 </div>
 <div class = "row" style="padding-top: 15px;">
-    <div class = "col-sm-6"> Non-member - Student <b>&starf;</b> </div>
-    <div class = "col-sm-2"> $100 </div>
-    <div class = "col-sm-2"> $100 </div>
-    <div class = "col-sm-2"> $100 </div>
+    <div class = "col-sm-6"> Non-member - Student</div>
+    <div class = "col-sm-2"> $110 </div>
+    <div class = "col-sm-2"> $110 </div>
+    <div class = "col-sm-2"> $110 </div>
 </div>
+<hr/>
 
-
-### Other Rates
-
-<div class = "row" style = "font-weight: bold;">
-    <div class = "col-sm-6"> Registration Type </div>
+<div class = "row" style = "font-weight: bold; ">
+    <div class = "col-sm-6"> Other Rates </div>
     <div class = "col-sm-2"> Early: <br>Through Jan 29 </div>
     <div class = "col-sm-2"> Advance: <br>Through Mar 10 </div>
     <div class = "col-sm-2"> Late/Onsite: <br>Mar 11 onward </div>
 </div>
 <div class = "row" style="padding-top: 15px;">
-    <div class = "col-sm-6"> ACM/SIG Member - Retired <b>&starf;</b> </div>
+    <div class = "col-sm-6"> ACM/SIGCSE Member - Retired <b>&starf;</b> </div>
     <div class = "col-sm-2"> $200 </div>
     <div class = "col-sm-2"> $225 </div>
     <div class = "col-sm-2"> $325 </div>
@@ -125,11 +149,15 @@ layout: default
     <div class = "col-sm-2"> $75 </div>
     <div class = "col-sm-2"> $75 </div>
 </div>
+<hr/>
 
 <div class = "row" style = "font-weight: bold;">
 	<div class = "col-sm-8">
-		<hr>
-		<b>&starf;</b> Must be or become an ACM member to receive this rate
+
+		<b>&starf;</b> Must be an ACM or SIGCSE member to receive this rate.
+	</div>
+	<div class = "col-sm-8">
+		<b>&diams;</b> Registrant becomes a SIGCSE member by choosing this registration rate. Registration rate includes SIGCSE membership.
 	</div>
 </div>
 
@@ -138,8 +166,9 @@ layout: default
 <!-- All times related to registration are in the <a href="https://www.timeanddate.com/time/zones/cst" title="IAU: No, there's nothing we can do about it.">CST timezone</a>. This is a side-effect of the registration software being used. -->
 
 <div class = "row" style = "padding-bottom: 5;">&nbsp;</div>
+<hr/>
 
-### Workshop Registration
+#### Workshop Registration
 
 <div class = "row" style = "font-weight: bold;">
     <div class = "col-sm-6"> Workshop Registration Rates </div>
@@ -154,6 +183,38 @@ layout: default
     <div class = "col-sm-2"> $95 </div>
 </div>
 
+
+
+<hr/>
+
+
+
+### Cancellation Policy
+
+Cancellation requests must be made by {{page.cancellation_date}}.
+
+A processing fee of US$100 will be assessed. Regrettably cancellations received after the cancellation date cannot be honored. The conference committee recognizes that sometimes last-minute cancellations can't be avoided due to weather, travel disruptions, and/or health issues. However, the conference incurs expenses for which it is liable based on registration counts. Registrants are strongly advised to purchase travel insurance to cover their non-refundable expenses. Also, registrants who find themselves unable to attend should be aware that registrations are transferable, but in general the conference committee cannot assist in finding an appropriate recipient.
+
+
+
+<hr/>
+
+
+### Regarding Visas
+
+ACM is able to provide visa support letters to attendees as well as authors with accepted papers, posters, or members of the conference committee.
+
+For Visa support letters, please email all requests to the Office of SIG Services at [supportletters@acm.org](mailto:supportletters@acm.org).  The information below should be included with the request:
+
+* Name and mailing address as it appears on your passport.
+* The name of the conference you wish to attend.
+* Registration confirmation number.
+* If you are the author of any papers accepted for the conference, please provide the title.
+* Fax number and/or e-mail address of where the invitation letter should be sent.
+
+Those requesting a letter should allow 7-10 business days to receive it. All requests are handled in the order they are received.
+
+<hr/>
 
 ## Conference Hotels
 
