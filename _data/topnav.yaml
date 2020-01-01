@@ -85,9 +85,9 @@
 #     link: /attendees/#roommatedb
 #   - name: Transportation
 #     link: /attendees/#travel
-#   - name: Student Volunteers
-#     link: /info/studentvolunteers.html
-#     divider: true
+   - name: Student Volunteers
+     link: /info/studentvolunteers.html
+     divider: true
    - name: SIGCSE 2020 Online Program
      link: https://whova.com/embedded/event/sigcs_202003/?utc_soruce=ems
    - name: SIGCSE 2020 Schedule At-A-Glance

@@ -1,6 +1,7 @@
 ---
 title: Student Volunteers
 showTitle: true
+layout: default
 ---
 
 Student volunteers are an important part of the SIGCSE Symposium and have been for many years. Each volunteer works for up to 9 hours, helping with various conference management activities. You’ll interact with the conference organizers and presenters and will meet other students from all over the world. More information about the experience, the benefits, and how to sign up are provided below.
@@ -23,13 +24,13 @@ Registering for SIGCSE as a student volunteer is a two step process.
 * **STEP 2**: SEPARATELY register for the SIGCSE symposium as a student. Note you will need to pay the registration fee and the costs of any additions to registration (e.g., workshop), but the main conference registration fee will be refunded 4-6 weeks after the conference assuming that you complete all of your volunteer hours.
 
 {% callout warning %}
-Please note that while in previous years we have been able to accept everyone who registered in December and January and often anyone interested, we cannot guarantee that this is the case every year. Please try to register as early as possible (you can provide your availability for shifts closer to the conference start as we understand that it can take a little while to arrange travel).
+Please note that while in previous years we have been able to accept everyone who registered in January and often anyone interested, we cannot guarantee that this is the case every year. Please try to register as early as possible (you can provide your availability for shifts closer to the conference start as we understand that it can take a little while to arrange travel).
 {% endcallout %}
 
 Also, please note that if you are no longer able to attend, we greatly appreciate you going back to the registration system to cancel.
 
 
-## What To Do Once at SIGCSE
+## What To Do Once at SIGCSE Technical Symposium
 
 Upon arrival at the conference site, you must check in at the main SIGCSE Conference Registration Desk to receive your conference registration packet. Then visit the Student Volunteer Office to check in (so we know you are around) and to receive any needed instructions or updates.
 
@@ -46,9 +47,9 @@ Assuming you have successfully completed your volunteer duties as signed off by 
 
 ## Institutional Coordinators
 
-<em>SIGCSE Symposium Student Volunteer Policy for schools that send more than four undergraduate student volunteers to SIGCSE</em>
+<em>SIGCSE Technical Symposium Student Volunteer Policy for schools that send more than four undergraduate student volunteers to SIGCSE</em>
 
-The SIGCSE Symposium relies on its student volunteer corps for the success of the conference.  Hence, we are particularly grateful to the schools that bring larger cohorts of student volunteers.  To ensure the best experience for student volunteers, institution faculty, and the Student Volunteer Coordinators, schools that provide more than four undergraduate students volunteers must designate a single Institutional Coordinator for all the student volunteers from that institution who must fulfill the following responsibilities.
+The SIGCSE Technical Symposium relies on its student volunteer corps for the success of the conference.  Hence, we are particularly grateful to the schools that bring larger cohorts of student volunteers.  To ensure the best experience for student volunteers, institution faculty, and the Student Volunteer Coordinators, schools that provide more than four undergraduate students volunteers must designate a single Institutional Coordinator for all the student volunteers from that institution who must fulfill the following responsibilities.
 
 * The Institutional Coordinator must attend SIGCSE and be available via cell phone and email during the conference.
 * When possible, the Institutional Coordinator should accompany the volunteers to the Student Volunteer Headquarters when the students check in.
@@ -65,7 +66,7 @@ Any full-time student may become a student volunteer. (You must be a currently r
 
 ### What if I require a visa?
 
-See the main [SIGCSE Attendees](../attendees/index.html) page for information about Visas.
+See the main [SIGCSE Attendees](../attendees/index.html#regarding-visas) page for information about Visas.
 
 ### What are the benefits of student volunteering?
 
@@ -106,7 +107,7 @@ It varies. Duties may include (and are not limited to) the following:
 
 ### Do I have a say in what work I do as a student volunteer?
 
-Not much, but we’ll do what we can. If you have a skill we are interested in then you get a chance to indicate that when you are indicating available work times (e.g. like working with children might make you a great choice to help with kids camp!). We also try to accommodate students who have a preference for a particular shift or session, but due to the complexity of scheduling and ensuring we have adequate coverage at all sessions, we cannot guarantee anything.
+Not much, but we’ll do what we can. If you have a skill we are interested in then you get a chance to indicate that when you are indicating available work times (e.g. like working with children might make you a great choice to help with Kids Camp!). We also try to accommodate students who have a preference for a particular shift or session, but due to the complexity of scheduling and ensuring we have adequate coverage at all sessions, we cannot guarantee anything.
 
 ### When during the conference will I do my student volunteer work?
 
@@ -127,4 +128,4 @@ No. We realize that travel plans and other commitments exist. We hope that stude
 The conference itself does not provide funding for student volunteers, but you may be able to get some support through your department or through another source at your university. You should print your registration acknowledgment to show to potential funding sources.
 
 
-{% include submission-questions category="Student Volunteers and Student Activities Wrangler" %}
+{% include submission-questions category="Student Volunteers & Activities" %}
