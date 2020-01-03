@@ -1,6 +1,7 @@
 ---
-title: SIGCSE 2019 Presenter Information
+title: SIGCSE 2020 Presenter Information
 showTitle: true
+layout: default
 ---
 ## Presentation Guidelines
 
@@ -9,11 +10,11 @@ Please follow the [SIGACCESS Guidelines](http://www.sigaccess.org/welcome-to-sig
 * Choose a high contrast color scheme that supports color blind readers,
 * Use more than color coding to communicate information,
 * Keep text brief,
-* Keep graphics simple and be verbally describe images, animations, videos,
+* Keep graphics simple and verbally describe images, animations, videos,
 * Avoid using a pointer,
 * Caption videos,
 * Speak clearly, use a microphone, face the audience, and use common, understandable terms,
-* Post your slides early,
+* Post your slides early and provide a link them them on the slides,
 * Share your contact information, and
 * Download your slides, videos, and sounds locally on your computer; don't depend on wifi for your presentation.
 
@@ -35,7 +36,7 @@ Presentation lengths vary by presentation type:
 
 ### Conference Policies for Presenters
 
-Remember to follow [SIGCSE Conference Policies](https://sigcse2019.sigcse.org/policies.html) and the [ACM Policy Against Harassment at ACM Activities](https://www.acm.org/about-acm/policy-against-harassment). 
+Remember to follow [SIGCSE Conference Policies](https://sigcse2020.sigcse.org/attendees/policies.html) and the [ACM Policy Against Harassment at ACM Activities](https://www.acm.org/about-acm/policy-against-harassment). 
 
 As speakers at SIGCSE, show respect to others by:
 
@@ -56,7 +57,7 @@ General presentation rooms are equipped with:
 * Speakers
 * Panel presentation and special session rooms will also have a skirted headtable, 4 chairs, and two additional mics on the table.
 
-The first two-three rows of the room will be setup classroom style followed by Theater style.
+The first two-three rows of the room will be setup classroom style followed by theater style.
 
 __BRING:__ Your own presentation laptop and your own dongle to link your laptop to HDMI.  We recommend a backup of your presentation on USB. 
 

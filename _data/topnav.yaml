@@ -117,9 +117,9 @@
 #     divider: true
 #   - name: Presenter Information
 #     link: /attendees/presenter.html
-#   - name: Session Chair Information
-#     link: /attendees/session-chair.html
-#     divider: true
+   - name: Session Chair Information
+     link: /attendees/session-chair.html
+     divider: true
    - name: Portland Visitor Information
      link: /attendees/visitor-info.html
      divider: true
