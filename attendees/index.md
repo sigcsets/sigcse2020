@@ -33,7 +33,7 @@ This pages provides information on <a href="#registration">registration</a>, <a 
 ## Registering for SIGCSE 2020
 
 <div class="alert alert-success text-center">
-<span class="glyphicon glyphicon-home" aria-hidden="true"></span> <a href="{{site.data.sigcse.registration.url}}">Register now!</a>
+<a href="{{site.data.sigcse.registration.url}}">Register now!</a>
 </div>
 
 ### Registration Rates
@@ -219,6 +219,10 @@ Those requesting a letter should allow 7-10 business days to receive it. All req
 ## Conference Hotels
 
 Hotel cutoff date for registration rates is February 8th.
+
+<div class="alert alert-info text-center">
+If you need a hotel room for Tuesday night, please book with the Eastlund or DoubleTree.
+</div>
 
 ### Hyatt Regency Portland at Convention Center
 
