@@ -115,8 +115,8 @@
 #   - name: SIGCSE Visualization
 #     link: /attendees/visualizations.html
 #     divider: true
-#   - name: Presenter Information
-#     link: /attendees/presenter.html
+   - name: Presenter Information
+     link: /attendees/presenter.html
    - name: Session Chair Information
      link: /attendees/session-chair.html
      divider: true

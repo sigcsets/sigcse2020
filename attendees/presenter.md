@@ -53,6 +53,8 @@ Speakers are role models.  As such, promote connections between attendees and en
 General presentation rooms are equipped with:
 
 * Projector & screen, 16:9 aspect ratio, with a single HDMI cable for video
+* 1/8” audio connection at podium
+* Power Point Remote
 * Podium & microphone
 * Speakers
 * Panel presentation and special session rooms will also have a skirted headtable, 4 chairs, and two additional mics on the table.
@@ -72,8 +74,11 @@ Room setup requests will most likely be accommodated, but there is a chance that
 Exhibit hall demos will have the following equipment:
 
 * 42" monitor cart with single HDMI cable
+* Podium & microphone
+* Speaker
+* Wireless Hand Held Mic
+* Power Point Remote
 
-Demos in the session rooms will have the standard presentation equipment.
 
 ### Birds of a Feather
 
