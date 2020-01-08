@@ -13,7 +13,7 @@ Platinum:
      link: "https://www.microsoft.com/en-us/"
     
 Gold:
-   - name: "Gradescope by turnitin"
+   - name: "Gradescope by Turnitin"
      image: turnitin-200.png
      link: "https://www.gradescope.com/"
    - name: "Codio"
