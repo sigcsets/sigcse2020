@@ -12,8 +12,8 @@ nav:
     link: conference-hotels
 #  - text: Alternate Hotels
 #    link: unofficial-hotels    
-#  - text: Roommate Database
-#    link: find-a-roommate
+  - text: Roommate Database
+    link: find-a-roommate
 ---
 
 <ul>
@@ -27,7 +27,7 @@ nav:
 
 SIGCSE {{site.data.sigcse.year}} will be held at the <a href="https://www.oregoncc.org/en">Oregon Convention Center</a> in Portland, OR, USA. 
 
-This pages provides information on <a href="#registration">registration</a>, <a href="#registration-rates">registration rates</a>, <a href="#regarding-visas">obtaining visas</a>, <a href="#conference-hotels">conference hotels</a>, and finding a roommate (forthcoming).
+This pages provides information on <a href="#registration">registration</a>, <a href="#registration-rates">registration rates</a>, <a href="#regarding-visas">obtaining visas</a>, <a href="#conference-hotels">conference hotels</a>, and [finding a roommate](#find-a-roommate).
 
 <a name="registration"></a>
 ## Registering for SIGCSE 2020
@@ -324,3 +324,11 @@ Dates that group rate is available:
 * Thursday              3/12/20
 * Friday                    3/13/20
 * Saturday              3/14/20
+
+
+<hr/>
+
+
+## Find a Roommate!
+
+You can also use the [SIGCSE roommate database](http://sigcse.rit.edu/roommates/) to find someone to room with. This is the preferred database of SIGCSE members around the world for finding roommates at the SIGCSE Technical Symposium. Honest.

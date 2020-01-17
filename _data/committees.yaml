@@ -149,7 +149,7 @@
     
   - name: Scott McElfresh
     role: Treasurer
-    inst: Longwood University
+    inst: Christopher Newport University
     email: treasurer@sigcse2020.org
 
   - name: Charles Wallace
@@ -241,6 +241,10 @@
     role: Local Arrangements
     inst:  Mt. Hood Community College
     email: local@sigcse2020.org 
+    
+  - name: Manuel Pérez-Quiñones
+    role: SIGCSE Board Liaison
+    inst: University of North Carolina at Charlotte
 
     
 - name: International Committee Members

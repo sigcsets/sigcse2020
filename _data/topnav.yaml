@@ -81,8 +81,9 @@
    - name: Hotels 
      link: /attendees/#conference-hotels
      divider: true
-#   - name: Roommate Database
-#     link: /attendees/#roommatedb
+   - name: Roommate Database
+     link: /attendees/#find-a-roommate
+     divider: true
 #   - name: Transportation
 #     link: /attendees/#travel
    - name: Student Volunteers
@@ -93,20 +94,19 @@
    - name: SIGCSE 2020 Schedule At-A-Glance
      link: /attendees/at-a-glance.html
      divider: true
-#   - name: SIGCSE 2019 Proceedings
-#     link: https://dl.acm.org/citation.cfm?id=3287324
-#   - name: SIGCSE 2019 PDF Program
-#     link: docs/SIGCSE_2019_Program.pdf
-#   - name: SIGCSE 2019 Best Papers
-#     link: /attendees/bestpapers.html
-#   - name: SIGCSE 2019 Authors & Speakers
-#     link: /attendees/speakers.html
+   - name: SIGCSE 2020 Best Papers
+     link: /attendees/bestpapers.html
+   - name: SIGCSE 2020 Authors & Speakers
+     link: /attendees/speakers.html
    - name: Workshops
      link: /attendees/workshops.html   
    - name: Pre-Symposium Events
      link: /attendees/presymposium.html
    - name: Supporter Sessions
      link: /attendees/supporter-sessions.html
+     divider: true
+   - name: K12 Roadmap
+     link: /attendees/k12-roadmap.html
      divider: true
 #   - name: Exhibitor Map
 #     link: /info/floorplan.html     

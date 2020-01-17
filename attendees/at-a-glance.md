@@ -220,6 +220,11 @@ layout: default
 </tr>
 <tr>
     <td>6:00 pm - 7:00 pm</td>
+    <td>CCECC Reception</td>
+    <td>Portland Prefunction</td>
+</tr>
+<tr>
+    <td>6:00 pm - 7:00 pm</td>
     <td>NCWIT Reception</td>
     <td>Oregon Ballroom 201</td>
 </tr>
