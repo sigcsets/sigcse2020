@@ -144,7 +144,7 @@
 
   - name: Matt Jadud
     role: Web & Database Administrator
-    inst:  Bates College
+    inst:  Independent
     email: webmaster@sigcse2020.org
     
   - name: Scott McElfresh
@@ -254,33 +254,33 @@
    - name: Steven Bradley
      inst: Durham University, UK
    - name: Jennifer Campbell
-     inst: University of Toronto
+     inst: University of Toronto, Canada
    - name: Ernesto Cuadros-Vargas
      inst: UTEC, Peru
    - name: Paul Denny
      inst: University of Auckland, New Zealand
    - name: Rodrigo Duran
-     inst: Aalto University
+     inst: Aalto University, Finland
    - name: Orit Hazzan
      inst: Technion, Israel
    - name: Arto Hellas
      inst: University of Helsinki, Finland
    - name: Amey Karkare
-     inst: IIT Kanpur
+     inst: IIT Kanpur, India
    - name: Carsten Kleiner
      inst: Hochschule Hannover, Germany
    - name: Viraj Kumar
-     inst: Institute of Science
+     inst: Institute of Science, India
    - name: Chao Mbogo
-     inst: Kenya Methodist University
+     inst: Kenya Methodist University, Kenya
    - name: Chris McDonald
-     inst: University of Western Australia
+     inst: University of Western Australia, Australia
    - name: André Santos
      inst: Instituto Universitário de Lisboa, Portugal
    - name: Marco Silva
      inst: Federal University of Technology, Brazil
    - name: Lenandlar Singh
-     inst: University of Guyana
+     inst: University of Guyana, Guyana
    - name: Hironori Washizaki
      inst: Waseda University, Japan
    - name: Gary Wong

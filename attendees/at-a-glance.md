@@ -220,7 +220,7 @@ layout: default
 </tr>
 <tr>
     <td>6:00 pm - 7:00 pm</td>
-    <td>CCECC Reception</td>
+    <td>CCECC Community College Reception</td>
     <td>Portland Prefunction</td>
 </tr>
 <tr>

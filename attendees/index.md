@@ -224,6 +224,56 @@ Hotel cutoff date for registration rates is February 8th.
 If you need a hotel room for Tuesday night, please book with the Eastlund or DoubleTree.
 </div>
 
+### DoubleTree by Hilton - Portland
+
+General Information:
+
+* [Reservation Link](https://doubletree.hilton.com/en/dt/groups/personalized/R/RLLC-DT-AC9-20200309/index.jhtml)
+     * Group Code: AC9
+* Address: 1000 NE Multnomah, Portland, OR 97232
+* Phone: 503.281.6111
+* Website: http://www.portland.doubletree.com/
+
+Rates are:
+
+* $174 for (1) queen bed (1 or 2 people
+* $194 for (1) King bed (1 or 2 people)
+* $194 for (2) queen beds (1 or 2 people)
+* $209 for (2) queen beds (3 people)
+* $224 for (2) queen beds (4 people)
+ 
+
+Dates that group rate is available:
+
+* Tuesday                3/10/20
+* Wednesday         3/11/20
+* Thursday              3/12/20
+* Friday                    3/13/20
+* Saturday              3/14/20
+
+### Hotel Eastlund
+
+General Information:
+
+* [Reservation Link](https://hoteleastlund.webhotel.microsdc.us/bp/search_rooms.jsp?groupCode=SIGCSE20)
+     * Group Code: SIGCSE20
+* Address: 1021 NE Grand Avenue, Portland, OR  97232
+* Phone: 503.235.2100 
+* Website: https://hoteleastlund.com/
+
+Rates are:
+
+* $189 for (1) King bed (1 or 2 people)
+* $209 for (2) Queen (2 – 4 people)
+
+Dates that group rate is available:
+
+* Tuesday                3/10/20
+* Wednesday         3/11/20
+* Thursday              3/12/20
+* Friday                    3/13/20
+* Saturday              3/14/20
+
 ### Hyatt Regency Portland at Convention Center
 
 General Information:
@@ -274,56 +324,6 @@ Dates that group rate is available:
 * Friday                    3/13/20
 * Saturday              3/14/20
 
-
-### DoubleTree by Hilton - Portland
-
-General Information:
-
-* [Reservation Link](https://doubletree.hilton.com/en/dt/groups/personalized/R/RLLC-DT-AC9-20200309/index.jhtml)
-     * Group Code: AC9
-* Address: 1000 NE Multnomah, Portland, OR 97232
-* Phone: 503.281.6111
-* Website: http://www.portland.doubletree.com/
-
-Rates are:
-
-* $174 for (1) queen bed (1 or 2 people
-* $194 for (1) King bed (1 or 2 people)
-* $194 for (2) queen beds (1 or 2 people)
-* $209 for (2) queen beds (3 people)
-* $224 for (2) queen beds (4 people)
- 
-
-Dates that group rate is available:
-
-* Tuesday                3/10/20
-* Wednesday         3/11/20
-* Thursday              3/12/20
-* Friday                    3/13/20
-* Saturday              3/14/20
-
-### Hotel Eastlund
-
-General Information:
-
-* [Reservation Link](https://hoteleastlund.webhotel.microsdc.us/bp/search_rooms.jsp?groupCode=SIGCSE20)
-     * Group Code: SIGCSE20
-* Address: 1021 NE Grand Avenue, Portland, OR  97232
-* Phone: 503.235.2100 
-* Website: https://hoteleastlund.com/
-
-Rates are:
-
-* $189 for (1) King bed (1 or 2 people)
-* $209 for (2) Queen (2 – 4 people)
-
-Dates that group rate is available:
-
-* Tuesday                3/10/20
-* Wednesday         3/11/20
-* Thursday              3/12/20
-* Friday                    3/13/20
-* Saturday              3/14/20
 
 
 <hr/>
