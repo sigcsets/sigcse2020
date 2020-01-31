@@ -289,6 +289,11 @@ layout: default
     <td>Oregon Ballroom</td>
 </tr>
 <tr>
+    <td>1:45 pm - 3:30 pm</td>
+    <td>Registration</td>
+    <td>Outside Exhibit Hall E</td>
+</tr>
+<tr>
     <td>1:45 pm - 3:00 pm</td>
     <td>Technical Session #8</td>
     <td>Oregon Convention Center</td>

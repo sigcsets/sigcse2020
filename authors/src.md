@@ -58,6 +58,14 @@ At SIGCSE, the first round of the competition evaluates the research during a po
 
 Additional competition details, including information about past winners, can be found on the ACM Student Research Competition home page (https://src.acm.org/).
 
+### Round 1: Poster Presentation
+
+Your poster will be displayed for a 4-hour time period Thursday afternoon. You will be expected to “present” your poster at that time and be available during judging. The space available for your poster will be 4 feet high by 8 feet wide, possibly with a small shelf below. Power sources are not available.
+
+### Round 2: Presentation
+
+Students selected to participate in the Round 2 portion of the ACM SRC will have 15 minutes to present their work during one of the Friday afternoon sessions. Additional details about expectations will be provided prior to the conference.
+
 ## After the Conference
 
 Accepted Student Research Competition abstracts (max {{site.data.cfp.details[plural].abstract}}) will be distributed in the SIGCSE Technical Symposium on Computer Science Education proceedings. They will be placed in the ACM Digital Library, where they will remain accessible to thousands of researchers and practitioners worldwide.
