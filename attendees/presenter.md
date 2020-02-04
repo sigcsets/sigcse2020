@@ -83,7 +83,7 @@ Exhibit hall demos will have the following equipment:
 
 All poster sessions (including ACM Student Research Competition poster session) will be in the Exhibit Hall.  Poster boards will have cards in a corner with your poster id number as listed in the program.  Poster boards are double sided, with one poster on each side.  Each poster station will have the following:
 
-* 4" by 8" poster board
+* 4 foot by 8 foot poster board
 * Push pins
 * The poster board will straddle a small skirted table appropriate for handouts 
 

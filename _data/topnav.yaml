@@ -107,6 +107,10 @@
      divider: true
    - name: K12 Roadmap
      link: /attendees/k12-roadmap.html
+   - name: Community College Roadmap
+     link: http://ccecc.acm.org/files/publications/CommunityCollegeRecommendations-SIGCSE2020.pdf
+   - name: International Attendee Roadmap
+     link: /attendees/intl-roadmap.html
      divider: true
 #   - name: Exhibitor Map
 #     link: /info/floorplan.html     
