@@ -11,7 +11,7 @@ Each session consists of three 25-minute paper presentations.  Each presentation
 
 Session chairs should complete the following tasks:
 
-* At the speaker breakfast, introduce yourself and confirm the following:
+* Before the session, connect with the presenters and ensure that you know:
    * pronunciation of speaker name(s)
    * speaker's affiliation(s)
    * speaker's title(s)
@@ -28,7 +28,7 @@ Session chairs should complete the following tasks:
 * If you need to cut of a questioner or discussion, suggest that the discussion resumes after the session is over.
 * Cut off any questions that are belligerent or insulting.  Please let the Program or General Chairs know about the issue.
 * If a speaker is absent or if a speaker finishes before their 25-minutes is over, do NOT start the next paper early! Attendees will time their attendance with the start times listed in the program.
-* Come prepared with a question for each speaker! You can discuss this with your speakers over breakfast.
+* Come prepared with a question for each speaker! You can discuss this with your speakers.
 * At the end of the session, tell attendees what is next.
 * Before leaving the session, sign off on the student volunteer form.
 
@@ -45,7 +45,7 @@ SIGCSE conferences are becoming increasingly diverse, with attendees from all ov
   * Remind the audience to use a microphone to ask questions, so that everyone can hear. Remind them to state their name before speaking, for the benefit of those who cannot see who is speaking. If questions are asked without a microphone, repeat the question into the microphone for the benefit of those using hearing technologies.
   * If there is an interpreter or captioner present, the lighting should be good enough that they can be easily seen by the deaf attendee(s). Explain to presenters that they should speak with a normal tone and pace, unless asked to slow down by the interpreter. When speaking with deaf presenters or attendees, always face them directly and do not face the interpreter.
   * A presenter with a visual impairment may request assistance from a student volunteer to advance slides. To signal remaining time for presenters, ask the presenter what they prefer; a tap or double tap on the table/floor can be an effective alternative to visual cues. The session chair, or a volunteer, can also facilitate question asking.
-  * During the breakfast session make sure to discuss about the accessibility issues with the speakers.
+  * Discuss accessibility issues with the speakers before the session.
 
 If you have any questions about accessibility, please feel free to reach out to this year’s Accessibility Liaison: Mohsen Dorodchi - [accessibility@sigcse2020.org](mailto:accessibility@sigcse2020.org).
 
