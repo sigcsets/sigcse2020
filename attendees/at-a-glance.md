@@ -285,7 +285,7 @@ layout: default
 </tr>
 <tr>
     <td>12:00 pm - 1:45 pm</td>
-    <td>SIGCSE Celebration Lunch</td>
+    <td>SIGCSE 2020 Celebration Lunch</td>
     <td>Oregon Ballroom</td>
 </tr>
 <tr>

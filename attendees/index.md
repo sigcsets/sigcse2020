@@ -221,8 +221,58 @@ Those requesting a letter should allow 7-10 business days to receive it. All req
 Hotel cutoff date for registration rates is February 8th.
 
 <div class="alert alert-info text-center">
-If you need a hotel room for Tuesday night, please book with the Eastlund or DoubleTree.
+Our conference hotels are currently sold out. However, some rooms may open up as cancellations occur before the reservation cutoff date.  The reservation  cutoff date has been extended until February 27th at the Hyatt, and February 17th at the Doubletree Hilton and the Marriott Courtyard.  Hotels area adding rooms to our conference room blocks at their discretion, but be advised these may be higher than the originally quoted conference rate.  Some hotels may also have rooms outside of our conference room block at regular rates.
 </div>
+
+### Hyatt Regency Portland at Convention Center
+
+General Information:
+
+* [Reservation Link](https://www.hyatt.com/en-US/hotel/oregon/hyatt-regency-portland-at-the-oregon-convention-center/pdxrp?corp_id=G-AFCM)
+     * Group Code: g-afcm
+* Address: 375 NE Holladay Street, Portland, Oregon, 97232
+* Phone: 877.803.7534 
+* Hotel Website: hyattregencyportlandocc.com
+
+Rates are:
+
+* $199 for (1) king bed (1 or 2 people)
+* $224 for (2) queen beds (3 people) - 	note:  the KING rooms do have a pull out sofa, so that is an option for 3 guests as well
+* $249 for (2) queen beds (4 people)
+ 
+Dates that group rate is available:
+
+* Tuesday                3/10/20
+* Wednesday         3/11/20
+* Thursday              3/12/20
+* Friday                    3/13/20
+* Saturday              3/14/20
+
+ 
+### Marriott Courtyard Portland Downtown / Convention Center
+
+General Information:
+
+* [Reservation Link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1567721502621&key=GRP&app=resvlink)
+     * Group Code: STSSTSA for (1) Queen
+     * Group Code: STSSTSB for (2) queen
+* Address: 435 NE Wasco St., Portland, OR 97232
+* Phone:  503.234.3200
+* Website: courtyard.com
+
+Rates are:
+
+* $175 for (1) queen bed (1 or 2 people)
+* $175 for (2) queen beds (1 or 2 people)
+ 
+
+Dates that group rate is available:
+
+* Tuesday                3/10/20
+* Wednesday         3/11/20
+* Thursday              3/12/20
+* Friday                    3/13/20
+* Saturday              3/14/20
 
 ### DoubleTree by Hilton - Portland
 
@@ -274,55 +324,7 @@ Dates that group rate is available:
 * Friday                    3/13/20
 * Saturday              3/14/20
 
-### Hyatt Regency Portland at Convention Center
 
-General Information:
-
-* [Reservation Link](https://www.hyatt.com/en-US/hotel/oregon/hyatt-regency-portland-at-the-oregon-convention-center/pdxrp?corp_id=G-AFCM)
-     * Group Code: g-afcm
-* Address: 375 NE Holladay Street, Portland, Oregon, 97232
-* Phone: 877.803.7534 
-* Hotel Website: hyattregencyportlandocc.com
-
-Rates are:
-
-* $199 for (1) king bed (1 or 2 people)
-* $224 for (2) queen beds (3 people) - 	note:  the KING rooms do have a pull out sofa, so that is an option for 3 guests as well
-* $249 for (2) queen beds (4 people)
- 
-Dates that group rate is available:
-
-* Tuesday                3/10/20
-* Wednesday         3/11/20
-* Thursday              3/12/20
-* Friday                    3/13/20
-* Saturday              3/14/20
-
- 
-### Marriott Courtyard Portland Downtown / Convention Center
-
-General Information:
-
-* [Reservation Link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1567721502621&key=GRP&app=resvlink)
-     * Group Code: STSSTSA for (1) Queen
-     * Group Code: STSSTSB for (2) queen
-* Address: 435 NE Wasco St., Portland, OR 97232
-* Phone:  503.234.3200
-* Website: courtyard.com
-
-Rates are:
-
-* $175 for (1) queen bed (1 or 2 people)
-* $175 for (2) queen beds (1 or 2 people)
- 
-
-Dates that group rate is available:
-
-* Tuesday                3/10/20
-* Wednesday         3/11/20
-* Thursday              3/12/20
-* Friday                    3/13/20
-* Saturday              3/14/20
 
 
 

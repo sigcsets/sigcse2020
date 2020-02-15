@@ -28,7 +28,7 @@ fi
 if [ "$1" == "live" ] || [ "$1" == "all" ];
 then
   build _config_live.yaml
-  linkcheck live
+  #linkcheck live
   upload sigcse2020/
 fi
 
@@ -36,6 +36,6 @@ fi
 if [ "$1" == "staging" ] || [ "$1" == "all" ];
 then
   build _config_staging.yaml
-  linkcheck staging
+  #linkcheck staging
   upload sigcse2020/.staging
 fi
