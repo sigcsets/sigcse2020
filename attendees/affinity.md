@@ -8,7 +8,7 @@ With the theme of SIGCSE 2020 being "A Vision for the Next 50 Years," the Sympos
 
 During the lunch break on Friday, March 13, certain session rooms at the Oregon Convention Center will be made available to these affinity groups.  Interested persons are encouraged to purchase lunch at one of the dining options at the OCC or nearby and bring their food back to these rooms for their discussion.  Attendees can use the messaging and bulletin board features in Whova to organize further if they so choose.  While this could simply be a time for affinity groups to mingle and catch up, if there are ideas or action items that come out of these lunches, Symposium leadership and SIGCSE Board members will be available to hear what you have to say!
 
-For this year, we are initially assigning rooms to affinity groups based upon the NSF Broadening Participation categories and large geographic groups.
+For this year, we are initially assigning rooms to affinity groups based upon the NSF Broadening Participation categories.
 
 The first set of groups for SIGCSE 2020 are: African American, Hispanic, LGBTQ, Native American, and Women.
 

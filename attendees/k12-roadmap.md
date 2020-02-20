@@ -53,7 +53,7 @@ Panel
 
 1:45 PM - 3:00 PM, [Session 2D: BPC Initiatives](https://whova.com/embedded/session/sigcs_202003/834482/?view=)
 
-  * 1:45pm - 2:10pm, A State-Wide Effort to Provide Access to Authentic Computer Science Education to Underrepresented Populations
+  * 1:45pm - 2:10pm, Algebra I Before High School as a Gatekeeper to Computer Science Participation
   * 2:10pm - 2:35pm, Promoting and Supporting Computer Science Among Middle School Girls of Color
   * 2:35pm - 3:00pm, Broadening Participation in Computing: The Role of Upward Transfer
 
@@ -159,13 +159,12 @@ Panel
 3:45 PM - 5:00 PM, [Session 6A: Blocks](https://whova.com/embedded/session/sigcs_202003/834614/?view=)
 
   * 3:45pm - 4:10pm, Pythons and Martians and Finches, Oh My! Lessons Learned from a Mandatory 8th Grade Python Class
-  * 4:10pm - 4:35pm, Introducing coding through tabletop board games and their digital instantiations across elementary classrooms and school libraries
   * 4:35pm - 5:00pm, Cluster-Based Analysis of Novice Coding Misconceptions in Block-Based Programming
 
 3:45 PM - 5:00 PM, [Session 6B: High School Experiences](https://whova.com/embedded/session/sigcs_202003/834618/?view=)
   
   * 3:45pm - 4:10pm, Investigating Different Assignment Designs to Promote Collaboration in Block-Based Environments
-  * 4:10pm - 4:35pm, Algebra I Before High School as a Gatekeeper to Computer Science Participation
+  * 4:10pm - 4:35pm, A State-Wide Effort to Provide Access to Authentic Computer Science Education to Underrepresented Populations
   * 4:35pm - 5:00pm, Self-Regulation for High School Learners in a MOOC Computer Science Course
 
 7:00 PM - 10:00 PM, [Workshop #310: Teaching Cybersecurity in CSP (or Any CS Class): Introducing the Security Mindset](https://whova.com/embedded/subsession/sigcs_202003/834386/834396/?view=)
