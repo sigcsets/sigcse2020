@@ -32,3 +32,4 @@ More information about the Affinity Group meetups can be found in Whova.
   * Hyatt Regency Market
   * Citizen Baker (1089 NE Grand Ave, first floor of Hotel Eastlund)
   * Burgerville (1135 NE Martin Luther King Jr Blvd)
+  * Subway (just past Hyatt)
