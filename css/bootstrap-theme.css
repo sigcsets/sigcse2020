@@ -419,6 +419,7 @@ fieldset[disabled] .btn-danger.active {
   background-repeat: repeat-x;
   border-color: #b2dba1;
 }
+
 .alert-info {
   background-image: -webkit-linear-gradient(top, #d9edf7 0%, #b9def0 100%);
   background-image:      -o-linear-gradient(top, #d9edf7 0%, #b9def0 100%);
