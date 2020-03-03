@@ -48,7 +48,7 @@ Again, we thank you for your patience during this time and your understanding as
 We hope to see many of you in Portland next week.  And we look forward to seeing the entire community back together at SIGCSE 2021 in Toronto.
 
 
-### Portland Statement
+### Portland Statement (March 3)
 
 "The Oregon Health Authority, the City of Portland and Travel Portland are all closely monitoring the situation in our community. Portland is currently open for business, and travel is not restricted. According to authorities, the risk of exposure in Portland is still low. That said, things could change, and it is impossible to predict how the situation will unfold in the future. Because of this, we are relying on public health officials to provide the best information and guidance.
 
