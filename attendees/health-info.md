@@ -48,6 +48,40 @@ Again, we thank you for your patience during this time and your understanding as
 We hope to see many of you in Portland next week.  And we look forward to seeing the entire community back together at SIGCSE 2021 in Toronto.
 
 
+### Portland Statement
+
+"The Oregon Health Authority, the City of Portland and Travel Portland are all closely monitoring the situation in our community. Portland is currently open for business, and travel is not restricted. According to authorities, the risk of exposure in Portland is still low. That said, things could change, and it is impossible to predict how the situation will unfold in the future. Because of this, we are relying on public health officials to provide the best information and guidance.
+
+The Oregon Health Authority provides daily updates of the situation in Oregon <[https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx](https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx)>, and you can monitor developments at the national level by visiting the Centers for Disease Control and Prevention’s website for COVID-19<[https://www.cdc.gov/coronavirus/2019-ncov/index.html](https://www.cdc.gov/coronavirus/2019-ncov/index.html)>.
+
+At this time, the Multnomah County<[https://multco.us/health-officer/novel-coronavirus-covid-19](https://multco.us/health-officer/novel-coronavirus-covid-19)> and state health authorities are prioritizing healthy work and travel habits around hygiene and have not advised on any other level of guidance at this point. The CDC is simply encouraging individuals to take the same routine precautions as for the flu:
+
+  *   Avoid contact with sick people.
+  *   Avoid touching your eyes, nose or mouth with unwashed hands.
+  *   Clean your hands often by washing them with soap and water for at least 20 seconds or using an alcohol-based hand sanitizer that contains at 60%–95% alcohol.
+      *   Soap and water should be used if hands are visibly dirty.
+      *   It is especially important to clean hands after going to the bathroom; before eating; and after coughing, sneezing or blowing your nose.
+
+As the situation changes, the CDC will provide updated information and revised guidance, if necessary.
+
+As to SIGCSE 2020 specifically, we will continue to monitor developments and keep you informed of response locally so you can make the best decisions moving forward. The health and safety of your presenters and delegates is our top priority, and we will follow all guidance from local, state and national public health officials. At this time, the local response is encouraging individuals to follow the CDC recommendations listed above.
+
+Travel Portland will be sure to provide relevant updates in as close to real time as possible, The resources shared above and below will utilize real-time updates.
+
+In the meantime, we recommend that you check regularly for updates from the health authorities.
+
+Local Portland/Oregon resources with regular updates on COVID-19 include:
+
+  *   Oregon Health Authority - [https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx](https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx)
+  *   Multnomah County - [https://multco.us/novel-coronavirus-covid-19](https://multco.us/novel-coronavirus-covid-19)
+  *   Portland International Airport - [https://www.flypdx.com/Newsroom/Information-related-to-Coronavirus-COVID-19](https://www.flypdx.com/Newsroom/Information-related-to-Coronavirus-COVID-19)
+
+Additional resources related to COVID-19 that may be helpful include:
+
+  *   CDC’s travel advisories and guidelines - [https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html](https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html)
+  *   CDC’s Travel: FAQ section - [https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html](https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html)"
+
+
 ### SIGCSE 2020 Leadership
 
 Jian Zhang and Mark Sherriff<br>
