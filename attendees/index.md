@@ -191,9 +191,15 @@ This pages provides information on <a href="#registration">registration</a>, <a 
 
 ### Cancellation Policy
 
-Cancellation requests must be made by {{page.cancellation_date}}.
+Cancellation requests must be made by <s>{{page.cancellation_date}}</s> <b>Tuesday, March 10, at 11:59 PM PDT</b>.
 
-A processing fee of US$100 will be assessed. Regrettably cancellations received after the cancellation date cannot be honored. The conference committee recognizes that sometimes last-minute cancellations can't be avoided due to weather, travel disruptions, and/or health issues. However, the conference incurs expenses for which it is liable based on registration counts. Registrants are strongly advised to purchase travel insurance to cover their non-refundable expenses. Also, registrants who find themselves unable to attend should be aware that registrations are transferable, but in general the conference committee cannot assist in finding an appropriate recipient.
+A processing fee of US$100 will be assessed as per the list below. Regrettably cancellations received after the cancellation date cannot be honored. The conference committee recognizes that sometimes last-minute cancellations can't be avoided due to weather, travel disruptions, and/or health issues. However, the conference incurs expenses for which it is liable based on registration counts. Registrants are strongly advised to purchase travel insurance to cover their non-refundable expenses. Also, registrants who find themselves unable to attend should be aware that registrations are transferable, but in general the conference committee cannot assist in finding an appropriate recipient.
+
+- The conference refund policy ([https://sigcse2020.sigcse.org/attendees/#registration](https://sigcse2020.sigcse.org/attendees/#registration) - a refund with $100 processing fee) will be extended through Tuesday, March 10, at 11:59 PM PDT.  To process your cancellation, please email [registration@sigcse2020.org](registration@sigcse2020.org) with the subject line “Cancellation request.”
+
+- Individuals who are explicitly banned from attending because of official government travel bans will be issued full refunds by request to [registration@sigcse2020.org](registration@sigcse2020.org) with the subject line “Government Travel Restriction.”  Requests must be received by Tuesday, March 10, at 11:59 PM PDT.
+
+
 
 
 
