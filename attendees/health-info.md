@@ -4,51 +4,136 @@ showTitle: true
 layout: default
 ---
 
-**Last Update: March 2, 2020**
+**Last Update: March 6, 2020**
+
+## March 6th Update: SIGCSE 2020 Still On
+
+Again, we want to thank everyone for their patience and understanding over the past 10 days as the leadership team and the SIGCSE board have worked through a challenging situation.  We sincerely appreciate those of you that have reached out with words of encouragement as we have constantly discussed and evaluated every option that was suggested with the ACM, our planning company, and our contacts in Portland.
+
+Today, March 6, the SIGCSE board voted for SIGCSE 2020 to continue as planned.  Barring intervention from the government (federal, state, or local), the Oregon Health Authority, or the Oregon Convention Center, the Technical Symposium will happen next week.
 
 
-## March 2 Update: SIGCSE 2020 Will Continue as Planned
 
-First, we would like to thank all of you for your patience while we work through this challenging situation.  We know what the Technical Symposium means to our community and we want to make certain that we are considering all of our options and the associated consequences.  Please know that the leadership team has been in constant communication with the SIGCSE board, the ACM, representatives from Portland, and our planning company for several days as the situation in the US has evolved.
+### Cancellations by Day
+After we sent our update on March 3 with our relaxed cancellation policy, here is how folks responded:
 
-**As of March 2, the decision is to continue with SIGCSE 2020 as planned.**
+- Tuesday, March 3: 44
+- Wednesday, March 4: 38
+- Thursday, March 5: 49
+- Friday, March 6: 115 (as of 4 p.m. EST, including a single group of 45 high school students)
 
-In our deliberations, we looked at the risk assessment from the CDC, guidance from the ACM, advice from our planning company, and what was going on currently in Portland, at the Oregon Convention Center, and with other large conferences and events.  After serious consideration of all available information we have and in consultation with our partners, we believe that the Technical Symposium can go forward as planned with low risk to our attendees.  
+All of the requests through Thursday and some from Friday have been processed through Cvent.  Our current registered number is 1634 after 40 new registrations came in as well.  For reference, the final attendance count at SIGCSE 2019 was 1876.
 
-### SIGCSE 2020 Refund Policy (Updated)
+
+### Program Responses
+Yesterday, the Program Chairs sent out a request for authors to let us know their plans whether they were coming or not.  As of this writing (about 2:00pm EST):
+
+- Total Respondents: 230
+- Will be present: 172 (representing 208 items)
+- Will not be present: 51 (although some noted that they were never coming anyway due to co-authors presenting)
+- Waiting to decide: 7
+- Video presentations: 7 papers out of the 170 accepted papers
+
+Thus, there has been some impact to the program, but not an unreasonable amount and the attendance count is still quite high.  
+
+### General Discussion
+We have heard from several members of the community requesting that we cancel the Technical Symposium.  Canceling an event the size of the Technical Symposium for an organization like ours is incredibly difficult and has severe, lasting implications on the future of the SIG and the other conferences it supports.  We recognize that similar events have canceled with the same amount of notice, but many others are still going on, including events currently planned at the Oregon Convention Center.  
+
+However, let us be abundantly clear:
+
+  1. If you are not feeling well, *STAY HOME*.  It's safer for you and for all the other attendees.
+  2. If you do not feel comfortable coming to Portland for whatever reason, we understand and respect your decision.  Instructions on how to cancel can be found at the end of this email and on the website.
+  3. If you are an author and are not coming, we WILL NOT REMOVE your submission from the proceedings and we have provided information about how to proceed for each track.
+
+Note that we have made some minor additions to the refund policy, specifically with respect to student and exhibitor registrations, which can be found at the end of this email.
+
+We will do everything we can in partnership with the Oregon Convention Center to make the Technical Symposium as safe as possible for attendees:
+- We're instituting a "no handshake rule,"" with attendees encouraged to be creative (elbow bumps, bows, hand-on-heart gestures, etc.).
+- The Oregon Convention Center has increased its precautionary measures including enhancing onsite communications and signage in restrooms regarding preventative actions such as hand washing, placing hand sanitizer stations near entrances, increasing the frequency of cleaning and disinfecting commonly touched objects, and providing ongoing training to staff for best practices to provide a safe and healthy environment.
+- We encourage attendees to bring your own water bottle to refill throughout the week, along with sanitation supplies.
+- As always, there will be an EMT on-site if you feel ill.
+
+We deeply understand that coming to the Technical Symposium is usually the highlight of each of our academic years.  It's a time when we get to not only relax with friends, but also get incredibly excited about our passion for computing education.  It's one of the few times many of us get to see certain friends from across the country and world, catching up and swapping stories and teaching ideas.  The leadership team has been working hard to try to make SIGCSE 2020 special as we kick off the next 50 years of the Technical Symposium by adding new events like the movie night, affinity groups, and a modified celebration lunch on Saturday.  
+
+We sincerely wish that we were getting together under happier circumstances next week.  But we will get together and we will still share our excitement with those attending and with those keeping an eye on social media at home.  We will try to keep everyone engaged via the #sigcse2020 hashtag.  The Technical Symposium will undoubtedly feel different this year, but that does not mean we are not thrilled for you to share the work that you have all spent so much time preparing and polishing.  If you choose not to come for whatever reason, we understand.  We will miss you and hope we will see you at SIGCSE 2021 in Toronto.
+
+
+## SIGCSE 2020 Refund Policy (UPDATED MARCH 6)
 We understand and respect that there will be a portion of our community that will not feel comfortable participating in SIGCSE 2020.  It is our desire to be as accommodating as possible to those who do not feel that they can attend for whatever reason, whether it is based on government or employer restrictions, your own health if you are not feeling well, or personal choice.  However, we also have to acknowledge that at this point, we have made financial obligations that we are contractually required to fulfill.  To that end, our policy regarding refunds is as follows:
 
-- The conference refund policy ([https://sigcse2020.sigcse.org/attendees/#registration](https://sigcse2020.sigcse.org/attendees/#registration) - a refund with $100 processing fee) will be extended through Tuesday, March 10, at 11:59 PM PDT.  To process your cancellation, please email [registration@sigcse2020.org](registration@sigcse2020.org) with the subject line “Cancellation request.”
+- The conference refund policy ([https://sigcse2020.sigcse.org/attendees/#registration](https://sigcse2020.sigcse.org/attendees/#registration) - a refund with $100 processing fee) will be extended through Tuesday, March 10, at 11:59 PM PDT.  To process your cancellation, please email registration@sigcse2020.org with the subject line “Cancellation request.”
 
 - Individuals who are explicitly banned from attending because of official government travel bans will be issued full refunds by request to [registration@sigcse2020.org](registration@sigcse2020.org) with the subject line “Government Travel Restriction.”  Requests must be received by Tuesday, March 10, at 11:59 PM PDT.
 
-If you have already canceled through Cvent, we will retroactively work through the system to issue a refund, per the policy above.  Please allow us sufficient time to identify these individuals and process the refund.
+- Individuals whose registration fees were equivalent to or less than the $100 processing fee (specifically students and exhibitors) will be charged a $25 processing fee instead.
 
-### SIGCSE 2020 Presentation Policy
-We will continue to follow our posted policy about presenter substitutions and no-shows ([https://sigcse2020.sigcse.org/attendees/policies.html](https://sigcse2020.sigcse.org/attendees/policies.html)) with one exception for paper presenters, discussed below.
+- Unfortunately, we cannot offer any refunds to pre-symposium or affiliated events.  Labor and convention center costs for those spaces have already been paid and that money will not be returned to us by the Oregon Convention Center.
 
-If you are a presenting author and decide not to attend SIGCSE 2020, please connect with your co-authors or work with attending colleagues to find someone to cover your presentation. 
+If you have already canceled through Cvent, we will retroactively work through the system to issue a refund, per the policy above.  Also, if you are a student or exhibitor and have canceled, we will also work to issue your corrected refund as soon as possible.  Please allow us sufficient time to identify these individuals and process the refund.
 
-Please let [program@sigcse2020.org](mailto:program@sigcse2020.org) know of any program updates or if a presentation should be canceled. We would appreciate notification by Tuesday, March 10, at 11:59 PM PDT.  In your email please include your presentation title, cc co-authors/presenters, and if there’s a substitute, please cc the substitute so we can verify the substitution.  
+## SIGCSE 2020 Presentation Policy (UPDATED MARCH 5) 
 
-*For Paper Presenters:* If you are the presenting author of a paper and there are no substitutes, we will welcome a 20-minute video presentation.  The presentation must be posted in a location where the Program Chairs and Session Chairs can download it and run it from their laptop - we will be unable to stream presentations.  Please email video links to [program@sigcse2020.org](mailto:program@sigcse2020.org) and ensure we can download the video, not simply play it from the link.
+We request your help by confirming your plans for attending and presenting at the conference by Sunday, March 8th at 11:59pm PDT. This applies to authors of any item that’s part of the conference: pre-symposium events, papers, panels, special sessions, workshops, ACM SRC, BOFs, demos, lightning talks, Nifty assignments, and posters. 
 
-Due to logistical challenges, we will be unable to make these videos public or to live stream other parts of the Technical Symposium.  We will, however, be recording the keynote speakers and will make those videos available after the conference. 
+Please note that if you decide to cancel your registration, that will not change the appearance of your submission in the proceedings.  The proceedings are already available at [https://dl.acm.org/doi/proceedings/10.1145/3328778](https://dl.acm.org/doi/proceedings/10.1145/3328778).
 
-### Information for Attendees
-For those still coming to Portland, we will be taking additional steps to help protect the health of those at the Technical Symposium:
+### Presentation Status Form
+While some of you may have sent us an email about your attendance or presentation, it’s better for our record-keeping if *all* authors complete the following form at your earliest convenience. 
 
-- We’re instituting a “no handshake rule,” with attendees encouraged to be creative (elbow bumps, bows, hand-on-heart gestures, etc.).
-- Extra hand sanitizing stations will be available throughout the Oregon Convention Center.  We encourage attendees to bring your own sanitation supplies.
-- We encourage attendees to bring your own water bottle to refill throughout the week.
-- As always, there will be an EMT on-site if you feel ill.
+Submit by  Sunday, March 8th at 11:59pm PDT - [https://docs.google.com/forms/d/e/1FAIpQLSfshXRzh4bXPRbZ1PPNyKdJy4QVrHFop5PAXukusg0czUYfbg/viewform]( https://docs.google.com/forms/d/e/1FAIpQLSfshXRzh4bXPRbZ1PPNyKdJy4QVrHFop5PAXukusg0czUYfbg/viewform)
 
-Again, we thank you for your patience during this time and your understanding as we work through this challenging situation.  If anything changes, we will inform everyone as soon as possible.  Otherwise, we will plan to send an update at the end of the week regardless.
+Note that this form is NOT a commitment, so you are welcome to update if your situation changes.  But it is helping us better understand impacts to the SIGCSE 2020 program.  We will be updating Whova as we identify video and canceled presentations.  This will take some time as it is a highly manual process.
 
-We hope to see many of you in Portland next week.  And we look forward to seeing the entire community back together at SIGCSE 2021 in Toronto.
+### Substitutions
+Our preference, if you are unable to attend SIGCSE 2020, is to find a substitute for your presentation as per our policies ([https://sigcse2020.sigcse.org/attendees/policies.html](https://sigcse2020.sigcse.org/attendees/policies.html)).  However, this may not be an option, so we are updating our original recommendations for those unable to attend SIGCSE 2020.  
+
+### Overview of Video/Remote Presentation Options
+For tracks with video options (as described below), we request that videos fit within required time-frames and are provided in standard video formats (e.g., mp4). We ask that links to downloadable videos are provided to program@sigcse2020.org and session organizers (for panels/special sessions) by 11:59pm PDT on Tuesday, March 10.  
+
+We have received requests to use services like Zoom or Hangouts.  We will NOT be providing connection services for remote presenters to join.  We will not ban trying remote presentations, but there are NOT wired connections in the room and the wifi may not be sufficient. Our contracted WiFi connection is 3Mbps down.  According to Zoom's info, 1.5 Mbps down and up is the base recommendation, but there will be many people connected.
+
+Due to logistical challenges, we will be unable to make these videos public or to live stream other parts of the Technical Symposium. We will, however, be recording the keynote speakers and will make those videos available after the conference.
+
+### SIGCSE 2020 Track-Specific Guidelines
+
+#### Pre-Symposium Events
+There must be at least one on-site organizer for a pre-symposium event.  Organizers unable to attend may provide a pre-recorded video to their on-site colleagues and the Program & Symposium Chairs or try for remote presentations.   Please work with your co-organizers to determine the best format for the event within organizer constraints. 
+
+#### Papers
+Authors may provide a link to a 20-minute, downloadable video.  Videos must be in a standard playable format.  Please send a download link to program@sigcse2020.org no later than 11:59pm PDT on Tuesday March 10.  The link will be shared with the session chair for your session.
+
+#### Panels & Special Sessions
+There must be at least two attending on-site panelists or special session organizers for the panel or special session to run.  Organizers unable to attend may provide a pre-recorded video to their on-site colleagues and the Program Chairs or try for a remote presentation.   Please work with your co-organizers to determine the best format for the session within organizer constraints.  
+
+Because the value of the panels and special sessions is the interaction with the organizers, we will not be running sessions where there is only one organizer or all organizers are remote.
+
+#### Workshops
+There must be at least one attending on-site workshop organizer for the workshop to run.    Organizers unable to attend may provide a pre-recorded video to their on-site colleagues and the Program Chairs or try for a remote presentation.  Please work with your co-organizers to determine the best format for the session within organizer constraints.  
+
+Because the value of workshops is in the interaction with organizers, we will not be running workshops where no organizers are available - there is no option for an online workshop through the SIGCSE 2020 framework.  If organizers are unable to attend, the workshop will be canceled and workshop fees will be returned to attendees.  Organizers are welcome to share their materials with the community outside of the SIGCSE 2020 framework.
+
+#### ACM Student Research Competition
+ACM SRC presenters must be present to participate in both stages of the SRC.  Students unable to attend SIGCSE 2020 will not be able to participate in the ACM SRC.
+
+#### BOFs
+There must be at least one attending on-site BOF organizer for the BOF to run.    Organizers unable to attend may provide a *very short* pre-recorded video to their on-site colleagues and the Program Chairs or try for a remote presentation.  Please work with your co-organizers to determine the best format for the session within organizer constraints.  
+
+Because the value of BOFs is in the interaction of the community, we will not be running BOFs where no organizers are available to moderate.  
+
+#### Demos
+At least one Demo presenter must be present to participate.  Demos without any on-site presenters will be canceled.
+
+#### Lightning Talks
+Lightning Talk presenters may provide a link to a 5-minute, downloadable video.  Videos must be in a standard playable format.  Please send a download link to [program@sigcse2020.org](mailto:program@sigcse2020.org) AND [demos@sigcse2020.org](demos@sigcse2020.org) no later than 11:59pm PDT on Tuesday March 10.  The video will be incorporated into the Lightning Talks presentation.
+
+#### Nifty Assignments
+Check in with the Nifty Assignments Track Chairs (nifty@sigcse2020.org) for guidelines on the Nifty Assignments Track.
+
+#### Posters
+At least one Poster presenter must be present to participate.  Posters without any on-site presenters (or someone to physically place and remove the poster) will be canceled.
 
 
-### Portland Statement (March 3)
+## Portland Statement (March 3)
 
 "The Oregon Health Authority, the City of Portland and Travel Portland are all closely monitoring the situation in our community. Portland is currently open for business, and travel is not restricted. According to authorities, the risk of exposure in Portland is still low. That said, things could change, and it is impossible to predict how the situation will unfold in the future. Because of this, we are relying on public health officials to provide the best information and guidance.
 
@@ -82,7 +167,7 @@ Additional resources related to COVID-19 that may be helpful include:
   *   CDC’s Travel: FAQ section - [https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html](https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html)"
 
 
-### SIGCSE 2020 Leadership
+## SIGCSE 2020 Leadership
 
 Jian Zhang and Mark Sherriff<br>
 SIGCSE 2020 Symposium Co-Chairs
