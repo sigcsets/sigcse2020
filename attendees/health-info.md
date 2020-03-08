@@ -4,7 +4,23 @@ showTitle: true
 layout: default
 ---
 
-**Last Update: March 6, 2020**
+**Last Update: March 6 & 8, 2020**
+
+  * [March 8 Update](#sigcse-2020-march-8-update-oregon-declares-state-of-emergency)
+  * [March 6 update](#march-6th-update-sigcse-2020-still-on)
+
+## SIGCSE 2020 March 8 Update: Oregon Declares State of Emergency
+
+This morning at 11:00 AM PDT, the Governor of Oregon declared a State of Emergency in order to allocate more funds to address the COVID-19 situation.  From the press conference: 
+
+“This news is concerning for all Oregonians, but my resolve and that of my administration to address this public health crisis is unchanged,” the governor said Sunday. “This emergency declaration gives the Oregon Health Authority and the Office of Emergency Management all the resources at the state’s disposal to stem the spread of this disease. We will do everything it takes, within our power and in coordination with federal and local officials, to keep Oregonians safe.” [https://www.koin.com/news/health/coronavirus/gov-brown-declares-a-state-of-emergency-for-oregon/](https://www.koin.com/news/health/coronavirus/gov-brown-declares-a-state-of-emergency-for-oregon/)
+
+At the present time, large events are not affected; the purpose of the State of Emergency is to free up funds to support Oregon’s response to COVID-19. We currently have staff on the ground in Portland, and en route there, and we are reaching out to our contacts in the locale to understand the impact of the declaration on SIGCSE 2020. We likely will have a more solid understanding of the situation once we reach business hours PDT on Monday, March 9th.
+
+We recognize that some of your institutions have banned travel to locations with declared states of emergency.  Please review your status and ensure your travel plans are in order as soon as possible. If you need to cancel, please email [registration@sigcse2020.org](mailto:registration@sigcse2020.org?subject=Cancellation Request) with the subject line “Cancellation Request” to start the cancellation process.  No explanation is necessary.  If there are program impacts, please cc [program@sigcse2020.org](mailto:program@sigcse2020.org) with specific details, including submission title and session information.
+
+We cannot change our course at this time given the currently available information from Portland.  Our goal is to keep you informed with the latest updates via email, and we will follow up as we have additional clarity about the situation.  We have been working diligently each day to process cancellation requests and program changes. We will communicate with you on Monday as soon as we have additional information with updates on attendee numbers and the impact on the program as we understand it.  If anything changes with our situation before our planned Monday update, we will send something out sooner.
+
 
 ## March 6th Update: SIGCSE 2020 Still On
 
