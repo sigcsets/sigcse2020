@@ -4,10 +4,179 @@ showTitle: true
 layout: default
 ---
 
-**Last Update: March 6 & 8, 2020**
+**Last Update: March 9th**
 
+  * [March 9 Update](#march-9th-update-see-you-in-portland)
   * [March 8 Update](#sigcse-2020-march-8-update-oregon-declares-state-of-emergency)
   * [March 6 update](#march-6th-update-sigcse-2020-still-on)
+  
+## March 9th Update: See you in Portland!
+
+We’re on the ground or en route to Portland.  We are looking forward to SIGCSE 2020 this week!
+
+The Oregon Health Authority has issued guidance that recommends against closing schools and campuses where no cases of COVID-19 are present ([https://content.govdelivery.com/accounts/ORDHS/bulletins/27fffdb](https://content.govdelivery.com/accounts/ORDHS/bulletins/27fffdb)). The Oregon Convention Center has not had any known cases as of March 9, 2020 ([https://www.oregoncc.org/en/venue-2020-coronavirus-covid-19-faq](https://www.oregoncc.org/en/venue-2020-coronavirus-covid-19-faq)). 
+
+**If you are not planning to attend, whether or not you want a refund, PLEASE let us know by the end of the day TODAY (Monday, March 9, PDT), especially if you are scheduled to present at the conference.  We are trying our best to get an accurate picture of participation so we can fully understand the impact on the program and properly organize our people on-site.  The sooner you can inform us, the better. Details about how to send us program updates or cancel your registration are given below.** 
+
+Thank you to everyone who has let us know your status.  If you need to change anything (you’re canceling or you found a substitute), let us know!
+
+Here are our latest numbers for registered attendees and program impacts.  
+
+### REGISTRATION NUMBERS
+
+Cancelations to Date
+  * Tuesday, March 3: 44
+  * Wednesday, March 4: 38
+  * Thursday, March 5: 49
+  * Friday, March 6: 180, including a single group of 45
+  * Saturday, March 7: 56
+  * Sunday, March 8: 152
+  * Monday, March 9: 160 as of 4 pm EDT
+
+Last week, 57 people registered, and 3 have registered today. Our current registered number is approximately 1275.  For reference, the final attendance count at SIGCSE 2019 was 1876. 
+
+
+### PROGRAM NUMBERS
+
+Thank you to all who have let us know about how their situation impacts the program.  We have currently confirmed over half of the presentations, but this number may change.  There are also 15% of sessions that are unknown; we don’t have a clear go/no-go from the author(s) about their session.  Sister and Supporter Sessions are not listed because there is too much in flux to provide concrete details.  We hope to know more tomorrow and are updating Whova as fast as we can.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-dvpl{border-color:inherit;text-align:right;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-0pky">Track</th>
+    <th class="tg-dvpl">COUNT</th>
+    <th class="tg-dvpl">CONFIRMED</th>
+    <th class="tg-dvpl">VIDEO</th>
+    <th class="tg-dvpl">CANCELED</th>
+    <th class="tg-dvpl">UNKNOWN</th>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Pre-Symposium</td>
+    <td class="tg-dvpl">17</td>
+    <td class="tg-dvpl">8 (47%)</td>
+    <td class="tg-dvpl">N/A</td>
+    <td class="tg-dvpl">7 (41%)</td>
+    <td class="tg-dvpl">2 (12%)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Papers</td>
+    <td class="tg-dvpl">171</td>
+    <td class="tg-dvpl">98 (57%)</td>
+    <td class="tg-dvpl">57(33%)</td>
+    <td class="tg-dvpl">0 (0%)</td>
+    <td class="tg-dvpl">16 (9%)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Panels</td>
+    <td class="tg-dvpl">26</td>
+    <td class="tg-dvpl">6 (23%)</td>
+    <td class="tg-dvpl">N/A</td>
+    <td class="tg-dvpl">10 (38%)</td>
+    <td class="tg-dvpl">10 (38%)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Special Sessions</td>
+    <td class="tg-dvpl">12</td>
+    <td class="tg-dvpl">10 (83%)</td>
+    <td class="tg-dvpl">N/A</td>
+    <td class="tg-dvpl">2 (17%)</td>
+    <td class="tg-dvpl">0 (0%)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Workshops</td>
+    <td class="tg-dvpl">28</td>
+    <td class="tg-dvpl">14 (50%)</td>
+    <td class="tg-dvpl">N/A</td>
+    <td class="tg-dvpl">13 (46%)</td>
+    <td class="tg-dvpl">1 (4%)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">ACM SRC</td>
+    <td class="tg-dvpl">25</td>
+    <td class="tg-dvpl">12 (48%)</td>
+    <td class="tg-dvpl">N/A</td>
+    <td class="tg-dvpl">10 (40%)</td>
+    <td class="tg-dvpl">3 (12%)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">BOFs</td>
+    <td class="tg-dvpl">30</td>
+    <td class="tg-dvpl">23 (77%)</td>
+    <td class="tg-dvpl">N/A</td>
+    <td class="tg-dvpl">4 (13%)</td>
+    <td class="tg-dvpl">3 (10%)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Demos</td>
+    <td class="tg-dvpl">10</td>
+    <td class="tg-dvpl">3 (30%)</td>
+    <td class="tg-dvpl">N/A</td>
+    <td class="tg-dvpl">4 (40%)</td>
+    <td class="tg-dvpl">3 (30%)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Lightning Talks</td>
+    <td class="tg-dvpl">19</td>
+    <td class="tg-dvpl">11 (58%)</td>
+    <td class="tg-dvpl">5 (26%)</td>
+    <td class="tg-dvpl">1 (5%)</td>
+    <td class="tg-dvpl">2 (11%)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Nifty</td>
+    <td class="tg-dvpl">6</td>
+    <td class="tg-dvpl">0</td>
+    <td class="tg-dvpl">5 (83%)</td>
+    <td class="tg-dvpl">0 (0%)</td>
+    <td class="tg-dvpl">1 (17%)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Posters</td>
+    <td class="tg-dvpl">114</td>
+    <td class="tg-dvpl">46 (40%)</td>
+    <td class="tg-dvpl">N/A</td>
+    <td class="tg-dvpl">43 (38%)</td>
+    <td class="tg-dvpl">25 (22%)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">TOTAL</td>
+    <td class="tg-dvpl">458</td>
+    <td class="tg-dvpl">232 (51%)</td>
+    <td class="tg-dvpl">67 (15%)</td>
+    <td class="tg-dvpl">92 (20%)</td>
+    <td class="tg-dvpl">67 (15%)</td>
+  </tr>
+</table>
+
+### PROGRAM UPDATES
+For Program updates, please use the following form (if you’ve already filled it out and you have no updates, thank you):
+[https://docs.google.com/forms/d/e/1FAIpQLSfshXRzh4bXPRbZ1PPNyKdJy4QVrHFop5PAXukusg0czUYfbg/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfshXRzh4bXPRbZ1PPNyKdJy4QVrHFop5PAXukusg0czUYfbg/viewform).  You can also cc program@sigcse2020.org on any emails to registration@sigcse2020.org.
+
+### REGISTRATION CANCELLATION PROCESS
+If you need to cancel, please email [registration@sigcse2020.org](mailto:registration@sigcse2020.org?subject=Cancellation Request) with the subject line “Cancellation Request” to start the cancellation process.  No explanation is necessary. 
+
+We look forward to seeing many of you in Portland in a few days!
+
+Sincerely,
+
+Jian Zhang and Mark Sherriff
+SIGCSE 2020 Symposium Co-Chairs
+
+Sarah Heckman, Pam Cutter, and Alvaro Monge
+SIGCSE 2020 Program Co-Chairs
+
+Manuel Pérez-Quiñones
+SIGCSE Technical Symposium Board Liaison
+
+Adrienne Decker
+SIGCSE Board Chair
+
 
 ## SIGCSE 2020 March 8 Update: Oregon Declares State of Emergency
 
