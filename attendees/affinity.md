@@ -26,7 +26,6 @@ More information about the Affinity Group meetups can be found in Whova.
   * LGBTQ - E143 (Currently no leader found)
   * Native American - D133 (Currently no leader found)
   * Women - D135 (Currently no leader found)
-  * Christian - B118 (Added group by email request - leader: Ed Gehringer)
 
 **Quick Food Options:** 
 
