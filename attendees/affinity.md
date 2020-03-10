@@ -5,7 +5,7 @@ layout: default
 ---
 
 __NOTE: With the lower attendance at SIGCSE, leaders for the affinity group sessions.  Individual are still more than welcome to use these spaces to meet, however!__
- 
+
 With the theme of SIGCSE 2020 being "A Vision for the Next 50 Years," the Symposium organizers want to provide space for various affinity groups to meet to discuss issues that are important to them in guiding our community forward.  Think of these as "informal Birds-of-a-Feather sessions."
 
 During the lunch break on Friday, March 13, certain session rooms at the Oregon Convention Center will be made available to these affinity groups.  Interested persons are encouraged to purchase lunch at one of the dining options at the OCC or nearby and bring their food back to these rooms for their discussion.  Attendees can use the messaging and bulletin board features in Whova to organize further if they so choose.  While this could simply be a time for affinity groups to mingle and catch up, if there are ideas or action items that come out of these lunches, Symposium leadership and SIGCSE Board members will be available to hear what you have to say!
@@ -21,11 +21,11 @@ More information about the Affinity Group meetups can be found in Whova.
 
 **Room Assignments:**
 
-  * African American - D137 (No leader current found)
-  * Hispanic - E145 (No leader current found)
-  * LGBTQ - E143 (No leader current found)
-  * Native American - D133 (No leader current found)
-  * Women - D135 (No leader current found)
+  * African American - D137 (Currently no leader found)
+  * Hispanic - E145 (Currently no leader found)
+  * LGBTQ - E143 (Currently no leader found)
+  * Native American - D133 (Currently no leader found)
+  * Women - D135 (Currently no leader found)
   * Christian - B118 (Added group by email request - leader: Ed Gehringer)
 
 **Quick Food Options:** 
