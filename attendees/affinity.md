@@ -4,7 +4,7 @@ showTitle: true
 layout: default
 ---
 
-__NOTE: With the lower attendance at SIGCSE, leaders for the affinity group sessions.  Individual are still more than welcome to use these spaces to meet, however!__
+__NOTE: With the lower attendance at SIGCSE, we do not have leaders for the affinity group sessions and are effectively canceling them.  Individual are still more than welcome to use these spaces to meet, however!__
 
 With the theme of SIGCSE 2020 being "A Vision for the Next 50 Years," the Symposium organizers want to provide space for various affinity groups to meet to discuss issues that are important to them in guiding our community forward.  Think of these as "informal Birds-of-a-Feather sessions."
 

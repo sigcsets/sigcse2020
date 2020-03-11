@@ -73,6 +73,8 @@
   subheads:
    - name: Conference Policies
      link: /attendees/policies.html
+   - name: On-Site Information
+     link: /attendees/on-site.html
      divider: true
 #   - name: Accessibility
 #     link: /attendees/accessibility.html
