@@ -4,11 +4,21 @@ showTitle: true
 layout: default
 ---
 
-**Last Update: March 9th**
+**Last Update: March 12th**
 
+  * [March 12 Update](#march-12th-update-sigcse-2020-is-canceled)
   * [March 9 Update](#march-9th-update-see-you-in-portland)
   * [March 8 Update](#sigcse-2020-march-8-update-oregon-declares-state-of-emergency)
   * [March 6 update](#march-6th-update-sigcse-2020-still-on)
+  
+## March 12th Update: SIGCSE 2020 is CANCELED
+
+Per the mandate of the Governor of Oregon ([https://www.opb.org/news/article/coronavirus-large-gathering-ban-oregon-kate-brown/](https://www.opb.org/news/article/coronavirus-large-gathering-ban-oregon-kate-brown/)), all gatherings of more than 250 people are banned. After consultation with the ACM, we regret to inform you that SIGCSE 2020 is canceled. All events associated with the Technical Symposium for the remainder of the week will not meet.
+
+Please allow the leadership team to determine what our next steps will be. As soon as we have more details, we will share them with you through our usual communication channels (email to registered participants, posting on the conference website, and messages via Whova). We thank you for your patience as we work through the conference cancelation process. 
+
+Continue to observe the recommendations from health agencies to protect yourselves and your communities from getting and spreading respiratory illnesses.
+
   
 ## March 9th Update: See you in Portland!
 
