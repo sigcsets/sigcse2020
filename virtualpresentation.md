@@ -8,13 +8,17 @@ Thank you for the time you put into preparing your work for presentation at the 
 
 We are creating an online portal for sharing content from the SIGCSE 2020 Technical Symposium with the broader community. Participation in this portal is completely voluntary, and the proceedings will NOT be changed whether or not you choose to make your presentation available through this portal.
 
+**We sent an email to all authors with the link for submission.** If you didn't get an email about this option, please email <a href="mailto:program@sigcse2020.org">program@sigcse2020.org</a>
+
 
 ## Form Information
+
+**Deadline: Wednesday, April 22 at 11:45 PM PDT**
 
   - Submitter First Name
   - Submitter Last Name
   - Submitter Email Address
-  - SIGCSE 2020 DOI URL (see https://dl.acm.org/doi/proceedings/10.1145/3328778 to find your DOI URL)
+  - SIGCSE 2020 DOI URL (see <a href="https://dl.acm.org/doi/proceedings/10.1145/3328778">https://dl.acm.org/doi/proceedings/10.1145/3328778</a> to find your DOI URL)
   - Track (e.g. Papers, Panels, Special Sessions, etc.)
   - Link to YouTube video of your presentation
   - Upload supplemental materials in PDF format (i.e., PDF of slides or poster)
@@ -47,6 +51,6 @@ For each presentation, we expect to list the track, title, authors, abstract, a 
 
 ## Timeline
 
-  - Form Submission by Authors: April 3 - April 22
-  - Review of Materials and Creation/Update of Web Portal: April 23 - May 3
-  - Full Launch: May 4
+  - Form Submission by Authors: **April 3 - April 22**
+  - Review of Materials and Creation/Update of Web Portal: **April 23 - May 3**
+  - Full Launch: **May 4**

@@ -1,0 +1,31 @@
+{% for event in site.data.online.papers %}
+  {% if event.type == "Session" %}
+  {% assign anchor = event.title | downcase | remove: ' ' | remove: '!' | remove: '?' | remove: ':' | remove: '(' | remove: ')' | remove: ',' }} %}
+  <hr>
+  <p><a name="{{anchor}}"></a></p>
+  <h2>{{event.title}}</h2>
+  
+  {% elsif event.type == "Sub" %}
+
+  {% assign anchor = event.title | downcase | remove: ' ' | remove: '!' | remove: '?' | remove: ':' | remove: '(' | remove: ')' | remove: ',' }} %}
+
+  <p><a name="{{anchor}}"></a></p>
+  <h3>{{event.title}}</h3>
+  <p><b>Authors</b>: {{event.authors}}</p>
+  <p><b>Abstract</b>:</p> 
+  {{event.abstract}}
+  <a href="{{event.doi-address}}">ACM Digital Library Paper</a>
+  
+  {% if !event.video-link %}
+  <a href="{{event.video-link}}">Presentation</a>
+  {% endif %}
+  
+  {% if !event.supplemental-link %}
+   <a href="{{event.supplemental-link}}">Supplemental Materials</a>
+  {% endif %}
+  {% endif %}
+{% endfor %}
+
+<p>
+
+
