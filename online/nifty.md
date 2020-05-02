@@ -1,5 +1,5 @@
 ---
-title: SIGCSE 2020 Online
+title: SIGCSE 2020 Online - Nifty Assignments
 showTitle: true
 layout: online
 ---

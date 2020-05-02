@@ -1,5 +1,5 @@
 ---
-title: SIGCSE 2020 Online
+title: SIGCSE 2020 Online - Demos
 showTitle: true
 layout: online
 ---
