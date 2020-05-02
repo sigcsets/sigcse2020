@@ -1,9 +1,9 @@
 ---
 title: Platinum Supporter - Google 
 showTitle: true
-layout: default
+layout: online
 ---
-
+<hr>
 <a href="https://edu.google.com/code-with-google/?modal_active=none&story-card_activeEl=enhance-any-subject">
 	<img alt="Google, Inc." src="../../images/supporters/200s/google-200.png" width="200" />
 </a> 

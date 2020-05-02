@@ -1,7 +1,7 @@
 ---
 title: SIGCSE 2020 Online - Papers
 showTitle: true
-layout: default
+layout: online
 ---
 
 <!-- 
