@@ -4,9 +4,6 @@ showTitle: true
 layout: online
 ---
 
-<!-- 
-Source Files Location: data/online
-Headers: track,title,abstract,authors,type,doi-num,doi-address,video-link,supplemental-link
--->
+## Sessions
 
 {% include online/papers.html %}

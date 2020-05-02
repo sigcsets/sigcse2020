@@ -1,22 +1,28 @@
 <ul>
-{% for event in site.data.online.papers-full %}
-  {% if event.type == "Session" %}
+{% for event in site.data.online.posters %}
+  {% if event.type == "Sub" %}
   {% assign anchor = event['title'] | downcase | remove: ' ' | remove: '!' | remove: '?' | remove: ':' | remove: '(' | remove: ')' | remove: ',' | remove: '"'}} %}
     <li><a href="#{{anchor}}">{{ event.title }}</a> </li>
+  {% endif %}
+  {% if event.type == "Session" %}
+  </ul>
+  {% assign anchor = event['title'] | downcase | remove: ' ' | remove: '!' | remove: '?' | remove: ':' | remove: '(' | remove: ')' | remove: ',' }} %}
+  <strong><a href="#{{anchor}}">{{event["title"]}}</a></strong>
+  <ul>
   {% endif %}
 {% endfor %}
 </ul>
 
-{% for event in site.data.online.papers-full %}
+{% for event in site.data.online.posters %}
 
   {% if event.type == "Session" %}
-  {% assign anchor = event.title | downcase | remove: ' ' | remove: '!' | remove: '?' | remove: ':' | remove: '(' | remove: ')' | remove: ','  | remove: '"'}} %}
+  {% assign anchor = event.title | downcase | remove: ' ' | remove: '!' | remove: '?' | remove: ':' | remove: '(' | remove: ')' | remove: ',' }} %}
   <p><a name="{{anchor}}"></a></p>
   <h3>{{event.title}}</h3>
   
   {% elsif event.type == "Sub" %}
 
-  {% assign anchor = event.title | downcase | remove: ' ' | remove: '!' | remove: '?' | remove: ':' | remove: '(' | remove: ')' | remove: ','  | remove: '"'}} %}
+  {% assign anchor = event.title | downcase | remove: ' ' | remove: '!' | remove: '?' | remove: ':' | remove: '(' | remove: ')' | remove: ',' }} %}
 
   <p><a name="{{anchor}}"></a></p>
   <h4>{{event.title}}</h4>
@@ -30,17 +36,10 @@
 		<img alt="ACM DL Paper Link" src={{url}}{{baseurl}}"{{url}}/images/icons/ACM-DL.jpg" width="32" hspace="32" />
 		ACM DL Paper</a>
 	  </div>
-	  {% if !event.video-link %}
-	  <div class="col-md-3">
-		<a href="{{event.doi-address}}">
-		<img alt="YouTube Presentation Link" src="{{url}}/images/icons/youtube_social_icon_red.png" height="32" hspace="32"/>
-		Presentation Video</a>
-	  </div>
-	  {% endif %}
 	  {% if !event.supplemental-link %}
 	  <div class="col-md-4">
 		<a href="{{event.supplemental-link}}">
-		<img alt="Supplemental Materials" src="{{url}}/images/icons/PDF_32.png" hspace="32" />
+		<img alt="YouTube Presentation Link" src="{{url}}/images/icons/PDF_32.png" hspace="32" />
 		Supplemental Materials</a>
 	  </div> 
 	  {% endif %}
@@ -48,6 +47,3 @@
 
   {% endif %}
 {% endfor %}
-
-
-

@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
+  {% include analytics.html %}
+
   {% include head.html %}
 
   <body>
@@ -9,6 +11,10 @@
 
     <div class="wrapper">
       <div class="row">
+	    <!--<div class="col-md-2 col-md-offset-1" >
+		<img alt="SIGCSE 2020 Logo" src="{{url}}/images/logo/sigcse2020-logo-small.png" style="vertical-align:bottom" />
+		</div>
+		<div class="col-md-7">-->
         <div class="col-md-10 col-md-offset-3" >
           {% if page.showTitle == true %}
             <h1>{{page.title}}</h1>
@@ -20,7 +26,7 @@
 			<div class="sidenav">
 				<hr>
 				<a href="../online/index.html">SIGCSE 2020 Online Home</a>
-				<a href="../online/supporters/index.html">SIGCSE Supporters</a>
+				<a href="../online/supporters.html">SIGCSE Supporters</a>
 				<a href="../online/papers.html">Papers</a>
 				<a href="../online/panels-specialsessions.html">Panels & Special Sessions</a>
 				<a href="../online/acm-src.html">ACM Student Research Competition</a>
@@ -32,6 +38,7 @@
 		    </div>
 		</div>
         <div class="col-md-7" >
+		  <hr>
           {{ content }}
         </div> <!-- /col-md-10 content -->
       </div> <!-- /row -->
