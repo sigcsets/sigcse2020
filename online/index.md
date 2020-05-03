@@ -13,7 +13,7 @@ We wish you all the best and look forward to gathering together in person for [S
 
 <div class="row">
   <div class="col-sm-12 text-center">
-  <img src="{{url}}/images/pictures/canceled.jpg"
+  <img src="../images/pictures/canceled.jpg"
      alt="SIGCSE 2020 Chairs after the conference was canceled"
 	 height="400" />
   </div>
@@ -281,23 +281,23 @@ Joel C. Adams, _Calvin University_
 <div class="row">
 
 <div class="col-sm-2 text-center">
-<img src="{{url}}/images/chairs/zhang.jpg" alt="Jian Zhang, SIGCSE 2020 Symposium Co-Chair, Texas Woman's University" height="140px">
+<img src="../images/chairs/zhang.jpg" alt="Jian Zhang, SIGCSE 2020 Symposium Co-Chair, Texas Woman's University" height="140px">
 </div>
 
 <div class="col-sm-2 text-center">
-<img src="{{url}}/images/chairs/sherriff.png" alt="Mark Sherriff, SIGCSE 2020 Symposium Co-Chair, University of Virginia" height="140px">
+<img src="../images/chairs/sherriff.png" alt="Mark Sherriff, SIGCSE 2020 Symposium Co-Chair, University of Virginia" height="140px">
 </div>
 
 <div class="col-sm-2 text-center">
-<img src="{{url}}/images/chairs/heckman.jpg" alt="Sarah Heckman, SIGCSE 2020 Program Co-Chair, NC State University" height="140px">
+<img src="../images/chairs/heckman.jpg" alt="Sarah Heckman, SIGCSE 2020 Program Co-Chair, NC State University" height="140px">
 </div>
 
 <div class="col-sm-2 text-center">
-<img src="{{url}}/images/chairs/monge.jpg" alt="Alvaro Monge, SIGCSE 2020 Program Co-Chair, California State University, Long Beach" height="140px">
+<img src="../images/chairs/monge.jpg" alt="Alvaro Monge, SIGCSE 2020 Program Co-Chair, California State University, Long Beach" height="140px">
 </div>
 
 <div class="col-sm-2 text-center">
-<img src="{{url}}/images/chairs/cutter.jpg" alt="Pamela Cutter, SIGCSE 2020 Program Co-Chair, Kalamazoo College" height="140px">
+<img src="../images/chairs/cutter.jpg" alt="Pamela Cutter, SIGCSE 2020 Program Co-Chair, Kalamazoo College" height="140px">
 </div>
 
 
