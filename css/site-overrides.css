@@ -31,3 +31,23 @@ body { padding-bottom: 70px; }
 .sidenav a:hover {
   color: #919191;
 }
+
+.ctablestyle{
+    border-collapse: collapse;
+	
+	table{
+		border-spacing: 0;
+	}
+	
+	th{
+		border:2px solid #000000;
+		padding: 10px;
+	}
+
+	td{
+		border:1px solid #000000;
+		padding: 10px;
+	}
+	
+}
+
