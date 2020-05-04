@@ -12,7 +12,7 @@ layout: online
 
 <div class="row">
 <div class="col-md-5">
-  <a href="https://youtu.be/V1GO39kX124">
+  <a href="https://drive.google.com/open?id=1xCrgyIMmV7-EsPItYQQ0066YTEGogP63">
   <img alt="Submitting PDF Homework in Gradescope" src="{{url}}/images/icons/PDF_32.png" height="32" hspace="32" vspace="20"/>
 Submitting PDF Homework in Gradescope</a>
 </div>

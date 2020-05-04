@@ -39,21 +39,23 @@ Unlike other disciplines, computer science (CS) does not have an extensive body 
 
 Cloud computing is evolving, from rented infrastructure ("infrastructure as a service") to fully managed services ("platform as a service") that enable the creation of complete workflows in the cloud ("software as a service"). This trend has huge implications for how science and scientific analysis is carried out. For example, cheap, connected sensors ("internet of things") and auto-scaled data analysis open up streaming data analysis and adaptive sensors. In addition, the data that is collected as a result can be analyzed at scale, and much of the data analysis automated due to the increasing ability of machine learning services to understand the unstructured data. This session will highlight resources that will behlp attendees learn more about this exciting field.
 
-[Slides](https://bit.ly/gcoSIGCSEsession2)
+[Slides](https://bit.ly/gcoSIGCSE20session2)
 
 ## Demos
 
-### Demo 1: Recources for Teaching Google Cloud
+### Demo 1: Resources for Teaching Google Cloud
 
 [Online Resources](https://bit.ly/gcoSIGCSEdemo1)
 
 ### Demo 2: Cloud Based Notebooks as a Teaching Tool
 
+If you'd like to use Jupyter-style notebooks in your class without managing your own server, take a look at Colab which provides "a hosted Jupyter notebook service that requires no setup to use and provides free access to computing resources including GPUs. For more information, visit our FAQ at [https://research.google.com/colaboratory/faq.html](https://research.google.com/colaboratory/faq.html).
+
 [Resources](https://bit.ly/gcoSIGCSEdemo2)
 
 ### Demo 3: Grasshopper
 
-[Resources](https://bit.ly/gcoSIGCSEdemo3)
+[Resources](https://bit.ly/gcoSIGCSE20demo3)
 
 ### Demo 4: You can CODE G Suite?!? How?
 
@@ -69,7 +71,7 @@ Cloud computing is evolving, from rented infrastructure ("infrastructure as a se
 
 ### Demo 6: Syncing Data in Realtime with Cloud Firestore
 
-[Resources](https://bit.ly/gcoSIGCSEdemo6)
+[Resources](https://bit.ly/gcoSIGCSE20demo6)
 
 ### Demo 7: Run Serverless Pascal in the Cloud?
 
@@ -77,7 +79,7 @@ Cloud computing is evolving, from rented infrastructure ("infrastructure as a se
 
 ### Demo 8: Intro to Google Cloud Machine Learning APIs
 
-[Resources](https://bit.ly/gcoSIGCSEdemo8)
+[Resources](https://bit.ly/gcoSIGCSE20demo8)
 
 ### Demo 9: Running code on Google Cloud & using our APIs
 
@@ -98,11 +100,11 @@ Cloud computing is evolving, from rented infrastructure ("infrastructure as a se
 
 ### Demo 11: Deploying a Web App to App Engine
 
-[Resources](https://bit.ly/gcoSIGCSEdemo11)
+[Resources](https://bit.ly/gcoSIGCSE20demo11)
 
 ### Demo 12: Google Cloud at Hackathons
 
-[Resources](https://bit.ly/gcoSIGCSEdemo12)
+[Resources](https://bit.ly/gcoSIGCSE20demo12)
 
 ### Demo 13: CSforED: Teacher Preparation for CS Education
 
@@ -115,4 +117,4 @@ Cloud computing is evolving, from rented infrastructure ("infrastructure as a se
 
 ### Serverless Distributed Architecture by Incremental Example
 
-[Resources](https://bit.ly/gcoSIGCSEworkshop1)
+[Resources](https://bit.ly/gcoSIGCSE20workshop1)

@@ -23,7 +23,9 @@ We wish you all the best and look forward to gathering together in person for [S
 
 ### SIGCSE 2020 Supporters
 
-Thank you to our SIGCSE 2020 Supporters!
+Thank you to our SIGCSE 2020 Supporters for making the annual Technical Symposium possible!
+
+Several supporters provided content from their planned sessions as part of SIGCSE 2020 Online. Their sessions can be found on the [Supporters Page](supporters.html).
 
 <div class="row">
 
