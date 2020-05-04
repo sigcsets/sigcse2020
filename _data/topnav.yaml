@@ -1,3 +1,25 @@
+- name: SIGCSE 2020 Online
+  subheads:
+  - name: SIGCSE 2020 Online
+    link: /online/index.html
+  - name: SIGCSE TS Supporters
+    link: /online/supporters.html
+  - name: Papers
+    link: /online/papers.html
+  - name: Panels & Special Sessions
+    link: /online/panels-specialsessions.html
+  - name: ACM SRC
+    link: /online/acm-src.html
+  - name: BoFs
+    link: /online/bofs.html
+  - name: Demos
+    link: /online/demos.html
+  - name: Lightning Talks
+    link: /online/lt.html
+  - name: Nifty Assignments
+    link: /online/nifty.html
+  - name: Posters
+    link: /online/posters.html
 - name: For Authors
   subheads:
   - name: Call for Participation

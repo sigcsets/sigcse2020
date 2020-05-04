@@ -3,13 +3,18 @@ title: SIGCSE 2020 Online
 showTitle: true
 layout: online
 ---
+<div class = "alert alert-info" style="margin-top: 23px">
+    <span class="glyphicon glyphicon-align-left" aria-hidden="true"></span>
+      We will continue to update SIGCSE 2020 Online with more links throughout May!  Keep checking back in!
+</div>
+
 ## SIGCSE 2020 Chairs Welcome!
 
 Welcome to SIGCSE 2020 -- the online version!  While we couldn't meet in person this year due to the COVID-19 pandemic, we are pleased to bring our community together around the awesome papers, submissions, presentations, and materials that our global colleagues prepared for you.  We hope that as we move into the summer months that this online portal of SIGCSE 2020 materials will provide the inspiration, resources, and support that you have come to expect from the SIGCSE Technical Symposium.  
 
 We invite you to engage online, through <a href="{{site.data.social.twitter}}" target="_blank">{% icon twitter %} Twitter</a> (use #sigcse2020online), <a href="{{site.data.social.facebook}}" target="_blank">{% icon facebook %} Facebook</a>, or Whova!
 
-We wish you all the best and look forward to gathering together in person for [SIGCSE 2021](https://sigcse2021.org) in Toronto, Cananda! 
+We wish you all the best and look forward to gathering together in person for [SIGCSE 2021](https://sigcse2021.org) in Toronto, Canada! 
 
 <div class="row">
   <div class="col-sm-12 text-center">
