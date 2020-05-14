@@ -9,11 +9,11 @@ layout: online
 
 ### Codio: Building Scaleable Solutions to Address the Challenges of the Community
 
-**Presenters:** David Gibson, Michael Oudshoorn
+**Presenters:** Elise Deitrick
 
 **Abstract:**
 
-The speakers will describe ABET's recently revised criteria for computing programs including computer science, information technology, information science, and cybersecurity. ABET made significant changes to the curriculum and student outcomes criteria for computing programs in 2018 based on new and updated guidelines from professional computing organizations such as the ACM. The speakers will discuss lessons learned from evaluating computing programs under the revised criteria in 2018 and 2019 including the first programs accredited under the new cybersecurity program criteria. They will also introduce ABET's draft associate cybersecurity program criteria recently developed for 2-year cybersecurity programs. This session will be of particular interest to computing programs considering initial ABET accreditation or seeking reaccreditation in the next few years.
+Codio shares the findings of their 2019 Computer Science Educator survey which illuminated the most challenging aspects of teaching CS today. Combining these practitioner concerns with best practices from research, Codio introduces their (1) fully auto-graded, feedback-rich assessments library, (2) conceptualization of digital content, and (3) learning insights that visualize data across content and students.
 
 <div class="row">
 <div class="col-md-3">
