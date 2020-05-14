@@ -8,7 +8,7 @@ layout: online
 	<img alt="GitHub logo" src="{{url}}/images/supporters/200s/github-education-200.png" width="400" />
 </a>
 
-### Fightin Inertia - Getting from 0% to North of 50%
+### Fighting Inertia - Getting from 0% to North of 50%
 
 **Presenters:** Steve Bitner (University of West Florida)
 
