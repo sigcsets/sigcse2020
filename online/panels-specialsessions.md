@@ -81,7 +81,7 @@ Presentation Video</a>
 </div>
 <div class="col-md-4">
   <a href="https://stevenbitner.github.io/fighting-organizational-inertia/">
-  <img alt="Presentation" src="{{url}}/images/icons/github-mark.png" height="42" hspace="32" vspace="15"/>
+  <img alt="Presentation" src="{{url}}/images/icons/GitHub-Mark.png" height="42" hspace="32" vspace="15"/>
   Presentation Materials</a>
 </div> 
 </div>
