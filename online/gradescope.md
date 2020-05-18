@@ -11,6 +11,11 @@ layout: online
 ### Gradescope Resources
 
 <div class="row">
+<div class="col-md-3">
+  <a href="https://vimeo.com/419971529/24f245fb93">
+  <img alt="YouTube Presentation Link" src="{{url}}/images/icons/youtube_social_icon_red.png" height="32" hspace="32" vspace="20"/>
+Presentation Video</a>
+</div>
 <div class="col-md-5">
   <a href="https://drive.google.com/open?id=1xCrgyIMmV7-EsPItYQQ0066YTEGogP63">
   <img alt="Submitting PDF Homework in Gradescope" src="{{url}}/images/icons/PDF_32.png" height="32" hspace="32" vspace="20"/>
@@ -25,3 +30,4 @@ Submitting PDF Homework in Gradescope</a>
 </div> 
 
 </div>
+

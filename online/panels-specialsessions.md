@@ -63,7 +63,7 @@ Codio Slides w/ Notes</a>
 </div> 
 </div>
 
-### GitHub: Fighting Inertia - Getting from 0% to North of 50%
+### Fighting Inertia - Getting from 0% to North of 50%
 
 **Presenters:** Steve Bitner (University of West Florida)
 
@@ -79,19 +79,21 @@ We will discuss the steps that Steve Bitner, GitHub Campus Advisor, has taken wi
   <img alt="YouTube Presentation Link" src="{{url}}/images/icons/youtube_social_icon_red.png" height="32" hspace="32" vspace="20"/>
 Presentation Video</a>
 </div>
-</div>
-<div class="row">
 <div class="col-md-4">
   <a href="https://stevenbitner.github.io/fighting-organizational-inertia/">
-  <img alt="Presentation" src="{{url}}/images/icons/github-mark.png" height="42" hspace="32" />
+  <img alt="Presentation" src="{{url}}/images/icons/github-mark.png" height="42" hspace="32" vspace="15"/>
   Presentation Materials</a>
 </div> 
-
 </div>
 
-### GitHub: Set up your digital classroom with GitHub Classroom
+
+### Set up your digital classroom with GitHub Classroom
 
 **Presenter:** Arelia Jones
+
+**Abstract:**
+
+Use GitHub Classroom to set up your assignments and automated tests, view students’ progress, and provide feedback, all online. We'll walk you through it.
 
 <div class="row">
 <div class="col-md-3">
@@ -99,11 +101,9 @@ Presentation Video</a>
   <img alt="YouTube Presentation Link" src="{{url}}/images/icons/youtube_social_icon_red.png" height="32" hspace="32" vspace="20"/>
 Presentation Video</a>
 </div>
-</div>
-<div class="row">
 <div class="col-md-4">
   <a href="https://classroom.github.com">
-  <img alt="GitHub Classroom" src="{{url}}/images/icons/github-classroom.svg" hspace="32" />
+  <img alt="GitHub Classroom" src="{{url}}/images/icons/github-classroom.svg" hspace="32" vspace="20" />
 </a>
 </div> 
 
@@ -132,6 +132,11 @@ Cloud computing is evolving, from rented infrastructure ("infrastructure as a se
 ### Gradescope Resources
 
 <div class="row">
+<div class="col-md-3">
+  <a href="https://vimeo.com/419971529/24f245fb93">
+  <img alt="YouTube Presentation Link" src="{{url}}/images/icons/youtube_social_icon_red.png" height="32" hspace="32" vspace="20"/>
+Presentation Video</a>
+</div>
 <div class="col-md-5">
   <a href="https://drive.google.com/open?id=1xCrgyIMmV7-EsPItYQQ0066YTEGogP63">
   <img alt="Submitting PDF Homework in Gradescope" src="{{url}}/images/icons/PDF_32.png" height="32" hspace="32" vspace="20"/>

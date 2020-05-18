@@ -24,19 +24,21 @@ We will discuss the steps that Steve Bitner, GitHub Campus Advisor, has taken wi
   <img alt="YouTube Presentation Link" src="{{url}}/images/icons/youtube_social_icon_red.png" height="32" hspace="32" vspace="20"/>
 Presentation Video</a>
 </div>
-</div>
-<div class="row">
 <div class="col-md-4">
   <a href="https://stevenbitner.github.io/fighting-organizational-inertia/">
-  <img alt="Presentation" src="{{url}}/images/icons/github-mark.png" height="42" hspace="32" />
+  <img alt="Presentation" src="{{url}}/images/icons/github-mark.png" height="42" hspace="32" vspace="15"/>
   Presentation Materials</a>
 </div> 
-
 </div>
+
 
 ### Set up your digital classroom with GitHub Classroom
 
 **Presenter:** Arelia Jones
+
+**Abstract:**
+
+Use GitHub Classroom to set up your assignments and automated tests, view students’ progress, and provide feedback, all online. We'll walk you through it.
 
 <div class="row">
 <div class="col-md-3">
@@ -44,11 +46,9 @@ Presentation Video</a>
   <img alt="YouTube Presentation Link" src="{{url}}/images/icons/youtube_social_icon_red.png" height="32" hspace="32" vspace="20"/>
 Presentation Video</a>
 </div>
-</div>
-<div class="row">
 <div class="col-md-4">
   <a href="https://classroom.github.com">
-  <img alt="GitHub Classroom" src="{{url}}/images/icons/github-classroom.svg" hspace="32" />
+  <img alt="GitHub Classroom" src="{{url}}/images/icons/github-classroom.svg" hspace="32" vspace="20" />
 </a>
 </div> 
 
